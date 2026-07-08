@@ -1,0 +1,5 @@
+priority,area,finding,action,impact
+CRITICAL,Inventory Management,16 SKUs are completely out of stock,Raise emergency purchase orders immediately.,Prevent production line stoppage
+HIGH,Warehouse Operations,"10 warehouses above 90% capacity: Delhi-WH1, Mumbai-WH2, Chennai-WH3, Kolkata-WH4, Hyderabad-WH5, Pune-WH6, Ahmedabad-WH7, Bengaluru-WH8, Jaipur-WH9, Lucknow-WH10",Redistribute inventory to low-utilization warehouses immediately.,Prevent receiving delays and warehouse congestion
+MEDIUM,Logistics,"Regions ['Central', 'East'] have delay rate > 20%",Migrate shipments to BlueDart/DHL. Renegotiate Ekart SLA.,Improve customer on-time delivery by 8–12%
+MEDIUM,Quality Control,Overall return rate is 7.0% (threshold: 5%),Conduct supplier quality audit for top return-generating vendors.,Reduce refund costs and improve customer satisfaction

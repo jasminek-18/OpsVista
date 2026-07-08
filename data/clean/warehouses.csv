@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,region,city,capacity_units,manager,is_active
+1,Delhi-WH1,North,Delhi,8000,Ekavir Garg,1
+2,Mumbai-WH2,West,Mumbai,15000,Chameli Sagar,1
+3,Chennai-WH3,South,Chennai,10000,Keya Choudhury,1
+4,Kolkata-WH4,East,Kolkata,5000,Vedhika Saha,1
+5,Hyderabad-WH5,South,Hyderabad,8000,Falguni Ranganathan,1
+6,Pune-WH6,West,Pune,10000,Ishwar Dass,1
+7,Ahmedabad-WH7,West,Ahmedabad,5000,Laksh Kala,1
+8,Bengaluru-WH8,South,Bengaluru,8000,Avni Pillai,1
+9,Jaipur-WH9,North,Jaipur,12000,Logan Rajagopalan,1
+10,Lucknow-WH10,North,Lucknow,15000,Aarav Karan,1

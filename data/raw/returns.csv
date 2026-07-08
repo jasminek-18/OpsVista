@@ -1,0 +1,674 @@
+return_id,order_id,product_id,return_date,quantity_returned,return_reason,refund_amount,status
+1,7610,28,2024-08-26,3,Damaged in Transit,12457.41,Processed
+2,11141,65,2024-02-22,3,Expired Product,105408.9,Processed
+3,5836,15,2022-07-08,15,Overstock Return,1071.9,Pending
+4,11894,15,2024-08-02,16,Defective Product,1029.28,Pending
+5,10334,11,2022-05-23,62,Expired Product,39107.74,Pending
+6,8183,3,2022-07-09,10,Overstock Return,677.4,Pending
+7,2284,20,2022-10-03,9,Expired Product,158.22,Processed
+8,2665,4,2024-05-03,80,Overstock Return,19652.8,Processed
+9,9248,11,2023-05-15,6,Expired Product,3265.62,Pending
+10,5934,58,2022-12-19,72,Overstock Return,40830.48,Processed
+11,8802,31,2024-11-10,46,Damaged in Transit,56463.62,Rejected
+12,9956,17,2023-06-21,21,Overstock Return,1620.36,Rejected
+13,9811,17,2022-04-28,4,Overstock Return,286.24,Processed
+14,8140,16,2023-12-22,23,Expired Product,1864.38,Rejected
+15,7758,62,2023-02-15,16,Quality Issue,233884.0,Rejected
+16,5732,4,2022-09-06,8,Expired Product,1975.52,Processed
+17,10986,1,2022-10-05,4,Defective Product,1620.6,Rejected
+18,7397,17,2024-05-25,12,Damaged in Transit,840.96,Pending
+19,2702,36,2024-05-14,15,Damaged in Transit,950.25,Rejected
+20,9265,42,2023-03-07,23,Damaged in Transit,34951.95,Processed
+21,2123,31,2023-12-01,88,Defective Product,103421.12,Rejected
+22,9472,13,2022-10-05,19,Quality Issue,529.53,Rejected
+23,11077,19,2023-05-26,53,Damaged in Transit,2749.64,Processed
+24,5304,28,2022-07-11,1,Defective Product,4100.78,Rejected
+25,9653,18,2024-03-02,31,Quality Issue,2758.07,Processed
+26,7859,3,2022-05-08,69,Overstock Return,4395.3,Pending
+27,9544,50,2024-04-16,60,Overstock Return,25928.4,Rejected
+28,3782,2,2024-10-29,28,Wrong Item,3123.4,Processed
+29,157,51,2022-06-01,80,Wrong Item,52326.4,Rejected
+30,8386,14,2023-05-10,48,Quality Issue,5397.12,Pending
+31,10079,22,2023-06-28,33,Quality Issue,3334.65,Pending
+32,2698,24,2022-04-06,36,Damaged in Transit,105295.68,Rejected
+33,1308,21,2023-05-21,21,Expired Product,1451.31,Pending
+34,5070,8,2025-01-30,85,Quality Issue,8352.1,Rejected
+35,1014,55,2024-11-09,77,Damaged in Transit,46365.55,Pending
+36,7935,68,2022-11-12,7,Overstock Return,441720.58,Processed
+37,8116,39,2024-09-16,25,Overstock Return,3680.75,Processed
+38,8299,39,2022-04-18,16,Quality Issue,2178.08,Rejected
+39,5808,15,2022-07-10,1,Wrong Item,69.84,Rejected
+40,8560,24,2024-02-24,21,Quality Issue,66290.28,Processed
+41,5835,36,2023-04-06,39,Quality Issue,2257.32,Pending
+42,8036,22,2023-10-31,83,Expired Product,8802.98,Pending
+43,803,5,2024-12-10,61,Damaged in Transit,28253.98,Processed
+44,8273,17,2023-10-07,18,Damaged in Transit,1377.0,Rejected
+45,6835,5,2024-01-01,52,Quality Issue,23869.56,Pending
+46,10375,23,2022-12-31,13,Quality Issue,45624.8,Pending
+47,3804,9,2024-03-08,13,Expired Product,2511.6,Rejected
+48,2637,6,2023-05-03,7,Wrong Item,1821.89,Processed
+49,7101,22,2023-07-10,59,Defective Product,6209.16,Pending
+50,7496,16,2024-07-29,32,Expired Product,2838.72,Rejected
+51,1985,22,2022-11-15,30,Quality Issue,2880.3,Rejected
+52,10233,10,2024-01-02,24,Damaged in Transit,11811.6,Processed
+53,2130,23,2022-06-06,23,Expired Product,84576.98,Rejected
+54,6984,8,2024-10-11,27,Quality Issue,2476.98,Pending
+55,11083,19,2025-01-17,90,Quality Issue,5301.0,Pending
+56,7188,43,2022-03-27,8,Damaged in Transit,10004.08,Rejected
+57,9165,20,2025-01-03,28,Wrong Item,507.64,Pending
+58,9872,2,2024-07-21,26,Wrong Item,3088.02,Rejected
+59,7495,40,2022-02-06,35,Overstock Return,8614.55,Processed
+60,11847,37,2024-04-04,9,Overstock Return,2101.41,Pending
+61,10673,34,2024-12-26,45,Damaged in Transit,14427.0,Rejected
+62,7939,18,2023-02-27,11,Expired Product,923.89,Pending
+63,2959,67,2022-03-02,69,Wrong Item,911325.09,Rejected
+64,5949,53,2024-10-16,9,Expired Product,7908.75,Pending
+65,3581,9,2024-01-31,6,Quality Issue,1161.0,Processed
+66,4682,59,2024-01-11,17,Quality Issue,4446.18,Processed
+67,5615,18,2023-05-10,9,Quality Issue,702.72,Pending
+68,6255,58,2022-12-14,37,Overstock Return,19172.66,Pending
+69,702,7,2024-08-21,70,Damaged in Transit,41157.9,Rejected
+70,8475,4,2022-12-17,72,Expired Product,17725.68,Rejected
+71,3022,59,2023-06-02,5,Quality Issue,1432.2,Rejected
+72,11010,13,2024-07-07,38,Quality Issue,1007.76,Pending
+73,6676,25,2023-12-17,12,Damaged in Transit,11892.36,Processed
+74,1787,21,2024-10-13,91,Defective Product,6039.67,Pending
+75,1854,21,2022-06-19,13,Wrong Item,847.73,Rejected
+76,4854,41,2024-12-18,52,Overstock Return,84058.0,Processed
+77,10027,8,2024-08-12,4,Damaged in Transit,382.64,Rejected
+78,2228,17,2024-11-15,54,Defective Product,3857.22,Processed
+79,5162,54,2023-04-22,40,Expired Product,8988.4,Rejected
+80,1657,12,2024-12-28,74,Expired Product,10383.68,Pending
+81,9979,16,2024-12-12,23,Quality Issue,2052.75,Pending
+82,9145,35,2025-01-11,6,Expired Product,1888.68,Rejected
+83,7443,1,2025-02-02,4,Damaged in Transit,1507.56,Processed
+84,5266,66,2023-05-20,12,Damaged in Transit,87323.04,Rejected
+85,2070,34,2023-01-11,31,Damaged in Transit,10323.62,Processed
+86,3790,61,2022-12-06,46,Expired Product,327461.12,Pending
+87,9922,46,2023-12-27,7,Defective Product,15182.93,Processed
+88,10462,14,2023-09-26,31,Damaged in Transit,3455.26,Pending
+89,8536,14,2023-12-02,83,Damaged in Transit,8724.96,Processed
+90,6701,4,2022-08-18,49,Damaged in Transit,12035.38,Pending
+91,4256,40,2022-09-24,7,Defective Product,1833.86,Processed
+92,6,29,2024-05-08,18,Wrong Item,29161.98,Pending
+93,10497,27,2024-10-10,98,Expired Product,83816.46,Processed
+94,6868,53,2024-10-19,38,Quality Issue,28704.44,Rejected
+95,2937,6,2023-12-07,17,Overstock Return,4269.72,Processed
+96,7100,38,2024-02-16,6,Defective Product,599.7,Processed
+97,8047,29,2023-08-30,37,Defective Product,61561.71,Pending
+98,55,17,2024-09-08,58,Wrong Item,4201.52,Processed
+99,6831,6,2023-06-22,8,Expired Product,1946.48,Pending
+100,6490,49,2024-03-21,40,Overstock Return,24520.0,Rejected
+101,4894,60,2022-10-16,3,Overstock Return,1200.42,Pending
+102,6031,7,2024-05-15,33,Damaged in Transit,18426.21,Processed
+103,5648,46,2022-03-26,9,Quality Issue,19279.26,Processed
+104,11065,10,2024-04-22,5,Quality Issue,2413.55,Pending
+105,8978,34,2024-09-23,16,Wrong Item,5680.0,Processed
+106,4321,10,2024-04-05,21,Defective Product,10571.19,Processed
+107,8558,14,2022-10-04,1,Overstock Return,103.14,Processed
+108,6671,57,2023-10-25,18,Quality Issue,3688.38,Processed
+109,7071,21,2024-07-18,31,Overstock Return,1984.0,Rejected
+110,9790,1,2024-01-29,16,Wrong Item,6686.88,Pending
+111,7915,20,2024-02-11,28,Expired Product,486.64,Pending
+112,1389,15,2024-07-05,27,Wrong Item,1762.02,Processed
+113,9736,15,2022-11-11,44,Defective Product,2870.12,Pending
+114,8499,15,2023-09-10,16,Overstock Return,1118.24,Processed
+115,10625,55,2022-11-25,69,Expired Product,42724.11,Processed
+116,3856,4,2022-03-05,42,Quality Issue,9798.18,Processed
+117,4335,11,2023-09-06,26,Quality Issue,15635.62,Rejected
+118,6281,20,2024-10-24,28,Defective Product,546.56,Processed
+119,8287,42,2022-09-06,20,Damaged in Transit,30739.4,Pending
+120,3486,36,2023-04-14,74,Defective Product,4018.94,Pending
+121,5048,62,2024-03-21,27,Wrong Item,397835.28,Rejected
+122,5676,58,2024-02-28,53,Wrong Item,26597.52,Pending
+123,6475,9,2022-04-16,20,Quality Issue,4061.0,Processed
+124,11222,9,2024-02-20,25,Expired Product,5220.75,Rejected
+125,9522,21,2023-10-21,2,Expired Product,144.2,Pending
+126,9513,60,2023-09-16,51,Defective Product,22326.78,Processed
+127,6013,20,2022-11-09,83,Overstock Return,1576.17,Pending
+128,10326,53,2025-02-01,1,Defective Product,822.18,Pending
+129,10005,16,2023-01-27,19,Expired Product,1574.91,Processed
+130,11240,18,2024-11-12,21,Wrong Item,1819.86,Processed
+131,7077,1,2024-02-23,11,Wrong Item,4446.75,Pending
+132,8971,30,2022-05-20,37,Defective Product,116101.56,Pending
+133,11476,6,2022-07-16,68,Expired Product,16986.4,Pending
+134,11301,2,2022-07-15,33,Wrong Item,3782.79,Rejected
+135,6295,16,2023-03-24,49,Damaged in Transit,4015.06,Pending
+136,3170,47,2023-11-03,16,Wrong Item,31193.76,Rejected
+137,4185,12,2023-10-19,48,Expired Product,6826.56,Pending
+138,11805,10,2022-05-17,16,Overstock Return,7199.36,Pending
+139,3446,27,2022-09-01,15,Defective Product,12214.95,Pending
+140,10826,16,2024-01-18,11,Defective Product,1000.45,Rejected
+141,628,68,2023-06-12,13,Expired Product,818047.1,Rejected
+142,5944,7,2024-09-08,38,Overstock Return,21090.0,Rejected
+143,9822,5,2022-05-03,28,Expired Product,11610.48,Processed
+144,664,16,2024-07-02,6,Wrong Item,549.42,Processed
+145,8191,11,2023-02-13,17,Defective Product,9242.05,Rejected
+146,5924,4,2024-10-30,15,Defective Product,3916.65,Processed
+147,1292,51,2024-12-08,105,Defective Product,71558.55,Processed
+148,5516,8,2022-11-29,84,Overstock Return,7665.84,Processed
+149,10952,15,2023-09-11,11,Quality Issue,677.05,Rejected
+150,3479,5,2024-05-03,59,Damaged in Transit,25622.52,Pending
+151,5164,44,2024-02-18,25,Overstock Return,3077.5,Pending
+152,10395,12,2024-03-19,16,Overstock Return,2166.24,Pending
+153,9760,16,2022-12-15,36,Defective Product,3077.28,Rejected
+154,10808,17,2022-06-25,9,Defective Product,626.13,Pending
+155,3388,4,2023-12-09,49,Overstock Return,11943.75,Pending
+156,9993,11,2022-06-07,14,Wrong Item,8801.8,Pending
+157,8834,49,2022-12-12,7,Expired Product,4425.75,Processed
+158,409,19,2022-12-05,23,Quality Issue,1177.14,Pending
+159,6240,48,2023-07-27,72,Quality Issue,35035.92,Rejected
+160,6818,15,2024-05-16,25,Quality Issue,1569.0,Pending
+161,8911,32,2022-08-14,48,Quality Issue,49762.08,Processed
+162,3115,20,2023-08-18,74,Overstock Return,1308.32,Rejected
+163,10263,16,2023-06-11,30,Defective Product,2432.1,Processed
+164,1410,18,2024-06-01,51,Damaged in Transit,4089.18,Rejected
+165,6015,37,2023-10-11,63,Wrong Item,14516.46,Pending
+166,7512,28,2023-06-12,66,Defective Product,269039.76,Pending
+167,7794,21,2023-09-01,5,Wrong Item,321.5,Pending
+168,10374,17,2022-04-09,14,Expired Product,997.92,Processed
+169,2189,38,2022-07-27,67,Quality Issue,6764.99,Processed
+170,9485,46,2024-08-18,9,Quality Issue,18383.4,Pending
+171,8078,6,2024-12-26,20,Damaged in Transit,4665.6,Rejected
+172,3595,2,2024-11-05,29,Wrong Item,3004.69,Pending
+173,320,7,2023-01-08,43,Wrong Item,27425.83,Rejected
+174,2091,6,2024-09-03,51,Wrong Item,12301.2,Pending
+175,3197,11,2022-02-23,7,Expired Product,3952.13,Pending
+176,4499,28,2024-02-27,22,Expired Product,87923.44,Pending
+177,1825,14,2023-02-26,4,Expired Product,447.8,Rejected
+178,441,18,2024-12-16,86,Expired Product,6535.14,Processed
+179,9238,3,2022-07-17,24,Wrong Item,1414.56,Rejected
+180,5681,19,2022-09-14,9,Expired Product,479.7,Pending
+181,527,21,2022-04-10,47,Quality Issue,3266.5,Pending
+182,2762,12,2023-02-16,2,Overstock Return,278.02,Processed
+183,4962,10,2024-01-15,2,Damaged in Transit,911.26,Processed
+184,7604,12,2022-03-02,30,Expired Product,4184.1,Processed
+185,2918,24,2023-11-20,11,Quality Issue,34783.21,Rejected
+186,4925,40,2024-01-06,15,Wrong Item,3755.85,Pending
+187,468,1,2024-03-20,15,Quality Issue,5685.45,Processed
+188,4174,10,2022-04-15,28,Quality Issue,13715.8,Rejected
+189,10573,68,2024-06-19,2,Quality Issue,114701.28,Rejected
+190,10752,2,2023-07-01,45,Defective Product,5346.45,Processed
+191,4435,7,2023-04-28,3,Expired Product,1646.4,Rejected
+192,11820,68,2022-05-29,56,Expired Product,3495157.12,Processed
+193,5467,5,2024-07-23,7,Wrong Item,2961.35,Pending
+194,1088,12,2024-06-22,12,Expired Product,1814.52,Rejected
+195,8838,8,2023-06-28,7,Expired Product,702.52,Rejected
+196,41,40,2024-04-27,6,Damaged in Transit,1454.34,Rejected
+197,2222,8,2022-04-29,36,Defective Product,3717.0,Processed
+198,8685,4,2023-09-16,8,Damaged in Transit,1854.72,Pending
+199,585,57,2024-08-08,10,Damaged in Transit,2075.9,Processed
+200,5174,20,2024-08-09,51,Expired Product,877.2,Pending
+201,762,1,2024-08-26,33,Wrong Item,14354.67,Pending
+202,4292,1,2023-07-31,6,Wrong Item,2569.5,Pending
+203,105,37,2024-03-26,23,Expired Product,5428.69,Pending
+204,8241,44,2022-08-28,46,Overstock Return,5920.66,Rejected
+205,1748,15,2023-07-02,30,Wrong Item,2027.7,Pending
+206,2549,5,2023-11-09,39,Defective Product,17804.67,Processed
+207,5257,36,2025-01-16,69,Quality Issue,4340.79,Pending
+208,7836,37,2023-08-03,18,Damaged in Transit,4353.3,Rejected
+209,833,30,2023-10-15,50,Overstock Return,151542.0,Processed
+210,5929,38,2022-05-26,28,Quality Issue,2672.32,Pending
+211,5402,62,2022-11-07,80,Expired Product,1232498.4,Pending
+212,8619,16,2023-11-30,1,Expired Product,89.0,Rejected
+213,6061,47,2023-08-18,15,Wrong Item,26233.2,Processed
+214,3084,44,2024-08-06,10,Defective Product,1235.3,Pending
+215,6656,28,2023-05-09,3,Overstock Return,12889.98,Rejected
+216,3110,19,2023-02-04,15,Defective Product,798.6,Pending
+217,138,17,2024-01-29,12,Damaged in Transit,901.8,Processed
+218,3382,50,2023-05-08,9,Damaged in Transit,3720.96,Pending
+219,3878,11,2022-12-28,16,Quality Issue,9522.4,Processed
+220,4820,48,2023-04-10,17,Damaged in Transit,8052.05,Pending
+221,11263,38,2022-04-12,8,Damaged in Transit,755.28,Rejected
+222,1678,35,2024-05-24,86,Quality Issue,27544.94,Processed
+223,8223,4,2023-09-26,39,Expired Product,9455.55,Pending
+224,7856,11,2022-11-27,5,Defective Product,2900.7,Pending
+225,4638,5,2022-09-07,18,Expired Product,8392.68,Pending
+226,5346,48,2024-12-13,80,Quality Issue,37890.4,Rejected
+227,2583,57,2022-06-08,15,Overstock Return,3483.6,Pending
+228,1476,62,2024-01-04,32,Wrong Item,440405.44,Pending
+229,729,4,2023-10-29,88,Quality Issue,23255.76,Pending
+230,3767,66,2025-01-10,1,Quality Issue,6522.83,Rejected
+231,6204,21,2023-05-27,3,Damaged in Transit,210.75,Processed
+232,11327,16,2024-12-19,2,Damaged in Transit,168.62,Rejected
+233,735,1,2024-08-17,47,Overstock Return,18531.63,Pending
+234,7704,37,2022-08-28,29,Damaged in Transit,6603.01,Rejected
+235,9128,49,2024-12-14,4,Defective Product,2340.4,Processed
+236,7901,59,2024-03-22,14,Wrong Item,3778.46,Processed
+237,2570,10,2024-07-18,55,Expired Product,27645.75,Processed
+238,9290,10,2022-09-01,11,Defective Product,5418.93,Pending
+239,9904,12,2023-08-27,7,Damaged in Transit,953.82,Pending
+240,3297,40,2024-01-04,32,Wrong Item,7544.0,Processed
+241,9818,15,2024-06-13,18,Expired Product,1262.88,Pending
+242,8117,59,2022-12-15,28,Damaged in Transit,6943.72,Pending
+243,7451,66,2023-07-31,70,Quality Issue,508820.2,Rejected
+244,387,45,2022-10-22,2,Quality Issue,4653.14,Processed
+245,19,1,2023-04-25,39,Overstock Return,16183.05,Rejected
+246,10073,20,2024-03-15,40,Expired Product,713.2,Pending
+247,10944,18,2023-06-03,4,Quality Issue,315.4,Pending
+248,11993,10,2023-04-06,33,Defective Product,15015.66,Pending
+249,2,17,2023-01-13,2,Damaged in Transit,141.54,Pending
+250,9041,12,2022-12-01,50,Wrong Item,7127.5,Rejected
+251,7238,12,2023-05-14,31,Quality Issue,4564.44,Pending
+252,2264,12,2022-12-10,39,Defective Product,5348.85,Processed
+253,11759,2,2022-11-20,24,Overstock Return,2638.56,Processed
+254,11836,2,2024-11-21,20,Damaged in Transit,2144.0,Processed
+255,1747,7,2022-05-27,36,Defective Product,21295.8,Pending
+256,11021,66,2022-08-01,12,Defective Product,91405.92,Pending
+257,2651,12,2023-08-20,2,Defective Product,311.06,Pending
+258,3811,62,2024-12-21,3,Wrong Item,45694.38,Pending
+259,9113,15,2024-12-24,11,Defective Product,702.24,Processed
+260,1672,63,2022-02-21,1,Defective Product,35802.38,Processed
+261,1205,17,2024-12-03,43,Damaged in Transit,2955.82,Pending
+262,11032,17,2023-10-29,12,Overstock Return,881.64,Pending
+263,5746,44,2022-04-23,52,Quality Issue,6719.96,Processed
+264,10772,56,2023-04-07,33,Wrong Item,4224.0,Pending
+265,9112,55,2024-01-25,33,Defective Product,18035.16,Pending
+266,6182,2,2022-09-25,2,Damaged in Transit,236.36,Processed
+267,9065,1,2024-01-17,28,Overstock Return,11394.6,Pending
+268,10654,67,2022-12-24,22,Overstock Return,283322.38,Pending
+269,11140,6,2022-04-06,36,Quality Issue,9055.8,Rejected
+270,1144,2,2024-11-28,61,Wrong Item,6889.95,Pending
+271,7760,4,2024-11-13,103,Quality Issue,23309.93,Rejected
+272,3645,10,2023-07-17,28,Wrong Item,13683.6,Rejected
+273,5795,3,2024-12-09,7,Wrong Item,467.81,Rejected
+274,2676,50,2022-04-06,5,Defective Product,2139.55,Rejected
+275,4667,10,2023-02-10,11,Defective Product,4912.27,Pending
+276,805,8,2024-03-16,13,Wrong Item,1218.62,Pending
+277,1595,13,2024-11-03,36,Damaged in Transit,973.8,Processed
+278,8962,11,2024-03-11,62,Damaged in Transit,34968.0,Pending
+279,4039,5,2023-05-16,15,Defective Product,6352.8,Processed
+280,6625,58,2022-07-24,8,Damaged in Transit,4524.48,Rejected
+281,9816,10,2024-03-25,11,Expired Product,5200.8,Pending
+282,9216,16,2022-11-21,6,Overstock Return,485.04,Processed
+283,3387,13,2023-08-29,77,Quality Issue,2206.05,Rejected
+284,1146,15,2022-08-20,1,Damaged in Transit,69.24,Rejected
+285,11951,20,2023-03-31,9,Defective Product,173.52,Rejected
+286,4505,8,2024-11-07,38,Overstock Return,3805.32,Processed
+287,4326,18,2025-01-12,28,Damaged in Transit,2287.04,Rejected
+288,10452,21,2022-05-10,57,Wrong Item,3853.77,Rejected
+289,3156,18,2023-09-03,2,Quality Issue,168.98,Pending
+290,6785,7,2022-02-28,5,Defective Product,2891.0,Pending
+291,1173,11,2024-12-13,50,Defective Product,30262.0,Processed
+292,11883,28,2025-01-13,39,Quality Issue,168055.29,Processed
+293,11499,20,2023-12-22,100,Overstock Return,1944.0,Rejected
+294,1457,67,2025-01-03,124,Wrong Item,1516408.4,Pending
+295,4852,5,2024-09-01,53,Wrong Item,24713.9,Pending
+296,11607,42,2022-04-05,13,Overstock Return,21670.09,Rejected
+297,6147,31,2024-02-07,5,Defective Product,5935.3,Pending
+298,7966,19,2023-08-03,68,Wrong Item,3542.8,Rejected
+299,11244,9,2024-07-14,58,Wrong Item,12076.76,Processed
+300,623,7,2024-07-24,45,Damaged in Transit,27512.55,Processed
+301,10159,63,2023-08-22,30,Defective Product,1161025.2,Processed
+302,8391,1,2022-11-07,23,Expired Product,9390.44,Pending
+303,116,37,2023-02-18,3,Expired Product,710.67,Rejected
+304,3098,10,2022-09-30,9,Overstock Return,4284.99,Rejected
+305,8905,12,2024-12-25,34,Wrong Item,4896.34,Pending
+306,2610,66,2024-08-31,1,Wrong Item,7069.84,Pending
+307,171,24,2022-09-03,6,Quality Issue,18289.74,Rejected
+308,6096,15,2024-01-28,40,Defective Product,2714.4,Processed
+309,4346,22,2022-11-23,40,Overstock Return,4166.8,Pending
+310,4186,48,2022-11-04,59,Expired Product,27220.24,Processed
+311,2629,54,2022-12-31,9,Expired Product,2259.18,Rejected
+312,5132,10,2023-06-06,38,Expired Product,16511.76,Pending
+313,9546,12,2023-03-22,32,Defective Product,4362.56,Processed
+314,9607,60,2024-11-08,81,Wrong Item,31381.83,Processed
+315,8939,54,2022-10-20,23,Expired Product,5942.28,Processed
+316,11562,5,2022-04-01,2,Expired Product,877.22,Pending
+317,9495,17,2022-09-17,13,Damaged in Transit,1007.11,Processed
+318,9721,48,2024-12-02,87,Quality Issue,40900.44,Processed
+319,1421,17,2022-04-11,63,Expired Product,4401.81,Processed
+320,11546,12,2024-01-26,39,Quality Issue,5576.61,Processed
+321,1001,2,2024-10-25,34,Defective Product,3658.06,Processed
+322,10011,31,2022-08-06,18,Quality Issue,20929.14,Processed
+323,52,8,2023-02-11,1,Expired Product,103.32,Rejected
+324,4101,67,2023-10-19,2,Defective Product,24100.2,Pending
+325,1725,4,2022-02-11,31,Expired Product,7082.26,Processed
+326,9234,1,2022-07-23,35,Damaged in Transit,15347.5,Rejected
+327,8160,13,2023-06-13,15,Defective Product,451.35,Pending
+328,65,25,2022-03-16,13,Overstock Return,12542.79,Processed
+329,11432,22,2023-12-06,8,Quality Issue,875.04,Rejected
+330,11747,56,2024-01-17,31,Overstock Return,4302.8,Rejected
+331,1805,26,2022-04-19,10,Overstock Return,42439.4,Processed
+332,2970,6,2022-07-25,1,Quality Issue,245.68,Processed
+333,2342,2,2024-07-06,9,Overstock Return,989.55,Rejected
+334,7207,12,2023-11-22,25,Expired Product,3388.25,Processed
+335,3311,63,2022-03-07,47,Overstock Return,1911319.39,Pending
+336,7796,18,2024-08-31,17,Defective Product,1393.15,Pending
+337,9479,3,2023-01-30,9,Damaged in Transit,595.26,Rejected
+338,4289,7,2022-05-17,40,Overstock Return,23698.0,Pending
+339,4422,37,2022-04-07,13,Quality Issue,2839.72,Rejected
+340,5205,11,2023-09-05,1,Quality Issue,578.49,Rejected
+341,4936,14,2024-05-01,30,Overstock Return,3243.9,Pending
+342,5131,46,2022-08-28,4,Defective Product,8004.44,Processed
+343,2988,1,2022-12-04,80,Defective Product,34944.8,Processed
+344,11540,1,2023-05-05,16,Damaged in Transit,6306.4,Pending
+345,10943,17,2023-01-26,10,Wrong Item,684.3,Rejected
+346,7438,9,2023-08-11,60,Overstock Return,10661.4,Pending
+347,7468,8,2022-05-09,32,Defective Product,2881.6,Pending
+348,10089,5,2022-11-16,50,Overstock Return,20967.0,Pending
+349,7126,22,2023-01-01,43,Defective Product,4693.88,Pending
+350,6318,22,2022-02-13,74,Quality Issue,8295.4,Processed
+351,855,66,2023-09-20,38,Damaged in Transit,291626.44,Processed
+352,6586,16,2022-03-24,1,Defective Product,81.08,Pending
+353,1512,15,2022-05-09,39,Damaged in Transit,2806.83,Processed
+354,6681,9,2022-05-11,52,Quality Issue,9785.36,Pending
+355,11753,11,2023-01-27,8,Defective Product,4822.88,Processed
+356,10466,56,2022-09-13,14,Quality Issue,1694.0,Processed
+357,9134,44,2022-10-27,62,Overstock Return,8520.66,Rejected
+358,9341,13,2024-10-17,47,Defective Product,1253.49,Rejected
+359,6345,21,2023-01-03,2,Expired Product,143.46,Processed
+360,4737,5,2024-01-21,1,Overstock Return,466.64,Rejected
+361,5366,22,2022-10-07,9,Wrong Item,1001.7,Pending
+362,10096,12,2022-12-12,24,Expired Product,3587.76,Pending
+363,7300,68,2022-06-22,53,Quality Issue,3308932.04,Pending
+364,7759,11,2024-01-03,15,Expired Product,8548.2,Pending
+365,10801,15,2023-01-23,2,Wrong Item,131.36,Rejected
+366,2933,1,2024-02-19,3,Expired Product,1240.83,Pending
+367,7673,1,2022-11-03,28,Expired Product,10796.24,Processed
+368,873,13,2024-01-15,49,Damaged in Transit,1291.15,Pending
+369,2914,9,2024-03-08,12,Damaged in Transit,2501.28,Rejected
+370,977,28,2023-07-14,76,Wrong Item,326822.04,Rejected
+371,7679,47,2022-06-11,11,Defective Product,21873.39,Processed
+372,9885,5,2024-12-16,16,Quality Issue,6935.04,Rejected
+373,11934,2,2024-12-07,34,Wrong Item,3488.06,Rejected
+374,10569,51,2022-09-14,50,Damaged in Transit,37306.0,Processed
+375,1221,1,2024-08-04,18,Quality Issue,7384.86,Pending
+376,3735,22,2024-12-02,101,Expired Product,10804.98,Rejected
+377,2804,22,2023-04-04,54,Expired Product,5349.24,Pending
+378,7265,20,2024-02-12,50,Expired Product,887.5,Pending
+379,3810,3,2022-11-07,28,Wrong Item,1785.56,Rejected
+380,9098,4,2023-10-28,20,Wrong Item,5288.4,Rejected
+381,10747,1,2022-12-07,4,Wrong Item,1546.28,Rejected
+382,9142,5,2022-08-22,20,Wrong Item,8831.0,Processed
+383,9880,29,2024-08-23,22,Overstock Return,38655.32,Rejected
+384,7776,32,2022-04-08,6,Wrong Item,6055.74,Pending
+385,7107,67,2022-04-11,84,Quality Issue,1052524.2,Processed
+386,8230,1,2022-02-27,4,Damaged in Transit,1550.24,Pending
+387,33,1,2024-06-18,8,Damaged in Transit,3427.44,Processed
+388,11771,51,2023-03-20,19,Damaged in Transit,12665.02,Pending
+389,4148,18,2024-05-08,5,Defective Product,407.9,Rejected
+390,7813,22,2024-07-09,5,Expired Product,536.1,Rejected
+391,8759,25,2023-05-17,16,Expired Product,15105.92,Processed
+392,758,21,2023-03-17,5,Defective Product,352.3,Rejected
+393,6362,5,2023-10-01,11,Wrong Item,5038.66,Rejected
+394,8593,67,2022-12-23,12,Defective Product,143851.44,Processed
+395,2299,25,2024-05-28,36,Defective Product,34435.08,Pending
+396,5691,24,2023-11-25,20,Quality Issue,59969.8,Processed
+397,11119,13,2024-10-16,11,Wrong Item,292.27,Rejected
+398,10388,64,2022-04-16,5,Damaged in Transit,117082.75,Rejected
+399,3909,61,2022-06-11,5,Overstock Return,33816.8,Processed
+400,9831,41,2024-07-23,18,Overstock Return,29712.96,Pending
+401,5740,2,2023-10-28,71,Expired Product,8317.65,Pending
+402,3587,2,2024-03-31,37,Overstock Return,4081.84,Rejected
+403,4459,21,2023-06-23,9,Overstock Return,587.34,Pending
+404,3399,6,2023-01-01,32,Overstock Return,8127.04,Pending
+405,7744,22,2024-08-27,3,Damaged in Transit,321.96,Pending
+406,1290,60,2023-07-26,44,Damaged in Transit,18762.48,Rejected
+407,2695,3,2024-07-26,14,Expired Product,868.56,Rejected
+408,2900,15,2024-11-16,22,Defective Product,1395.02,Pending
+409,3496,2,2024-02-29,5,Damaged in Transit,563.55,Rejected
+410,8365,11,2024-09-18,62,Overstock Return,36718.26,Rejected
+411,3136,61,2024-07-15,38,Wrong Item,256883.8,Rejected
+412,5360,48,2023-04-21,19,Overstock Return,8153.66,Rejected
+413,10703,11,2024-02-19,10,Damaged in Transit,5856.3,Pending
+414,4266,14,2022-04-14,23,Damaged in Transit,2568.41,Processed
+415,9983,13,2022-02-17,5,Wrong Item,152.0,Processed
+416,8014,45,2022-08-15,26,Defective Product,52871.26,Rejected
+417,11148,3,2023-08-01,18,Defective Product,1157.4,Rejected
+418,1454,16,2022-06-14,16,Expired Product,1256.48,Rejected
+419,10556,23,2023-04-01,2,Damaged in Transit,7352.42,Pending
+420,3807,55,2022-07-08,12,Expired Product,6980.64,Rejected
+421,3861,17,2023-01-30,5,Expired Product,371.4,Rejected
+422,1341,5,2022-02-23,5,Overstock Return,2020.15,Rejected
+423,10472,18,2022-04-10,16,Quality Issue,1262.72,Processed
+424,8596,47,2024-02-13,24,Expired Product,42582.0,Processed
+425,11958,59,2024-01-19,4,Expired Product,1102.76,Processed
+426,8665,42,2022-02-20,35,Damaged in Transit,57394.4,Rejected
+427,11013,6,2023-08-31,30,Quality Issue,7082.7,Pending
+428,10103,21,2022-11-23,13,Quality Issue,900.38,Pending
+429,8775,37,2023-12-02,22,Expired Product,5313.66,Pending
+430,6449,20,2024-10-22,46,Quality Issue,852.84,Rejected
+431,1614,12,2022-12-04,27,Overstock Return,3909.33,Rejected
+432,820,17,2022-09-01,28,Overstock Return,2148.72,Pending
+433,7909,4,2022-04-09,2,Expired Product,459.82,Pending
+434,11022,6,2022-05-18,1,Expired Product,251.17,Pending
+435,11324,8,2023-02-08,5,Defective Product,452.8,Rejected
+436,6628,2,2024-06-03,6,Overstock Return,661.38,Rejected
+437,8157,61,2022-11-10,42,Quality Issue,280317.24,Processed
+438,9994,4,2023-10-02,23,Overstock Return,5272.98,Pending
+439,1828,41,2024-05-21,8,Defective Product,13390.8,Processed
+440,5105,21,2023-11-11,96,Quality Issue,6347.52,Processed
+441,3795,22,2023-05-16,7,Expired Product,674.31,Rejected
+442,5307,60,2024-06-11,14,Wrong Item,5434.94,Processed
+443,6773,36,2024-03-13,7,Damaged in Transit,439.18,Pending
+444,11370,63,2023-07-16,59,Damaged in Transit,2137139.89,Rejected
+445,4362,40,2025-01-08,29,Wrong Item,6817.61,Rejected
+446,1904,20,2023-07-12,7,Overstock Return,124.39,Rejected
+447,1993,15,2023-11-30,28,Defective Product,1991.64,Rejected
+448,1940,16,2022-02-08,12,Quality Issue,953.76,Processed
+449,336,56,2022-12-07,22,Overstock Return,2978.36,Pending
+450,10596,22,2022-08-10,10,Expired Product,992.9,Processed
+451,3077,9,2024-11-08,4,Quality Issue,776.0,Processed
+452,6098,20,2024-05-20,21,Defective Product,400.05,Pending
+453,11646,13,2022-10-29,4,Wrong Item,119.88,Processed
+454,6729,43,2024-01-24,8,Wrong Item,9574.32,Rejected
+455,9925,22,2024-07-06,50,Defective Product,5411.5,Processed
+456,5623,2,2022-04-25,62,Defective Product,7178.36,Pending
+457,897,13,2022-11-05,8,Expired Product,225.76,Pending
+458,8515,33,2023-01-21,22,Expired Product,7635.54,Processed
+459,9511,21,2023-08-21,57,Defective Product,3853.77,Pending
+460,9454,33,2024-07-18,37,Quality Issue,11817.06,Pending
+461,11874,6,2023-02-25,28,Wrong Item,7191.24,Processed
+462,364,19,2023-09-10,49,Damaged in Transit,2542.61,Processed
+463,10636,48,2023-07-17,16,Defective Product,7604.96,Pending
+464,6985,31,2024-11-11,20,Expired Product,22555.0,Processed
+465,10217,36,2022-04-29,46,Expired Product,2719.98,Pending
+466,5176,16,2024-04-10,7,Defective Product,578.48,Pending
+467,9676,9,2023-02-01,25,Damaged in Transit,4923.0,Processed
+468,219,43,2024-02-19,24,Quality Issue,26745.84,Pending
+469,339,10,2022-08-26,6,Expired Product,2940.66,Rejected
+470,6757,27,2024-04-24,22,Quality Issue,16946.6,Processed
+471,8129,52,2023-02-21,35,Expired Product,15604.75,Processed
+472,8457,7,2023-04-17,15,Defective Product,8727.45,Rejected
+473,11106,64,2024-05-06,13,Overstock Return,320237.58,Processed
+474,10040,8,2024-09-21,7,Quality Issue,716.87,Rejected
+475,11034,20,2024-01-15,74,Overstock Return,1346.06,Rejected
+476,403,2,2022-12-19,3,Overstock Return,308.73,Rejected
+477,2832,6,2024-04-16,56,Defective Product,14069.44,Pending
+478,2040,5,2024-10-14,2,Damaged in Transit,836.72,Rejected
+479,1487,16,2024-08-23,7,Defective Product,633.57,Pending
+480,312,6,2022-05-14,39,Quality Issue,10029.63,Rejected
+481,2770,7,2022-10-23,68,Quality Issue,41295.72,Rejected
+482,8610,35,2023-07-16,103,Quality Issue,33971.46,Pending
+483,2410,11,2023-06-05,23,Expired Product,14322.79,Pending
+484,5946,4,2023-03-08,22,Wrong Item,5070.78,Rejected
+485,3480,34,2024-06-16,4,Expired Product,1232.36,Rejected
+486,69,38,2024-09-14,28,Damaged in Transit,2535.4,Rejected
+487,2407,19,2023-03-31,5,Damaged in Transit,295.1,Rejected
+488,10861,2,2022-08-28,12,Damaged in Transit,1349.64,Rejected
+489,5289,8,2022-07-17,62,Wrong Item,5903.02,Rejected
+490,9980,44,2023-02-08,32,Damaged in Transit,4231.36,Rejected
+491,4366,14,2022-11-13,72,Damaged in Transit,7888.32,Rejected
+492,2752,22,2024-11-23,32,Quality Issue,3542.72,Processed
+493,457,48,2022-04-15,13,Damaged in Transit,6225.57,Rejected
+494,3538,66,2024-10-14,60,Wrong Item,408098.4,Processed
+495,11254,3,2024-03-12,44,Quality Issue,2604.8,Pending
+496,3985,68,2024-12-12,115,Damaged in Transit,7400776.7,Processed
+497,1377,26,2024-04-04,11,Quality Issue,46988.81,Rejected
+498,10488,10,2023-09-14,84,Expired Product,38819.76,Processed
+499,4283,2,2023-03-25,17,Wrong Item,1818.15,Rejected
+500,8481,6,2023-01-03,90,Expired Product,23330.7,Rejected
+501,8676,20,2023-12-24,20,Quality Issue,358.6,Processed
+502,9574,34,2022-08-21,22,Damaged in Transit,6899.86,Pending
+503,4630,26,2024-11-24,3,Damaged in Transit,13127.97,Processed
+504,11682,19,2022-10-30,11,Damaged in Transit,610.94,Pending
+505,1386,47,2024-06-25,15,Overstock Return,28928.55,Processed
+506,4984,15,2023-02-13,11,Quality Issue,690.91,Processed
+507,4090,62,2024-05-15,18,Wrong Item,270501.48,Processed
+508,10500,21,2024-08-24,49,Quality Issue,3402.07,Pending
+509,11783,5,2022-02-28,48,Quality Issue,22678.08,Pending
+510,10906,35,2022-11-04,10,Quality Issue,3217.4,Processed
+511,5241,59,2024-03-29,64,Defective Product,18411.52,Rejected
+512,10778,41,2022-03-15,22,Quality Issue,37310.9,Processed
+513,6165,12,2023-01-26,24,Quality Issue,3406.32,Pending
+514,1280,7,2022-06-17,23,Wrong Item,12586.75,Processed
+515,11778,5,2023-10-27,60,Expired Product,27313.2,Pending
+516,573,11,2022-11-24,82,Overstock Return,44567.82,Rejected
+517,4041,3,2022-06-19,8,Quality Issue,492.48,Rejected
+518,9476,10,2024-09-05,14,Wrong Item,6587.56,Rejected
+519,3478,13,2024-03-09,18,Expired Product,478.62,Rejected
+520,4357,16,2024-01-11,9,Wrong Item,766.35,Rejected
+521,10626,16,2023-09-21,25,Overstock Return,2008.0,Rejected
+522,9975,19,2025-02-08,26,Expired Product,1451.84,Pending
+523,10223,22,2022-02-20,6,Expired Product,618.0,Pending
+524,2877,14,2023-09-18,1,Quality Issue,110.61,Processed
+525,3876,61,2022-12-05,32,Expired Product,236871.36,Pending
+526,406,17,2024-08-11,105,Damaged in Transit,7162.05,Processed
+527,2748,1,2024-10-29,28,Wrong Item,10527.72,Pending
+528,11988,57,2024-07-13,20,Overstock Return,4228.0,Rejected
+529,9848,7,2022-01-18,10,Expired Product,5920.4,Rejected
+530,4845,11,2023-05-14,8,Defective Product,4878.64,Processed
+531,5673,3,2022-06-13,32,Wrong Item,2015.04,Processed
+532,1521,1,2022-05-22,34,Quality Issue,13166.84,Rejected
+533,5560,35,2022-12-01,9,Quality Issue,2986.56,Processed
+534,8549,19,2023-07-09,32,Damaged in Transit,1805.76,Pending
+535,6668,36,2023-12-18,7,Quality Issue,427.07,Processed
+536,934,35,2024-08-14,17,Damaged in Transit,5634.82,Pending
+537,2150,5,2024-07-27,7,Damaged in Transit,3180.03,Pending
+538,1693,43,2022-06-26,6,Quality Issue,6898.86,Processed
+539,348,18,2022-06-19,13,Overstock Return,1057.55,Processed
+540,2683,68,2022-09-08,1,Overstock Return,59798.86,Pending
+541,1644,36,2024-12-28,130,Expired Product,7263.1,Rejected
+542,4293,51,2023-03-13,15,Expired Product,9917.25,Processed
+543,10329,13,2024-07-05,12,Overstock Return,333.84,Rejected
+544,2022,5,2023-04-15,7,Wrong Item,3216.08,Processed
+545,5229,26,2022-11-13,8,Defective Product,34239.84,Rejected
+546,3405,1,2024-08-05,7,Expired Product,2846.69,Rejected
+547,6852,12,2024-12-15,6,Defective Product,811.38,Pending
+548,10543,53,2022-08-31,70,Defective Product,58626.4,Pending
+549,7695,46,2022-11-09,23,Overstock Return,51351.41,Processed
+550,9835,13,2024-03-03,38,Wrong Item,1180.66,Rejected
+551,1016,64,2024-07-25,31,Defective Product,772381.12,Processed
+552,10413,20,2022-08-08,23,Defective Product,448.5,Pending
+553,4675,63,2023-12-24,32,Damaged in Transit,1281855.04,Rejected
+554,9190,3,2023-12-24,14,Defective Product,951.44,Pending
+555,10851,12,2024-12-19,36,Quality Issue,5125.32,Processed
+556,1198,23,2023-05-09,6,Overstock Return,21542.58,Pending
+557,3288,14,2024-04-11,34,Quality Issue,3837.58,Rejected
+558,5214,47,2023-02-06,16,Wrong Item,32344.0,Rejected
+559,4967,26,2022-11-09,76,Defective Product,325410.72,Pending
+560,2275,48,2022-03-15,14,Wrong Item,6854.54,Pending
+561,5873,9,2024-07-26,6,Expired Product,1224.48,Pending
+562,8856,37,2023-01-11,82,Expired Product,19373.32,Processed
+563,3406,43,2023-01-09,59,Damaged in Transit,73451.46,Processed
+564,608,44,2022-02-27,19,Damaged in Transit,2600.34,Rejected
+565,5954,12,2023-05-19,18,Wrong Item,2513.52,Pending
+566,11430,22,2024-06-21,16,Quality Issue,1657.12,Rejected
+567,3834,37,2022-05-17,55,Damaged in Transit,12939.85,Pending
+568,10867,15,2024-09-07,2,Quality Issue,143.74,Rejected
+569,2255,1,2023-05-12,54,Overstock Return,20398.5,Pending
+570,4146,12,2024-05-10,37,Damaged in Transit,4957.63,Pending
+571,6195,18,2022-06-18,5,Damaged in Transit,387.5,Pending
+572,2897,6,2023-06-28,3,Defective Product,696.51,Rejected
+573,4255,12,2022-01-25,12,Defective Product,1743.48,Pending
+574,6067,11,2024-09-14,26,Damaged in Transit,15804.88,Processed
+575,6221,7,2024-07-28,88,Overstock Return,56562.0,Pending
+576,1208,35,2024-09-27,40,Expired Product,13149.2,Processed
+577,4169,68,2023-02-13,13,Quality Issue,753740.0,Rejected
+578,8324,45,2024-12-23,68,Wrong Item,153059.84,Processed
+579,10783,32,2023-09-29,5,Wrong Item,5019.2,Processed
+580,10094,21,2023-10-08,29,Wrong Item,1968.52,Processed
+581,2812,6,2023-08-16,88,Defective Product,22867.68,Pending
+582,9284,18,2023-03-23,19,Expired Product,1677.32,Processed
+583,1944,37,2022-12-25,3,Wrong Item,719.85,Rejected
+584,3555,9,2024-12-31,29,Expired Product,5965.59,Pending
+585,1567,5,2022-07-09,82,Overstock Return,39062.34,Processed
+586,754,22,2025-01-14,83,Wrong Item,9053.64,Pending
+587,6558,8,2022-06-26,21,Overstock Return,2121.42,Processed
+588,7464,6,2024-04-11,21,Quality Issue,5521.53,Pending
+589,3696,27,2023-08-04,80,Overstock Return,65664.8,Processed
+590,11832,18,2025-01-15,24,Damaged in Transit,2051.52,Processed
+591,11920,6,2023-04-29,4,Expired Product,985.56,Rejected
+592,101,20,2023-03-01,25,Defective Product,468.0,Processed
+593,1366,14,2022-06-12,22,Overstock Return,2419.56,Processed
+594,4754,43,2022-10-25,31,Wrong Item,35868.86,Pending
+595,766,3,2022-04-01,16,Defective Product,1082.08,Rejected
+596,10926,12,2022-03-02,25,Wrong Item,3719.25,Pending
+597,2206,37,2025-01-16,110,Quality Issue,25547.5,Processed
+598,7516,11,2024-01-18,71,Damaged in Transit,44592.97,Rejected
+599,1765,17,2022-11-28,17,Defective Product,1246.95,Processed
+600,6437,20,2024-03-14,8,Wrong Item,151.36,Pending
+601,6735,53,2022-10-15,4,Damaged in Transit,3338.24,Rejected
+602,2555,9,2022-04-01,18,Expired Product,3259.44,Processed
+603,9002,66,2024-12-16,26,Defective Product,170189.76,Pending
+604,8232,25,2023-02-08,10,Quality Issue,9856.4,Processed
+605,7701,21,2023-07-27,10,Defective Product,681.9,Processed
+606,9215,5,2023-05-16,9,Overstock Return,3721.59,Rejected
+607,3544,3,2024-12-14,22,Damaged in Transit,1338.92,Rejected
+608,6693,9,2023-06-05,10,Defective Product,1779.9,Pending
+609,8320,2,2022-04-05,36,Defective Product,4180.32,Processed
+610,1516,8,2022-08-05,23,Overstock Return,2052.29,Pending
+611,10066,6,2023-03-11,11,Expired Product,2610.19,Rejected
+612,3882,2,2022-05-07,16,Expired Product,1691.04,Pending
+613,8005,55,2024-10-21,26,Damaged in Transit,15637.18,Pending
+614,4149,3,2024-12-09,13,Defective Product,839.8,Rejected
+615,11074,1,2024-03-11,71,Overstock Return,28997.82,Processed
+616,3319,41,2024-02-17,20,Wrong Item,32720.0,Processed
+617,9492,17,2023-09-01,9,Wrong Item,660.96,Pending
+618,1777,66,2024-04-12,18,Wrong Item,125829.72,Pending
+619,11260,32,2022-10-24,35,Damaged in Transit,35143.15,Pending
+620,8174,20,2022-03-18,40,Defective Product,770.8,Rejected
+621,6350,10,2023-11-29,31,Defective Product,14789.48,Rejected
+622,1675,32,2024-09-11,44,Expired Product,47670.04,Pending
+623,10936,10,2022-07-15,40,Defective Product,19683.6,Rejected
+624,1474,43,2025-01-17,8,Expired Product,10416.16,Processed
+625,6812,3,2022-02-25,13,Wrong Item,815.75,Pending
+626,11700,6,2023-12-11,15,Defective Product,3638.4,Pending
+627,121,14,2024-10-05,63,Quality Issue,6191.01,Processed
+628,3177,34,2023-02-03,1,Overstock Return,319.74,Processed
+629,5853,13,2022-08-10,67,Quality Issue,1819.72,Rejected
+630,6669,37,2022-09-12,4,Expired Product,951.32,Rejected
+631,11632,60,2023-11-22,59,Defective Product,25198.31,Rejected
+632,9431,17,2023-10-14,27,Overstock Return,2005.56,Rejected
+633,6887,41,2023-05-02,2,Damaged in Transit,3058.24,Processed
+634,5515,21,2022-10-15,46,Defective Product,3119.26,Pending
+635,6505,42,2022-12-13,14,Damaged in Transit,23444.26,Pending
+636,8423,38,2022-05-07,1,Defective Product,103.19,Rejected
+637,9829,16,2023-10-14,22,Defective Product,1879.24,Processed
+638,8648,39,2024-02-06,21,Expired Product,2836.05,Rejected
+639,8337,7,2024-04-02,39,Overstock Return,22172.67,Rejected
+640,973,23,2024-01-05,39,Quality Issue,126687.21,Rejected
+641,9049,47,2025-01-07,72,Quality Issue,125966.88,Processed
+642,9043,20,2023-06-02,26,Quality Issue,517.14,Pending
+643,7634,27,2022-09-27,27,Damaged in Transit,20286.99,Pending
+644,6800,28,2023-11-22,58,Overstock Return,239775.48,Processed
+645,9803,21,2023-01-13,1,Expired Product,68.09,Rejected
+646,9414,7,2022-03-03,12,Overstock Return,7319.76,Processed
+647,11403,35,2023-07-14,3,Quality Issue,1009.2,Pending
+648,4312,60,2022-10-16,41,Quality Issue,17253.62,Processed
+649,1009,48,2022-11-24,1,Defective Product,470.74,Processed
+650,5328,20,2024-07-12,17,Defective Product,292.23,Pending
+651,4191,26,2023-12-16,5,Quality Issue,22118.45,Pending
+652,9597,11,2024-06-28,17,Overstock Return,10510.59,Rejected
+653,5452,20,2022-08-29,22,Expired Product,386.98,Processed
+654,976,43,2023-09-07,19,Damaged in Transit,24165.91,Processed
+655,8225,1,2022-11-23,71,Defective Product,28314.09,Rejected
+656,8790,24,2024-07-05,9,Overstock Return,27147.51,Rejected
+657,7214,50,2025-01-11,9,Damaged in Transit,3640.14,Pending
+658,4333,45,2025-01-30,43,Expired Product,93104.03,Rejected
+659,1697,9,2024-07-12,35,Defective Product,7277.2,Processed
+660,5088,5,2025-01-10,54,Wrong Item,24586.2,Pending
+661,9010,45,2024-03-21,19,Overstock Return,44761.91,Rejected
+662,2213,45,2023-07-07,32,Quality Issue,72548.8,Rejected
+663,6654,40,2023-08-29,19,Wrong Item,4628.21,Rejected
+664,5771,6,2024-04-20,9,Quality Issue,2264.13,Processed
+665,139,3,2023-07-02,21,Overstock Return,1382.01,Rejected
+666,2726,20,2022-07-28,54,Wrong Item,1038.42,Processed
+667,2823,21,2022-09-07,17,Overstock Return,1145.12,Pending
+668,4129,22,2022-07-01,1,Defective Product,112.47,Rejected
+669,6258,22,2022-01-20,9,Expired Product,1014.03,Processed
+670,7113,20,2023-08-25,12,Damaged in Transit,212.88,Processed
+671,6727,56,2023-03-29,60,Damaged in Transit,7998.6,Processed
+672,5102,41,2023-12-29,17,Overstock Return,29480.38,Processed
+673,11183,14,2024-10-17,13,Wrong Item,1301.17,Pending

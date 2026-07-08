@@ -1,0 +1,411 @@
+product_id,product_name,warehouse_name,velocity,quantity_on_hand,reorder_point,days_of_stock_left,reorder_predicted,urgency,suggested_order_qty,unit_price
+45,Filter Elements,Mumbai-WH2,medium,0,151,0,1,Critical — Stock Out,302,1843.19
+62,Conveyor Belts,Mumbai-WH2,slow,0,64,0,1,Critical — Stock Out,128,11979.0
+59,Stapler,Ahmedabad-WH7,slow,0,74,0,1,Critical — Stock Out,148,223.43
+13,Corrugated Boxes,Ahmedabad-WH7,fast,0,450,0,1,Critical — Stock Out,900,23.9
+24,Resistors,Mumbai-WH2,medium,0,156,0,1,Critical — Stock Out,312,2488.58
+65,Lathe Tools,Ahmedabad-WH7,slow,0,37,0,1,Critical — Stock Out,74,27670.07
+26,Led Modules,Chennai-WH3,medium,0,81,0,1,Critical — Stock Out,162,3414.68
+36,Sodium Hydroxide,Chennai-WH3,medium,0,122,0,1,Critical — Stock Out,244,48.74
+15,Stretch Film,Jaipur-WH9,fast,0,308,0,1,Critical — Stock Out,616,55.61
+17,Foam Sheets,Kolkata-WH4,fast,0,369,0,1,Critical — Stock Out,738,60.89
+42,Drive Belts,Lucknow-WH10,medium,0,166,0,1,Critical — Stock Out,332,1361.32
+22,Shrink Wrap,Delhi-WH1,fast,0,346,0,1,Critical — Stock Out,692,87.14
+33,Acetone,Jaipur-WH9,medium,0,182,0,1,Critical — Stock Out,364,268.72
+3,Copper Wire,Jaipur-WH9,fast,0,249,0,1,Critical — Stock Out,498,52.92
+30,Relay Switches,Hyderabad-WH5,medium,0,122,0,1,Critical — Stock Out,244,2544.95
+45,Filter Elements,Lucknow-WH10,medium,0,151,0,1,Critical — Stock Out,302,1843.19
+54,Fire Extinguishers,Mumbai-WH2,slow,12,62,6,1,High — &lt;7 days,124,199.52
+57,Notebooks,Bengaluru-WH8,slow,14,52,8,1,Medium — &lt;20 days,104,180.13
+50,Gloves,Kolkata-WH4,slow,11,34,10,1,Medium — &lt;20 days,68,364.27
+51,Safety Goggles,Lucknow-WH10,slow,37,78,14,1,Medium — &lt;20 days,156,593.14
+53,Safety Vests,Chennai-WH3,slow,17,34,15,1,Medium — &lt;20 days,68,676.18
+57,Notebooks,Hyderabad-WH5,slow,28,52,16,1,Medium — &lt;20 days,104,180.13
+56,Pens,Hyderabad-WH5,slow,34,64,16,1,Medium — &lt;20 days,128,107.18
+28,Microcontrollers,Lucknow-WH10,medium,105,199,16,1,Medium — &lt;20 days,398,3576.99
+64,Welding Rods,Delhi-WH1,slow,37,66,17,1,Medium — &lt;20 days,132,21228.85
+33,Acetone,Hyderabad-WH5,medium,105,182,17,1,Medium — &lt;20 days,364,268.72
+28,Microcontrollers,Delhi-WH1,medium,133,199,20,1,Low,398,3576.99
+66,Drill Bits,Chennai-WH3,slow,34,50,20,1,Low,100,5919.91
+61,Industrial Pumps,Mumbai-WH2,slow,24,35,21,1,Low,70,5761.33
+58,Toner Cartridges,Delhi-WH1,slow,22,31,21,1,Low,62,446.87
+46,O-Rings,Chennai-WH3,medium,129,175,22,0,Low,0,1794.84
+25,Capacitors,Hyderabad-WH5,medium,111,152,22,0,Low,0,775.46
+54,Fire Extinguishers,Pune-WH6,slow,46,62,22,0,Low,0,199.52
+41,Bearings,Pune-WH6,medium,137,181,23,0,Low,0,1343.94
+62,Conveyor Belts,Jaipur-WH9,slow,50,64,23,0,Low,0,11979.0
+55,Printer Paper,Bengaluru-WH8,slow,24,26,24,0,Low,0,482.23
+56,Pens,Lucknow-WH10,slow,52,64,24,0,Low,0,107.18
+56,Pens,Ahmedabad-WH7,slow,54,64,25,0,Low,0,107.18
+52,Ear Plugs,Ahmedabad-WH7,slow,38,40,28,0,Low,0,396.27
+37,Ethanol,Ahmedabad-WH7,medium,126,135,28,0,Low,0,186.76
+56,Pens,Delhi-WH1,slow,60,64,28,0,Low,0,107.18
+61,Industrial Pumps,Lucknow-WH10,slow,34,35,29,0,Low,0,5761.33
+41,Bearings,Chennai-WH3,medium,182,181,30,0,Low,0,1343.94
+51,Safety Goggles,Mumbai-WH2,slow,78,78,30,0,Low,0,593.14
+62,Conveyor Belts,Lucknow-WH10,slow,63,64,30,0,Low,0,11979.0
+48,Pump Impellers,Bengaluru-WH8,medium,140,132,32,0,Low,0,386.58
+37,Ethanol,Mumbai-WH2,medium,153,135,34,0,Low,0,186.76
+40,Calcium Carbonate,Bengaluru-WH8,medium,171,150,34,0,Low,0,209.53
+31,Transformers,Lucknow-WH10,medium,176,149,35,0,Low,0,975.59
+59,Stapler,Hyderabad-WH5,slow,87,74,35,0,Low,0,223.43
+41,Bearings,Delhi-WH1,medium,216,181,36,0,Low,0,1343.94
+9,Wood Planks,Jaipur-WH9,fast,574,460,37,0,Low,0,160.98
+25,Capacitors,Delhi-WH1,medium,185,152,37,0,Low,0,775.46
+56,Pens,Mumbai-WH2,slow,79,64,37,0,Low,0,107.18
+67,Hydraulic Cylinders,Pune-WH6,slow,39,29,39,0,Low,0,10556.16
+45,Filter Elements,Jaipur-WH9,medium,197,151,39,0,Low,0,1843.19
+44,Gear Sets,Pune-WH6,medium,139,108,39,0,Low,0,110.54
+55,Printer Paper,Kolkata-WH4,slow,40,26,40,0,Low,0,482.23
+53,Safety Vests,Bengaluru-WH8,slow,45,34,40,0,Low,0,676.18
+28,Microcontrollers,Chennai-WH3,medium,268,199,40,0,Low,0,3576.99
+4,Iron Ore,Hyderabad-WH5,fast,530,385,41,0,Low,0,204.78
+14,Bubble Wrap,Jaipur-WH9,fast,633,448,42,0,Low,0,88.48
+54,Fire Extinguishers,Ahmedabad-WH7,slow,87,62,42,0,Low,0,199.52
+31,Transformers,Jaipur-WH9,medium,207,149,42,0,Low,0,975.59
+47,Shaft Couplings,Hyderabad-WH5,medium,242,171,42,0,Low,0,1555.05
+54,Fire Extinguishers,Chennai-WH3,slow,86,62,42,0,Low,0,199.52
+23,Circuit Boards,Kolkata-WH4,medium,122,87,42,0,Low,0,2867.69
+31,Transformers,Delhi-WH1,medium,216,149,43,0,Low,0,975.59
+68,Pneumatic Valves,Kolkata-WH4,slow,69,48,43,0,Low,0,51381.38
+43,Hydraulic Seals,Hyderabad-WH5,medium,153,104,44,0,Low,0,1002.76
+5,Zinc Ingots,Jaipur-WH9,fast,563,386,44,0,Low,0,367.06
+67,Hydraulic Cylinders,Bengaluru-WH8,slow,44,29,44,0,Low,0,10556.16
+38,Hydrochloric Acid,Jaipur-WH9,medium,187,126,45,0,Low,0,81.32
+42,Drive Belts,Jaipur-WH9,medium,250,166,45,0,Low,0,1361.32
+39,Ammonia Solution,Delhi-WH1,medium,186,121,46,0,Low,0,114.76
+4,Iron Ore,Ahmedabad-WH7,fast,607,385,47,0,Low,0,204.78
+53,Safety Vests,Mumbai-WH2,slow,53,34,47,0,Low,0,676.18
+64,Welding Rods,Lucknow-WH10,slow,106,66,48,0,Low,0,21228.85
+40,Calcium Carbonate,Lucknow-WH10,medium,244,150,49,0,Low,0,209.53
+59,Stapler,Delhi-WH1,slow,124,74,50,0,Low,0,223.43
+65,Lathe Tools,Pune-WH6,slow,62,37,50,0,Low,0,27670.07
+57,Notebooks,Lucknow-WH10,slow,88,52,51,0,Low,0,180.13
+23,Circuit Boards,Ahmedabad-WH7,medium,147,87,51,0,Low,0,2867.69
+28,Microcontrollers,Ahmedabad-WH7,medium,335,199,51,0,Low,0,3576.99
+49,Safety Helmets,Jaipur-WH9,slow,87,50,52,0,Low,0,488.06
+54,Fire Extinguishers,Lucknow-WH10,slow,107,62,52,0,Low,0,199.52
+41,Bearings,Hyderabad-WH5,medium,311,181,52,0,Low,0,1343.94
+47,Shaft Couplings,Delhi-WH1,medium,305,171,54,0,Low,0,1555.05
+41,Bearings,Bengaluru-WH8,medium,328,181,54,0,Low,0,1343.94
+1,Steel Rods,Pune-WH6,fast,745,416,54,0,Low,0,337.74
+55,Printer Paper,Ahmedabad-WH7,slow,55,26,55,0,Low,0,482.23
+29,Power Adapters,Ahmedabad-WH7,medium,194,106,55,0,Low,0,1469.44
+63,Cnc Parts,Jaipur-WH9,slow,73,39,56,0,Low,0,31385.79
+66,Drill Bits,Bengaluru-WH8,slow,94,50,56,0,Low,0,5919.91
+66,Drill Bits,Mumbai-WH2,slow,94,50,56,0,Low,0,5919.91
+55,Printer Paper,Delhi-WH1,slow,56,26,56,0,Low,0,482.23
+66,Drill Bits,Kolkata-WH4,slow,93,50,56,0,Low,0,5919.91
+14,Bubble Wrap,Mumbai-WH2,fast,829,448,56,0,Low,0,88.48
+62,Conveyor Belts,Kolkata-WH4,slow,121,64,57,0,Low,0,11979.0
+31,Transformers,Mumbai-WH2,medium,282,149,57,0,Low,0,975.59
+48,Pump Impellers,Delhi-WH1,medium,253,132,57,0,Low,0,386.58
+37,Ethanol,Chennai-WH3,medium,262,135,58,0,Low,0,186.76
+47,Shaft Couplings,Bengaluru-WH8,medium,331,171,58,0,Low,0,1555.05
+28,Microcontrollers,Kolkata-WH4,medium,382,199,58,0,Low,0,3576.99
+65,Lathe Tools,Delhi-WH1,slow,72,37,58,0,Low,0,27670.07
+63,Cnc Parts,Ahmedabad-WH7,slow,76,39,58,0,Low,0,31385.79
+13,Corrugated Boxes,Lucknow-WH10,fast,869,450,58,0,Low,0,23.9
+12,Carbon Fiber,Kolkata-WH4,fast,680,352,58,0,Low,0,121.17
+66,Drill Bits,Hyderabad-WH5,slow,98,50,59,0,Low,0,5919.91
+31,Transformers,Bengaluru-WH8,medium,294,149,59,0,Low,0,975.59
+36,Sodium Hydroxide,Pune-WH6,medium,238,122,59,0,Low,0,48.74
+40,Calcium Carbonate,Pune-WH6,medium,294,150,59,0,Low,0,209.53
+38,Hydrochloric Acid,Lucknow-WH10,medium,246,126,59,0,Low,0,81.32
+51,Safety Goggles,Jaipur-WH9,slow,156,78,60,0,Low,0,593.14
+66,Drill Bits,Lucknow-WH10,slow,100,50,60,0,Low,0,5919.91
+36,Sodium Hydroxide,Ahmedabad-WH7,medium,245,122,60,0,Low,0,48.74
+57,Notebooks,Delhi-WH1,slow,105,52,61,0,Low,0,180.13
+22,Shrink Wrap,Ahmedabad-WH7,fast,714,346,62,0,Low,0,87.14
+33,Acetone,Ahmedabad-WH7,medium,382,182,63,0,Low,0,268.72
+11,Titanium Alloy,Lucknow-WH10,fast,541,257,63,0,Low,0,486.99
+24,Resistors,Lucknow-WH10,medium,329,156,63,0,Low,0,2488.58
+50,Gloves,Pune-WH6,slow,71,34,63,0,Low,0,364.27
+46,O-Rings,Hyderabad-WH5,medium,373,175,64,0,Low,0,1794.84
+34,Sulfuric Acid,Hyderabad-WH5,medium,243,114,64,0,Low,0,279.61
+49,Safety Helmets,Kolkata-WH4,slow,108,50,65,0,Low,0,488.06
+26,Led Modules,Bengaluru-WH8,medium,177,81,66,0,Low,0,3414.68
+38,Hydrochloric Acid,Ahmedabad-WH7,medium,279,126,66,0,Low,0,81.32
+7,Rubber Sheets,Mumbai-WH2,fast,798,361,66,0,Low,0,495.29
+24,Resistors,Chennai-WH3,medium,356,156,68,0,Low,0,2488.58
+51,Safety Goggles,Pune-WH6,slow,178,78,68,0,Low,0,593.14
+42,Drive Belts,Mumbai-WH2,medium,374,166,68,0,Low,0,1361.32
+51,Safety Goggles,Bengaluru-WH8,slow,180,78,69,0,Low,0,593.14
+47,Shaft Couplings,Mumbai-WH2,medium,391,171,69,0,Low,0,1555.05
+14,Bubble Wrap,Ahmedabad-WH7,fast,1037,448,69,0,Low,0,88.48
+32,Display Panels,Bengaluru-WH8,medium,248,106,70,0,Low,0,910.85
+33,Acetone,Kolkata-WH4,medium,428,182,71,0,Low,0,268.72
+39,Ammonia Solution,Pune-WH6,medium,285,121,71,0,Low,0,114.76
+40,Calcium Carbonate,Delhi-WH1,medium,353,150,71,0,Low,0,209.53
+22,Shrink Wrap,Hyderabad-WH5,fast,828,346,72,0,Low,0,87.14
+60,Files,Ahmedabad-WH7,slow,96,40,72,0,Low,0,337.41
+25,Capacitors,Pune-WH6,medium,363,152,72,0,Low,0,775.46
+14,Bubble Wrap,Chennai-WH3,fast,1085,448,73,0,Low,0,88.48
+51,Safety Goggles,Chennai-WH3,slow,189,78,73,0,Low,0,593.14
+66,Drill Bits,Delhi-WH1,slow,121,50,73,0,Low,0,5919.91
+34,Sulfuric Acid,Kolkata-WH4,medium,279,114,73,0,Low,0,279.61
+46,O-Rings,Lucknow-WH10,medium,427,175,73,0,Low,0,1794.84
+45,Filter Elements,Delhi-WH1,medium,365,151,73,0,Low,0,1843.19
+17,Foam Sheets,Bengaluru-WH8,fast,914,369,74,0,Low,0,60.89
+56,Pens,Pune-WH6,slow,161,64,75,0,Low,0,107.18
+13,Corrugated Boxes,Kolkata-WH4,fast,1122,450,75,0,Low,0,23.9
+11,Titanium Alloy,Kolkata-WH4,fast,646,257,75,0,Low,0,486.99
+11,Titanium Alloy,Hyderabad-WH5,fast,655,257,76,0,Low,0,486.99
+42,Drive Belts,Ahmedabad-WH7,medium,422,166,76,0,Low,0,1361.32
+59,Stapler,Chennai-WH3,slow,189,74,77,0,Low,0,223.43
+19,Hdpe Bags,Lucknow-WH10,fast,1047,406,77,0,Low,0,45.95
+51,Safety Goggles,Hyderabad-WH5,slow,199,78,77,0,Low,0,593.14
+64,Welding Rods,Mumbai-WH2,slow,171,66,78,0,Low,0,21228.85
+68,Pneumatic Valves,Ahmedabad-WH7,slow,125,48,78,0,Low,0,51381.38
+35,Isopropanol,Lucknow-WH10,medium,280,108,78,0,Low,0,261.82
+68,Pneumatic Valves,Pune-WH6,slow,126,48,79,0,Low,0,51381.38
+64,Welding Rods,Pune-WH6,slow,173,66,79,0,Low,0,21228.85
+49,Safety Helmets,Pune-WH6,slow,131,50,79,0,Low,0,488.06
+4,Iron Ore,Jaipur-WH9,fast,1027,385,80,0,Low,0,204.78
+64,Welding Rods,Jaipur-WH9,slow,175,66,80,0,Low,0,21228.85
+20,Kraft Paper,Bengaluru-WH8,fast,652,238,82,0,Low,0,15.38
+49,Safety Helmets,Delhi-WH1,slow,136,50,82,0,Low,0,488.06
+63,Cnc Parts,Bengaluru-WH8,slow,108,39,83,0,Low,0,31385.79
+60,Files,Delhi-WH1,slow,111,40,83,0,Low,0,337.41
+64,Welding Rods,Ahmedabad-WH7,slow,183,66,83,0,Low,0,21228.85
+38,Hydrochloric Acid,Kolkata-WH4,medium,347,126,83,0,Low,0,81.32
+43,Hydraulic Seals,Chennai-WH3,medium,290,104,84,0,Low,0,1002.76
+46,O-Rings,Pune-WH6,medium,496,175,85,0,Low,0,1794.84
+18,Wooden Pallets,Mumbai-WH2,fast,1162,408,85,0,Low,0,68.55
+9,Wood Planks,Kolkata-WH4,fast,1308,460,85,0,Low,0,160.98
+13,Corrugated Boxes,Bengaluru-WH8,fast,1275,450,85,0,Low,0,23.9
+67,Hydraulic Cylinders,Lucknow-WH10,slow,86,29,86,0,Low,0,10556.16
+21,Zip Lock Bags,Jaipur-WH9,fast,823,285,87,0,Low,0,57.28
+55,Printer Paper,Hyderabad-WH5,slow,88,26,88,0,Low,0,482.23
+10,Glass Panels,Ahmedabad-WH7,fast,1284,439,88,0,Low,0,390.1
+42,Drive Belts,Kolkata-WH4,medium,490,166,89,0,Low,0,1361.32
+32,Display Panels,Delhi-WH1,medium,314,106,89,0,Low,0,910.85
+26,Led Modules,Jaipur-WH9,medium,239,81,89,0,Low,0,3414.68
+35,Isopropanol,Chennai-WH3,medium,323,108,90,0,Low,0,261.82
+10,Glass Panels,Pune-WH6,fast,1319,439,90,0,Low,0,390.1
+62,Conveyor Belts,Bengaluru-WH8,slow,193,64,90,0,Low,0,11979.0
+9,Wood Planks,Delhi-WH1,fast,1394,460,91,0,Low,0,160.98
+58,Toner Cartridges,Bengaluru-WH8,slow,95,31,92,0,Low,0,446.87
+41,Bearings,Ahmedabad-WH7,medium,555,181,92,0,Low,0,1343.94
+67,Hydraulic Cylinders,Chennai-WH3,slow,92,29,92,0,Low,0,10556.16
+24,Resistors,Kolkata-WH4,medium,484,156,93,0,Low,0,2488.58
+52,Ear Plugs,Mumbai-WH2,slow,125,40,94,0,Low,0,396.27
+17,Foam Sheets,Jaipur-WH9,fast,1153,369,94,0,Low,0,60.89
+7,Rubber Sheets,Lucknow-WH10,fast,1145,361,95,0,Low,0,495.29
+36,Sodium Hydroxide,Hyderabad-WH5,medium,385,122,95,0,Low,0,48.74
+53,Safety Vests,Ahmedabad-WH7,slow,109,34,96,0,Low,0,676.18
+24,Resistors,Bengaluru-WH8,medium,506,156,97,0,Low,0,2488.58
+46,O-Rings,Ahmedabad-WH7,medium,563,175,97,0,Low,0,1794.84
+52,Ear Plugs,Hyderabad-WH5,slow,130,40,98,0,Low,0,396.27
+44,Gear Sets,Hyderabad-WH5,medium,353,108,98,0,Low,0,110.54
+7,Rubber Sheets,Bengaluru-WH8,fast,1192,361,99,0,Low,0,495.29
+44,Gear Sets,Bengaluru-WH8,medium,358,108,99,0,Low,0,110.54
+6,Plastic Pellets,Jaipur-WH9,fast,1441,436,99,0,Low,0,209.87
+33,Acetone,Pune-WH6,medium,609,182,100,0,Low,0,268.72
+16,Packing Tape,Chennai-WH3,fast,1091,326,100,0,Low,0,70.54
+57,Notebooks,Kolkata-WH4,slow,174,52,100,0,Low,0,180.13
+33,Acetone,Delhi-WH1,medium,610,182,101,0,Low,0,268.72
+25,Capacitors,Mumbai-WH2,medium,523,152,103,0,Low,0,775.46
+35,Isopropanol,Jaipur-WH9,medium,376,108,104,0,Low,0,261.82
+46,O-Rings,Jaipur-WH9,medium,606,175,104,0,Low,0,1794.84
+31,Transformers,Ahmedabad-WH7,medium,519,149,104,0,Low,0,975.59
+1,Steel Rods,Mumbai-WH2,fast,1466,416,106,0,Low,0,337.74
+55,Printer Paper,Chennai-WH3,slow,106,26,106,0,Low,0,482.23
+31,Transformers,Pune-WH6,medium,524,149,106,0,Low,0,975.59
+34,Sulfuric Acid,Chennai-WH3,medium,408,114,107,0,Low,0,279.61
+62,Conveyor Belts,Pune-WH6,slow,228,64,107,0,Low,0,11979.0
+61,Industrial Pumps,Ahmedabad-WH7,slow,126,35,108,0,Low,0,5761.33
+49,Safety Helmets,Mumbai-WH2,slow,180,50,108,0,Low,0,488.06
+60,Files,Hyderabad-WH5,slow,145,40,109,0,Low,0,337.41
+14,Bubble Wrap,Kolkata-WH4,fast,1645,448,110,0,Low,0,88.48
+17,Foam Sheets,Mumbai-WH2,fast,1356,369,110,0,Low,0,60.89
+46,O-Rings,Mumbai-WH2,medium,647,175,111,0,Low,0,1794.84
+17,Foam Sheets,Pune-WH6,fast,1369,369,111,0,Low,0,60.89
+30,Relay Switches,Kolkata-WH4,medium,451,122,111,0,Low,0,2544.95
+57,Notebooks,Mumbai-WH2,slow,195,52,112,0,Low,0,180.13
+6,Plastic Pellets,Hyderabad-WH5,fast,1647,436,113,0,Low,0,209.87
+60,Files,Bengaluru-WH8,slow,151,40,113,0,Low,0,337.41
+4,Iron Ore,Lucknow-WH10,fast,1447,385,113,0,Low,0,204.78
+27,Sensors,Lucknow-WH10,medium,484,127,114,0,Low,0,679.91
+60,Files,Mumbai-WH2,slow,155,40,116,0,Low,0,337.41
+20,Kraft Paper,Pune-WH6,fast,923,238,116,0,Low,0,15.38
+24,Resistors,Hyderabad-WH5,medium,603,156,116,0,Low,0,2488.58
+7,Rubber Sheets,Chennai-WH3,fast,1391,361,116,0,Low,0,495.29
+7,Rubber Sheets,Hyderabad-WH5,fast,1413,361,117,0,Low,0,495.29
+37,Ethanol,Hyderabad-WH5,medium,525,135,117,0,Low,0,186.76
+47,Shaft Couplings,Chennai-WH3,medium,680,171,119,0,Low,0,1555.05
+30,Relay Switches,Mumbai-WH2,medium,490,122,120,0,Low,0,2544.95
+32,Display Panels,Kolkata-WH4,medium,425,106,120,0,Low,0,910.85
+25,Capacitors,Bengaluru-WH8,medium,606,152,120,0,Low,0,775.46
+33,Acetone,Lucknow-WH10,medium,736,182,121,0,Low,0,268.72
+56,Pens,Bengaluru-WH8,slow,260,64,122,0,Low,0,107.18
+39,Ammonia Solution,Jaipur-WH9,medium,491,121,122,0,Low,0,114.76
+12,Carbon Fiber,Chennai-WH3,fast,1449,352,123,0,Low,0,121.17
+53,Safety Vests,Hyderabad-WH5,slow,139,34,123,0,Low,0,676.18
+23,Circuit Boards,Delhi-WH1,medium,357,87,123,0,Low,0,2867.69
+52,Ear Plugs,Pune-WH6,slow,164,40,123,0,Low,0,396.27
+36,Sodium Hydroxide,Mumbai-WH2,medium,506,122,124,0,Low,0,48.74
+23,Circuit Boards,Bengaluru-WH8,medium,359,87,124,0,Low,0,2867.69
+37,Ethanol,Jaipur-WH9,medium,559,135,124,0,Low,0,186.76
+50,Gloves,Delhi-WH1,slow,141,34,124,0,Low,0,364.27
+18,Wooden Pallets,Jaipur-WH9,fast,1682,408,124,0,Low,0,68.55
+35,Isopropanol,Hyderabad-WH5,medium,451,108,125,0,Low,0,261.82
+63,Cnc Parts,Delhi-WH1,slow,162,39,125,0,Low,0,31385.79
+35,Isopropanol,Kolkata-WH4,medium,449,108,125,0,Low,0,261.82
+18,Wooden Pallets,Kolkata-WH4,fast,1716,408,126,0,Low,0,68.55
+36,Sodium Hydroxide,Lucknow-WH10,medium,513,122,126,0,Low,0,48.74
+67,Hydraulic Cylinders,Mumbai-WH2,slow,126,29,126,0,Low,0,10556.16
+58,Toner Cartridges,Jaipur-WH9,slow,130,31,126,0,Low,0,446.87
+52,Ear Plugs,Jaipur-WH9,slow,172,40,129,0,Low,0,396.27
+37,Ethanol,Pune-WH6,medium,588,135,131,0,Low,0,186.76
+11,Titanium Alloy,Ahmedabad-WH7,fast,1132,257,132,0,Low,0,486.99
+24,Resistors,Jaipur-WH9,medium,684,156,132,0,Low,0,2488.58
+39,Ammonia Solution,Lucknow-WH10,medium,531,121,132,0,Low,0,114.76
+27,Sensors,Jaipur-WH9,medium,557,127,132,0,Low,0,679.91
+30,Relay Switches,Ahmedabad-WH7,medium,558,122,137,0,Low,0,2544.95
+53,Safety Vests,Delhi-WH1,slow,155,34,137,0,Low,0,676.18
+36,Sodium Hydroxide,Bengaluru-WH8,medium,559,122,137,0,Low,0,48.74
+11,Titanium Alloy,Delhi-WH1,fast,1172,257,137,0,Low,0,486.99
+60,Files,Pune-WH6,slow,185,40,139,0,Low,0,337.41
+31,Transformers,Chennai-WH3,medium,691,149,139,0,Low,0,975.59
+63,Cnc Parts,Chennai-WH3,slow,181,39,139,0,Low,0,31385.79
+47,Shaft Couplings,Lucknow-WH10,medium,791,171,139,0,Low,0,1555.05
+6,Plastic Pellets,Lucknow-WH10,fast,2020,436,139,0,Low,0,209.87
+27,Sensors,Delhi-WH1,medium,603,127,142,0,Low,0,679.91
+52,Ear Plugs,Delhi-WH1,slow,191,40,143,0,Low,0,396.27
+6,Plastic Pellets,Mumbai-WH2,fast,2096,436,144,0,Low,0,209.87
+26,Led Modules,Mumbai-WH2,medium,389,81,144,0,Low,0,3414.68
+16,Packing Tape,Kolkata-WH4,fast,1586,326,146,0,Low,0,70.54
+43,Hydraulic Seals,Pune-WH6,medium,509,104,147,0,Low,0,1002.76
+55,Printer Paper,Lucknow-WH10,slow,147,26,147,0,Low,0,482.23
+29,Power Adapters,Bengaluru-WH8,medium,520,106,147,0,Low,0,1469.44
+40,Calcium Carbonate,Jaipur-WH9,medium,741,150,148,0,Low,0,209.53
+7,Rubber Sheets,Kolkata-WH4,fast,1791,361,149,0,Low,0,495.29
+22,Shrink Wrap,Jaipur-WH9,fast,1733,346,150,0,Low,0,87.14
+58,Toner Cartridges,Hyderabad-WH5,slow,155,31,150,0,Low,0,446.87
+61,Industrial Pumps,Delhi-WH1,slow,176,35,151,0,Low,0,5761.33
+32,Display Panels,Chennai-WH3,medium,532,106,151,0,Low,0,910.85
+65,Lathe Tools,Hyderabad-WH5,slow,186,37,151,0,Low,0,27670.07
+48,Pump Impellers,Jaipur-WH9,medium,669,132,152,0,Low,0,386.58
+4,Iron Ore,Delhi-WH1,fast,1947,385,152,0,Low,0,204.78
+33,Acetone,Bengaluru-WH8,medium,921,182,152,0,Low,0,268.72
+38,Hydrochloric Acid,Bengaluru-WH8,medium,640,126,152,0,Low,0,81.32
+13,Corrugated Boxes,Mumbai-WH2,fast,2280,450,152,0,Low,0,23.9
+3,Copper Wire,Delhi-WH1,fast,1273,249,153,0,Low,0,52.92
+27,Sensors,Hyderabad-WH5,medium,646,127,153,0,Low,0,679.91
+17,Foam Sheets,Ahmedabad-WH7,fast,1907,369,155,0,Low,0,60.89
+4,Iron Ore,Pune-WH6,fast,1990,385,155,0,Low,0,204.78
+9,Wood Planks,Mumbai-WH2,fast,2399,460,156,0,Low,0,160.98
+10,Glass Panels,Jaipur-WH9,fast,2296,439,157,0,Low,0,390.1
+3,Copper Wire,Bengaluru-WH8,fast,1303,249,157,0,Low,0,52.92
+50,Gloves,Chennai-WH3,slow,179,34,158,0,Low,0,364.27
+18,Wooden Pallets,Lucknow-WH10,fast,2165,408,159,0,Low,0,68.55
+65,Lathe Tools,Bengaluru-WH8,slow,196,37,159,0,Low,0,27670.07
+26,Led Modules,Kolkata-WH4,medium,433,81,160,0,Low,0,3414.68
+37,Ethanol,Delhi-WH1,medium,720,135,160,0,Low,0,186.76
+65,Lathe Tools,Chennai-WH3,slow,199,37,161,0,Low,0,27670.07
+21,Zip Lock Bags,Kolkata-WH4,fast,1541,285,162,0,Low,0,57.28
+32,Display Panels,Ahmedabad-WH7,medium,581,106,164,0,Low,0,910.85
+29,Power Adapters,Pune-WH6,medium,585,106,166,0,Low,0,1469.44
+21,Zip Lock Bags,Ahmedabad-WH7,fast,1585,285,167,0,Low,0,57.28
+37,Ethanol,Bengaluru-WH8,medium,756,135,168,0,Low,0,186.76
+35,Isopropanol,Delhi-WH1,medium,603,108,168,0,Low,0,261.82
+19,Hdpe Bags,Pune-WH6,fast,2282,406,169,0,Low,0,45.95
+38,Hydrochloric Acid,Chennai-WH3,medium,716,126,170,0,Low,0,81.32
+18,Wooden Pallets,Bengaluru-WH8,fast,2308,408,170,0,Low,0,68.55
+44,Gear Sets,Kolkata-WH4,medium,620,108,172,0,Low,0,110.54
+19,Hdpe Bags,Kolkata-WH4,fast,2342,406,173,0,Low,0,45.95
+1,Steel Rods,Bengaluru-WH8,fast,2394,416,173,0,Low,0,337.74
+20,Kraft Paper,Delhi-WH1,fast,1375,238,173,0,Low,0,15.38
+29,Power Adapters,Chennai-WH3,medium,610,106,173,0,Low,0,1469.44
+20,Kraft Paper,Hyderabad-WH5,fast,1379,238,174,0,Low,0,15.38
+36,Sodium Hydroxide,Delhi-WH1,medium,711,122,175,0,Low,0,48.74
+10,Glass Panels,Mumbai-WH2,fast,2559,439,175,0,Low,0,390.1
+32,Display Panels,Jaipur-WH9,medium,627,106,177,0,Low,0,910.85
+60,Files,Kolkata-WH4,slow,240,40,180,0,Low,0,337.41
+38,Hydrochloric Acid,Hyderabad-WH5,medium,758,126,180,0,Low,0,81.32
+34,Sulfuric Acid,Bengaluru-WH8,medium,689,114,181,0,Low,0,279.61
+34,Sulfuric Acid,Ahmedabad-WH7,medium,687,114,181,0,Low,0,279.61
+44,Gear Sets,Jaipur-WH9,medium,653,108,181,0,Low,0,110.54
+14,Bubble Wrap,Lucknow-WH10,fast,2712,448,182,0,Low,0,88.48
+23,Circuit Boards,Lucknow-WH10,medium,529,87,182,0,Low,0,2867.69
+38,Hydrochloric Acid,Pune-WH6,medium,766,126,182,0,Low,0,81.32
+17,Foam Sheets,Chennai-WH3,fast,2272,369,185,0,Low,0,60.89
+8,Cotton Fabric,Chennai-WH3,fast,1701,273,187,0,Low,0,79.78
+12,Carbon Fiber,Bengaluru-WH8,fast,2211,352,188,0,Low,0,121.17
+6,Plastic Pellets,Kolkata-WH4,fast,2760,436,190,0,Low,0,209.87
+32,Display Panels,Hyderabad-WH5,medium,673,106,190,0,Low,0,910.85
+2,Aluminum Sheets,Lucknow-WH10,fast,2167,342,190,0,Low,0,92.16
+18,Wooden Pallets,Hyderabad-WH5,fast,2611,408,192,0,Low,0,68.55
+39,Ammonia Solution,Hyderabad-WH5,medium,775,121,192,0,Low,0,114.76
+16,Packing Tape,Jaipur-WH9,fast,2086,326,192,0,Low,0,70.54
+7,Rubber Sheets,Jaipur-WH9,fast,2317,361,193,0,Low,0,495.29
+35,Isopropanol,Pune-WH6,medium,706,108,196,0,Low,0,261.82
+29,Power Adapters,Mumbai-WH2,medium,696,106,197,0,Low,0,1469.44
+44,Gear Sets,Ahmedabad-WH7,medium,711,108,198,0,Low,0,110.54
+2,Aluminum Sheets,Ahmedabad-WH7,fast,2261,342,198,0,Low,0,92.16
+13,Corrugated Boxes,Chennai-WH3,fast,2973,450,198,0,Low,0,23.9
+55,Printer Paper,Pune-WH6,slow,199,26,199,0,Low,0,482.23
+34,Sulfuric Acid,Delhi-WH1,medium,755,114,199,0,Low,0,279.61
+2,Aluminum Sheets,Mumbai-WH2,fast,2311,342,203,0,Low,0,92.16
+16,Packing Tape,Ahmedabad-WH7,fast,2246,326,207,0,Low,0,70.54
+62,Conveyor Belts,Delhi-WH1,slow,444,64,208,0,Low,0,11979.0
+14,Bubble Wrap,Delhi-WH1,fast,3111,448,208,0,Low,0,88.48
+56,Pens,Jaipur-WH9,slow,445,64,209,0,Low,0,107.18
+5,Zinc Ingots,Hyderabad-WH5,fast,2696,386,210,0,Low,0,367.06
+20,Kraft Paper,Mumbai-WH2,fast,1668,238,210,0,Low,0,15.38
+18,Wooden Pallets,Delhi-WH1,fast,2875,408,211,0,Low,0,68.55
+19,Hdpe Bags,Chennai-WH3,fast,2873,406,212,0,Low,0,45.95
+18,Wooden Pallets,Ahmedabad-WH7,fast,2878,408,212,0,Low,0,68.55
+29,Power Adapters,Hyderabad-WH5,medium,760,106,215,0,Low,0,1469.44
+32,Display Panels,Lucknow-WH10,medium,774,106,219,0,Low,0,910.85
+19,Hdpe Bags,Ahmedabad-WH7,fast,2996,406,221,0,Low,0,45.95
+5,Zinc Ingots,Lucknow-WH10,fast,2888,386,224,0,Low,0,367.06
+10,Glass Panels,Chennai-WH3,fast,3306,439,226,0,Low,0,390.1
+22,Shrink Wrap,Lucknow-WH10,fast,2650,346,230,0,Low,0,87.14
+15,Stretch Film,Mumbai-WH2,fast,2361,308,230,0,Low,0,55.61
+21,Zip Lock Bags,Lucknow-WH10,fast,2268,285,239,0,Low,0,57.28
+15,Stretch Film,Pune-WH6,fast,2462,308,240,0,Low,0,55.61
+8,Cotton Fabric,Pune-WH6,fast,2201,273,242,0,Low,0,79.78
+5,Zinc Ingots,Chennai-WH3,fast,3168,386,246,0,Low,0,367.06
+7,Rubber Sheets,Pune-WH6,fast,2970,361,247,0,Low,0,495.29
+3,Copper Wire,Hyderabad-WH5,fast,2055,249,248,0,Low,0,52.92
+15,Stretch Film,Kolkata-WH4,fast,2568,308,250,0,Low,0,55.61
+56,Pens,Chennai-WH3,slow,543,64,255,0,Low,0,107.18
+52,Ear Plugs,Chennai-WH3,slow,356,40,267,0,Low,0,396.27
+8,Cotton Fabric,Lucknow-WH10,fast,2446,273,269,0,Low,0,79.78
+9,Wood Planks,Chennai-WH3,fast,4124,460,269,0,Low,0,160.98
+18,Wooden Pallets,Pune-WH6,fast,3720,408,274,0,Low,0,68.55
+25,Capacitors,Kolkata-WH4,medium,1390,152,274,0,Low,0,775.46
+33,Acetone,Mumbai-WH2,medium,1668,182,275,0,Low,0,268.72
+27,Sensors,Bengaluru-WH8,medium,1182,127,279,0,Low,0,679.91
+8,Cotton Fabric,Kolkata-WH4,fast,2560,273,281,0,Low,0,79.78
+15,Stretch Film,Hyderabad-WH5,fast,3080,308,300,0,Low,0,55.61
+21,Zip Lock Bags,Bengaluru-WH8,fast,2870,285,302,0,Low,0,57.28
+3,Copper Wire,Lucknow-WH10,fast,2610,249,314,0,Low,0,52.92
+49,Safety Helmets,Chennai-WH3,slow,524,50,314,0,Low,0,488.06
+36,Sodium Hydroxide,Kolkata-WH4,medium,1280,122,315,0,Low,0,48.74
+20,Kraft Paper,Lucknow-WH10,fast,2509,238,316,0,Low,0,15.38
+11,Titanium Alloy,Mumbai-WH2,fast,2720,257,318,0,Low,0,486.99
+8,Cotton Fabric,Jaipur-WH9,fast,2944,273,324,0,Low,0,79.78
+61,Industrial Pumps,Jaipur-WH9,slow,387,35,332,0,Low,0,5761.33
+27,Sensors,Kolkata-WH4,medium,1419,127,335,0,Low,0,679.91
+3,Copper Wire,Ahmedabad-WH7,fast,2832,249,341,0,Low,0,52.92
+3,Copper Wire,Mumbai-WH2,fast,2837,249,342,0,Low,0,52.92
+20,Kraft Paper,Jaipur-WH9,fast,2829,238,357,0,Low,0,15.38
+54,Fire Extinguishers,Kolkata-WH4,slow,870,62,421,0,Low,0,199.52
+24,Resistors,Pune-WH6,medium,2285,156,439,0,Low,0,2488.58
+30,Relay Switches,Pune-WH6,medium,1878,122,462,0,Low,0,2544.95
+68,Pneumatic Valves,Chennai-WH3,slow,888,48,555,0,Low,0,51381.38
+57,Notebooks,Ahmedabad-WH7,slow,995,52,574,0,Low,0,180.13
+4,Iron Ore,Bengaluru-WH8,fast,7992,385,623,0,Low,0,204.78
+28,Microcontrollers,Mumbai-WH2,medium,4548,199,686,0,Low,0,3576.99
+42,Drive Belts,Pune-WH6,medium,4134,166,747,0,Low,0,1361.32
+26,Led Modules,Hyderabad-WH5,medium,2169,81,803,0,Low,0,3414.68
+2,Aluminum Sheets,Bengaluru-WH8,fast,9234,342,810,0,Low,0,92.16
+29,Power Adapters,Kolkata-WH4,medium,2984,106,845,0,Low,0,1469.44
+1,Steel Rods,Hyderabad-WH5,fast,12495,416,901,0,Low,0,337.74
+20,Kraft Paper,Kolkata-WH4,fast,7398,238,933,0,Low,0,15.38
+6,Plastic Pellets,Chennai-WH3,fast,13680,436,941,0,Low,0,209.87
+5,Zinc Ingots,Kolkata-WH4,fast,12220,386,950,0,Low,0,367.06
+22,Shrink Wrap,Pune-WH6,fast,11964,346,1037,0,Low,0,87.14

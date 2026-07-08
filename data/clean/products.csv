@@ -1,0 +1,69 @@
+product_id,product_name,category_id,unit,unit_price,reorder_point,velocity,is_active,price_band
+1,Steel Rods,1,KG,337.74,416,fast,1,Low
+2,Aluminum Sheets,1,KG,92.16,342,fast,1,Very Low
+3,Copper Wire,1,ROLL,52.92,249,fast,1,Very Low
+4,Iron Ore,1,TON,204.78,385,fast,1,Low
+5,Zinc Ingots,1,KG,367.06,386,fast,1,Low
+6,Plastic Pellets,1,KG,209.87,436,fast,1,Low
+7,Rubber Sheets,1,KG,495.29,361,fast,1,Low
+8,Cotton Fabric,1,METER,79.78,273,fast,1,Very Low
+9,Wood Planks,1,PIECE,160.98,460,fast,1,Low
+10,Glass Panels,1,PIECE,390.1,439,fast,1,Low
+11,Titanium Alloy,1,KG,486.99,257,fast,1,Low
+12,Carbon Fiber,1,ROLL,121.17,352,fast,1,Low
+13,Corrugated Boxes,2,PIECE,23.9,450,fast,1,Very Low
+14,Bubble Wrap,2,ROLL,88.48,448,fast,1,Very Low
+15,Stretch Film,2,ROLL,55.61,308,fast,1,Very Low
+16,Packing Tape,2,ROLL,70.54,326,fast,1,Very Low
+17,Foam Sheets,2,PIECE,60.89,369,fast,1,Very Low
+18,Wooden Pallets,2,PIECE,68.55,408,fast,1,Very Low
+19,Hdpe Bags,2,PIECE,45.95,406,fast,1,Very Low
+20,Kraft Paper,2,ROLL,15.38,238,fast,1,Very Low
+21,Zip Lock Bags,2,PACK,57.28,285,fast,1,Very Low
+22,Shrink Wrap,2,ROLL,87.14,346,fast,1,Very Low
+23,Circuit Boards,3,PIECE,2867.69,87,medium,1,High
+24,Resistors,3,PACK,2488.58,156,medium,1,High
+25,Capacitors,3,PACK,775.46,152,medium,1,Medium
+26,Led Modules,3,PIECE,3414.68,81,medium,1,High
+27,Sensors,3,PIECE,679.91,127,medium,1,Medium
+28,Microcontrollers,3,PIECE,3576.99,199,medium,1,High
+29,Power Adapters,3,PIECE,1469.44,106,medium,1,Medium
+30,Relay Switches,3,PIECE,2544.95,122,medium,1,High
+31,Transformers,3,PIECE,975.59,149,medium,1,Medium
+32,Display Panels,3,PIECE,910.85,106,medium,1,Medium
+33,Acetone,4,LITRE,268.72,182,medium,1,Low
+34,Sulfuric Acid,4,LITRE,279.61,114,medium,1,Low
+35,Isopropanol,4,LITRE,261.82,108,medium,1,Low
+36,Sodium Hydroxide,4,KG,48.74,122,medium,1,Very Low
+37,Ethanol,4,LITRE,186.76,135,medium,1,Low
+38,Hydrochloric Acid,4,LITRE,81.32,126,medium,1,Very Low
+39,Ammonia Solution,4,LITRE,114.76,121,medium,1,Low
+40,Calcium Carbonate,4,KG,209.53,150,medium,1,Low
+41,Bearings,5,PIECE,1343.94,181,medium,1,Medium
+42,Drive Belts,5,PIECE,1361.32,166,medium,1,Medium
+43,Hydraulic Seals,5,PIECE,1002.76,104,medium,1,Medium
+44,Gear Sets,5,PIECE,110.54,108,medium,1,Low
+45,Filter Elements,5,PIECE,1843.19,151,medium,1,Medium
+46,O-Rings,5,PACK,1794.84,175,medium,1,Medium
+47,Shaft Couplings,5,PIECE,1555.05,171,medium,1,Medium
+48,Pump Impellers,5,PIECE,386.58,132,medium,1,Low
+49,Safety Helmets,6,PIECE,488.06,50,slow,1,Low
+50,Gloves,6,PAIR,364.27,34,slow,1,Low
+51,Safety Goggles,6,PIECE,593.14,78,slow,1,Medium
+52,Ear Plugs,6,PACK,396.27,40,slow,1,Low
+53,Safety Vests,6,PIECE,676.18,34,slow,1,Medium
+54,Fire Extinguishers,6,PIECE,199.52,62,slow,1,Low
+55,Printer Paper,7,REAM,482.23,26,slow,1,Low
+56,Pens,7,PACK,107.18,64,slow,1,Low
+57,Notebooks,7,PIECE,180.13,52,slow,1,Low
+58,Toner Cartridges,7,PIECE,446.87,31,slow,1,Low
+59,Stapler,7,PIECE,223.43,74,slow,1,Low
+60,Files,7,PACK,337.41,40,slow,1,Low
+61,Industrial Pumps,8,PIECE,5761.33,35,slow,1,High
+62,Conveyor Belts,8,METER,11979.0,64,slow,1,Very High
+63,Cnc Parts,8,SET,31385.79,39,slow,1,Very High
+64,Welding Rods,8,KG,21228.85,66,slow,1,Very High
+65,Lathe Tools,8,PIECE,27670.07,37,slow,1,Very High
+66,Drill Bits,8,SET,5919.91,50,slow,1,High
+67,Hydraulic Cylinders,8,PIECE,10556.16,29,slow,1,Very High
+68,Pneumatic Valves,8,PIECE,51381.38,48,slow,1,Very High

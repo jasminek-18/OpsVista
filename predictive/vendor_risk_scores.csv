@@ -1,0 +1,81 @@
+supplier_id,supplier_name,delay_rate,return_rate,avg_lead_time_days,profile,supplier_tier,total_orders,actual_delay_rate,avg_actual_lead,total_spend,lead_score,risk_score,risk_category,recommended_action
+59,Carmex India,0.438,0.142,22,poor,Tier 3,79,0.5063291139240507,39.0253164556962,345767891.19,100.0,49.58,Medium Risk,Monitor closely. Set delay penalty clauses.
+1,Tata Steel Supplies,0.426,0.117,16,poor,Tier 3,67,0.4925373134328358,31.955223880597014,156561501.89,100.0,48.14,Medium Risk,Monitor closely. Set delay penalty clauses.
+41,Dormer Tools,0.41,0.133,19,poor,Tier 3,74,0.47297297297297297,37.108108108108105,413695544.74,100.0,47.64,Medium Risk,Monitor closely. Set delay penalty clauses.
+58,Vardex India,0.438,0.116,23,poor,Tier 3,78,0.47435897435897434,45.03846153846154,309417233.78000003,100.0,47.2,Medium Risk,Monitor closely. Set delay penalty clauses.
+37,Graco India,0.407,0.138,17,poor,Tier 3,69,0.4492753623188406,34.88405797101449,414085301.01,100.0,46.6,Medium Risk,Monitor closely. Set delay penalty clauses.
+27,Bosch India Parts,0.439,0.142,22,poor,Tier 3,80,0.4375,41.85,440206713.91,100.0,46.14,Medium Risk,Monitor closely. Set delay penalty clauses.
+9,TVS Logistics,0.391,0.124,16,poor,Tier 3,75,0.44,31.826666666666668,486297421.12,100.0,45.72,Medium Risk,Monitor closely. Set delay penalty clauses.
+75,United Components,0.383,0.123,16,poor,Tier 3,71,0.43661971830985913,31.802816901408452,399455536.92,100.0,45.52,Medium Risk,Monitor closely. Set delay penalty clauses.
+13,Bharat Forge,0.399,0.111,18,poor,Tier 3,94,0.43617021276595747,33.361702127659576,551202914.13,100.0,45.14,Medium Risk,Monitor closely. Set delay penalty clauses.
+14,Godrej Materials,0.393,0.144,17,poor,Tier 3,84,0.40476190476190477,31.0,585745667.61,100.0,44.56,Medium Risk,Monitor closely. Set delay penalty clauses.
+62,Pramet India,0.429,0.148,22,poor,Tier 3,81,0.38271604938271603,38.629629629629626,424162332.37,100.0,43.58,Medium Risk,Monitor closely. Set delay penalty clauses.
+64,Sintercast India,0.435,0.119,21,poor,Tier 3,86,0.3953488372093023,37.81395348837209,512570619.46999997,100.0,43.34,Medium Risk,Monitor closely. Set delay penalty clauses.
+78,Fast Track Materials,0.397,0.149,16,poor,Tier 3,78,0.3974358974358974,28.358974358974358,320337556.17,94.52991452991452,43.25,Medium Risk,Monitor closely. Set delay penalty clauses.
+40,Kennametal India,0.39,0.113,18,poor,Tier 3,86,0.3953488372093023,34.372093023255815,222986774.1,100.0,43.16,Medium Risk,Monitor closely. Set delay penalty clauses.
+47,Kyocera India,0.386,0.125,23,poor,Tier 3,73,0.3835616438356164,41.54794520547945,444024190.17,100.0,42.93,Medium Risk,Monitor closely. Set delay penalty clauses.
+42,Seco Tools India,0.418,0.128,23,poor,Tier 3,78,0.3717948717948718,42.02564102564103,386516672.78,100.0,42.43,Medium Risk,Monitor closely. Set delay penalty clauses.
+54,Korloy India,0.385,0.122,18,poor,Tier 3,81,0.37037037037037035,31.91358024691358,371741908.6,100.0,42.18,Medium Risk,Monitor closely. Set delay penalty clauses.
+32,Emerson India,0.427,0.121,23,poor,Tier 3,70,0.35714285714285715,40.5,379000757.93,100.0,41.49,Medium Risk,Monitor closely. Set delay penalty clauses.
+8,Bajaj Components,0.419,0.132,16,poor,Tier 3,80,0.35,30.3375,372943596.29,100.0,41.46,Medium Risk,Monitor closely. Set delay penalty clauses.
+7,ONGC Industrials,0.399,0.123,17,poor,Tier 3,65,0.3384615384615385,32.6,383366804.2,100.0,40.61,Medium Risk,Monitor closely. Set delay penalty clauses.
+50,Tungaloy India,0.21,0.086,17,average,Tier 2,65,0.3076923076923077,23.815384615384616,412100930.19,79.38461538461539,33.84,Medium Risk,Monitor closely. Set delay penalty clauses.
+24,BEL Supplies,0.216,0.085,17,average,Tier 2,79,0.25316455696202533,23.696202531645568,457514132.32,78.9873417721519,31.01,Medium Risk,Monitor closely. Set delay penalty clauses.
+53,YG-1 India,0.207,0.051,14,average,Tier 2,85,0.27058823529411763,20.223529411764705,372207784.79,67.41176470588235,28.54,Low Risk,Continue. Preferred vendor for critical SKUs.
+2,Mahindra Materials,0.215,0.057,17,average,Tier 2,75,0.22666666666666666,22.76,432525926.74,75.86666666666667,28.22,Low Risk,Continue. Preferred vendor for critical SKUs.
+18,Hindalco Metals,0.193,0.065,17,average,Tier 2,50,0.2,23.0,358527253.40999997,76.66666666666667,27.28,Low Risk,Continue. Preferred vendor for critical SKUs.
+34,Parker Hannifin India,0.217,0.075,16,average,Tier 2,66,0.21212121212121213,21.53030303030303,463115133.96,71.76767676767678,27.21,Low Risk,Continue. Preferred vendor for critical SKUs.
+6,Reliance Raw Co,0.209,0.072,16,average,Tier 2,78,0.21794871794871795,21.21794871794872,409803762.35,70.72649572649573,27.2,Low Risk,Continue. Preferred vendor for critical SKUs.
+25,Siemens India,0.174,0.081,16,average,Tier 2,82,0.18292682926829268,22.329268292682926,455301158.86,74.43089430894308,26.46,Low Risk,Continue. Preferred vendor for critical SKUs.
+48,Nachi India,0.22,0.062,14,average,Tier 2,55,0.21818181818181817,19.6,346487357.75,65.33333333333334,25.84,Low Risk,Continue. Preferred vendor for critical SKUs.
+45,Mitsubishi Materials,0.198,0.067,14,average,Tier 2,78,0.21794871794871795,19.384615384615383,369546366.91,64.61538461538461,25.83,Low Risk,Continue. Preferred vendor for critical SKUs.
+67,Sherwood India,0.167,0.059,17,average,Tier 2,76,0.17105263157894737,22.94736842105263,428872794.7,76.49122807017544,25.62,Low Risk,Continue. Preferred vendor for critical SKUs.
+35,SKF Bearings,0.197,0.059,10,average,Tier 2,85,0.27058823529411763,15.211764705882352,642062482.94,50.70588235294118,25.44,Low Risk,Continue. Preferred vendor for critical SKUs.
+79,Swift Components,0.208,0.054,14,average,Tier 2,76,0.2236842105263158,18.842105263157894,596233913.78,62.807017543859644,25.37,Low Risk,Continue. Preferred vendor for critical SKUs.
+3,Infosys Components,0.198,0.07,16,average,Tier 2,77,0.18181818181818182,21.025974025974026,570659766.1,70.08658008658008,25.21,Low Risk,Continue. Preferred vendor for critical SKUs.
+51,Mapal India,0.173,0.058,15,average,Tier 2,67,0.1791044776119403,21.597014925373134,298364689.97,71.99004975124377,25.09,Low Risk,Continue. Preferred vendor for critical SKUs.
+39,Sandvik India,0.186,0.06,15,average,Tier 2,71,0.16901408450704225,21.3943661971831,215368518.7,71.31455399061034,24.51,Low Risk,Continue. Preferred vendor for critical SKUs.
+76,Metro Parts,0.164,0.081,13,average,Tier 2,65,0.2153846153846154,16.892307692307693,289315033.9,56.307692307692314,24.46,Low Risk,Continue. Preferred vendor for critical SKUs.
+22,Bharat Electronics,0.212,0.068,17,average,Tier 2,73,0.1506849315068493,21.726027397260275,563952973.1899999,72.42009132420092,24.06,Low Risk,Continue. Preferred vendor for critical SKUs.
+52,Guhring India,0.198,0.086,12,average,Tier 2,68,0.19117647058823528,17.058823529411764,270185924.0,56.86274509803921,23.51,Low Risk,Continue. Preferred vendor for critical SKUs.
+77,City Supplies,0.209,0.059,13,average,Tier 2,68,0.19117647058823528,18.0,401266609.63,60.0,23.33,Low Risk,Continue. Preferred vendor for critical SKUs.
+23,HAL Components,0.18,0.081,15,average,Tier 2,86,0.1511627906976744,19.906976744186046,416250336.33,66.35658914728683,23.26,Low Risk,Continue. Preferred vendor for critical SKUs.
+70,Delta Components,0.21,0.075,11,average,Tier 2,74,0.21621621621621623,15.08108108108108,427951446.07,50.27027027027027,23.11,Low Risk,Continue. Preferred vendor for critical SKUs.
+26,ABB Components,0.205,0.078,15,average,Tier 2,83,0.1566265060240964,19.265060240963855,369117400.42,64.21686746987952,23.01,Low Risk,Continue. Preferred vendor for critical SKUs.
+30,Cummins Components,0.192,0.068,11,average,Tier 2,83,0.20481927710843373,15.795180722891565,424616909.22,52.650602409638545,22.81,Low Risk,Continue. Preferred vendor for critical SKUs.
+80,Eagle Parts,0.161,0.082,12,average,Tier 2,69,0.17391304347826086,16.71014492753623,207020266.09,55.70048309178743,22.3,Low Risk,Continue. Preferred vendor for critical SKUs.
+20,GAIL Materials,0.216,0.07,15,average,Tier 2,62,0.12903225806451613,20.370967741935484,278310516.82,67.90322580645162,22.13,Low Risk,Continue. Preferred vendor for critical SKUs.
+60,Vargus India,0.207,0.051,11,average,Tier 2,79,0.189873417721519,16.139240506329113,363745750.77,53.79746835443038,21.78,Low Risk,Continue. Preferred vendor for critical SKUs.
+5,Wipro Supplies,0.18,0.078,12,average,Tier 2,80,0.175,15.9125,220696685.28,53.041666666666664,21.7,Low Risk,Continue. Preferred vendor for critical SKUs.
+38,Atlas Copco Parts,0.179,0.052,10,average,Tier 2,83,0.1927710843373494,14.987951807228916,385377559.57,49.95983935742972,21.19,Low Risk,Continue. Preferred vendor for critical SKUs.
+43,Iscar India,0.214,0.077,17,average,Tier 2,55,0.05454545454545454,21.87272727272727,264209090.23,72.9090909090909,19.62,Low Risk,Continue. Preferred vendor for critical SKUs.
+44,Walter India,0.187,0.064,11,average,Tier 2,70,0.12857142857142856,14.414285714285715,261975532.32999998,48.04761904761905,17.96,Low Risk,Continue. Preferred vendor for critical SKUs.
+17,JSW Supplies,0.08,0.049,11,reliable,Tier 1,80,0.1125,15.3375,376504294.1,51.125,17.32,Low Risk,Continue. Preferred vendor for critical SKUs.
+29,3M India,0.082,0.045,10,reliable,Tier 1,70,0.11428571428571428,14.214285714285714,394343804.03000003,47.38095238095238,16.54,Low Risk,Continue. Preferred vendor for critical SKUs.
+33,Eaton Components,0.069,0.044,11,reliable,Tier 1,71,0.09859154929577464,14.80281690140845,446523409.93,49.34272300469483,16.12,Low Risk,Continue. Preferred vendor for critical SKUs.
+28,Honeywell Supplies,0.088,0.015,12,reliable,Tier 1,77,0.1038961038961039,15.012987012987013,556725478.59,50.04329004329004,15.65,Low Risk,Continue. Preferred vendor for critical SKUs.
+16,Suzlon Parts,0.086,0.022,12,reliable,Tier 1,90,0.07777777777777778,15.655555555555555,347996448.11,52.185185185185176,14.99,Low Risk,Continue. Preferred vendor for critical SKUs.
+61,Horn India,0.187,0.077,11,average,Tier 2,69,0.057971014492753624,14.18840579710145,321457071.08,47.29468599033817,14.67,Low Risk,Continue. Preferred vendor for critical SKUs.
+31,Schneider Parts,0.082,0.049,11,reliable,Tier 1,89,0.056179775280898875,14.415730337078651,515351794.26,48.052434456928836,13.89,Low Risk,Continue. Preferred vendor for critical SKUs.
+4,HDFC Procurement,0.051,0.023,12,reliable,Tier 1,74,0.05405405405405406,15.297297297297296,256967735.59,50.990990990990994,13.59,Low Risk,Continue. Preferred vendor for critical SKUs.
+69,Sigma Materials,0.065,0.039,11,reliable,Tier 1,79,0.05063291139240506,14.215189873417721,419851686.84000003,47.383966244725734,13.18,Low Risk,Continue. Preferred vendor for critical SKUs.
+56,Ingersoll India,0.08,0.02,9,reliable,Tier 1,86,0.08139534883720931,12.244186046511627,388761648.22,40.81395348837209,12.83,Low Risk,Continue. Preferred vendor for critical SKUs.
+10,HUL Materials,0.076,0.018,12,reliable,Tier 1,79,0.0379746835443038,15.050632911392405,510602578.3,50.16877637130802,12.47,Low Risk,Continue. Preferred vendor for critical SKUs.
+73,Global Supplies,0.034,0.021,10,reliable,Tier 1,86,0.05813953488372093,13.290697674418604,441457945.8,44.302325581395344,12.4,Low Risk,Continue. Preferred vendor for critical SKUs.
+36,Timken India,0.075,0.027,8,reliable,Tier 1,81,0.09876543209876543,9.91358024691358,428679240.17,33.04526748971194,12.36,Low Risk,Continue. Preferred vendor for critical SKUs.
+15,L&T Components,0.087,0.036,12,reliable,Tier 1,62,0.016129032258064516,15.580645161290322,396289315.84,51.93548387096774,12.27,Low Risk,Continue. Preferred vendor for critical SKUs.
+57,Stellram India,0.075,0.024,9,reliable,Tier 1,71,0.07042253521126761,12.0,397095586.82,40.0,12.24,Low Risk,Continue. Preferred vendor for critical SKUs.
+65,Palbit India,0.085,0.022,12,reliable,Tier 1,69,0.028985507246376812,14.956521739130435,300662355.63,49.85507246376812,12.08,Low Risk,Continue. Preferred vendor for critical SKUs.
+46,Sumitomo India,0.081,0.018,12,reliable,Tier 1,68,0.029411764705882353,15.0,328784214.76,50.0,12.01,Low Risk,Continue. Preferred vendor for critical SKUs.
+74,National Materials,0.036,0.018,12,reliable,Tier 1,89,0.011235955056179775,15.730337078651685,518743398.88,52.43445692883895,11.59,Low Risk,Continue. Preferred vendor for critical SKUs.
+12,Adani Resources,0.032,0.035,6,reliable,Tier 1,74,0.0945945945945946,8.216216216216216,326863493.71,27.387387387387385,11.26,Low Risk,Continue. Preferred vendor for critical SKUs.
+11,ITC Supplies,0.086,0.028,7,reliable,Tier 1,69,0.08695652173913043,8.869565217391305,368223940.05,29.565217391304348,11.1,Low Risk,Continue. Preferred vendor for critical SKUs.
+63,Ceratizit India,0.058,0.035,8,reliable,Tier 1,79,0.05063291139240506,11.20253164556962,538788633.3100001,37.34177215189873,11.05,Low Risk,Continue. Preferred vendor for critical SKUs.
+19,SAIL Distributors,0.082,0.021,7,reliable,Tier 1,69,0.07246376811594203,9.695652173913043,443021633.2,32.31884057971015,10.72,Low Risk,Continue. Preferred vendor for critical SKUs.
+55,Taegutec India,0.042,0.041,7,reliable,Tier 1,66,0.06060606060606061,8.757575757575758,275359782.75,29.19191919191919,10.1,Low Risk,Continue. Preferred vendor for critical SKUs.
+71,Apex Industrials,0.071,0.019,5,reliable,Tier 1,74,0.0945945945945946,6.878378378378378,339533599.27,22.927927927927925,9.89,Low Risk,Continue. Preferred vendor for critical SKUs.
+72,Prime Parts,0.081,0.014,8,reliable,Tier 1,73,0.0410958904109589,11.054794520547945,458603457.46,36.84931506849315,9.84,Low Risk,Continue. Preferred vendor for critical SKUs.
+21,Motherson Parts,0.074,0.043,9,reliable,Tier 1,78,0.01282051282051282,11.782051282051283,335293514.05,39.27350427350428,9.79,Low Risk,Continue. Preferred vendor for critical SKUs.
+49,OSG India,0.03,0.045,9,reliable,Tier 1,69,0.014492753623188406,11.333333333333334,408580089.31,37.777777777777786,9.63,Low Risk,Continue. Preferred vendor for critical SKUs.
+66,Promax India,0.038,0.048,6,reliable,Tier 1,77,0.05194805194805195,7.896103896103896,528594704.57,26.32034632034632,9.3,Low Risk,Continue. Preferred vendor for critical SKUs.
+68,Omega Supplies,0.053,0.025,7,reliable,Tier 1,70,0.02857142857142857,8.857142857142858,658781331.58,29.523809523809526,8.08,Low Risk,Continue. Preferred vendor for critical SKUs.

@@ -1,0 +1,601 @@
+customer_id,customer_name,contact_person,email,phone,city,region,customer_type
+1,Chandran and Sons,Udarsh Jayaraman,shaurya38@example.com,5913008163,Bhopal,North,Distributor
+2,Vohra LLC,Dhruv Zachariah,nilima07@example.net,9863640562,Shivpuri,West,Direct
+3,Doctor-Loyal,Garima Chada,tamanna66@example.net,+915320638699,Durg,East,Distributor
+4,"Basak, Parmer and Deo",Chaitanya Kakar,saraftimothy@example.net,+913615876511,Kulti,West,Retailer
+5,"Bumb, Swaminathan and Sankar",Bhavika Varma,cmunshi@example.org,4788407335,Gopalpur,Central,Distributor
+6,"Rai, Yogi and Rajagopalan",Gaurangi Munshi,tanveerrege@example.org,4128284952,Jalna,Central,Manufacturer
+7,"Dhingra, Kala and Rajagopal",Nandini Naidu,charita50@example.org,6657971108,Raebareli,West,Distributor
+8,Gala Group,Aryan Nayar,alexander93@example.com,03867658649,Thane,North,Direct
+9,"Apte, Sekhon and Batra",Amaira Seth,farhansahota@example.net,3375553307,Howrah,West,Direct
+10,Goda-Bandi,Zayyan Parsa,darpan47@example.com,+919671092061,Machilipatnam,North,Direct
+11,"Nagar, Andra and Butala",Pranav Uppal,arjun85@example.org,+912847744978,Bharatpur,West,Distributor
+12,Dar LLC,Nicholas Kannan,bhattidalaja@example.org,06921738072,Tezpur,North,Manufacturer
+13,Mohan-Oommen,Ekta Dugar,tnarain@example.net,04602270269,Dhanbad,Central,Retailer
+14,Kala-Jaggi,Lakshmi Walla,cnatarajan@example.com,02082823552,Siliguri,North,Retailer
+15,Seth PLC,Hitesh Sani,christopher45@example.org,8827106774,Loni,East,Manufacturer
+16,Karan PLC,Damyanti Bora,vihaan96@example.net,9064077504,Machilipatnam,West,Manufacturer
+17,Kapadia LLC,Christopher Borah,niharika68@example.org,01244426820,Purnia,West,Direct
+18,"Toor, Sachdeva and Bose",Aayush Sastry,behlekantika@example.org,+913134782611,Kumbakonam,North,Distributor
+19,Kumar Ltd,Pushti Sehgal,charles28@example.org,+917643378937,Bidar,Central,Retailer
+20,Sane-Rattan,Agastya Kakar,savantdalbir@example.org,01710038488,Vellore,West,Direct
+21,Chandra-Andra,Yashawini Sundaram,lohit78@example.org,+913496178899,Bilaspur,South,Direct
+22,Kara-Balay,Hemangini Bakshi,jmane@example.net,03700521034,Sri Ganganagar,East,Direct
+23,"Bassi, Sankaran and Hegde",Sarthak Sem,yatan85@example.com,08786731273,Karnal,West,Direct
+24,"Das, Krishna and Chaudhuri",Indali Chaudhari,falak55@example.org,+915757374402,Amritsar,North,Manufacturer
+25,Narayan Inc,Ekalinga Chauhan,yatanwali@example.org,+913415598055,Udaipur,West,Manufacturer
+26,Memon Inc,Jeremiah Dey,meghana70@example.net,5242011825,Panihati,East,Manufacturer
+27,Virk Group,Indali Borah,merchantmugdha@example.net,01079787741,Darbhanga,South,Direct
+28,"Chaudhry, Mand and Cheema",Mugdha Kala,dsidhu@example.net,08102982978,Agartala,North,Distributor
+29,"Narang, Sahota and Thaker",Tanay Narasimhan,caleb92@example.net,2111587253,Mango,North,Distributor
+30,Ganguly and Sons,Ati Dar,sakshamjoshi@example.net,+916788911163,Ludhiana,West,Distributor
+31,Patla and Sons,Jonathan Dua,upasnanaik@example.com,+911905078448,Gorakhpur,East,Retailer
+32,Raja-Narayanan,Aashi Zacharia,januja81@example.com,+916015412505,Bhavnagar,Central,Distributor
+33,Apte-Dugal,Kamya Bhagat,yogiupadhriti@example.net,09384936048,Patiala,Central,Manufacturer
+34,Chauhan PLC,Ishani Nadig,anmol33@example.org,+916395575027,Varanasi,North,Direct
+35,"Gole, Uppal and Vala",Amrita Magar,odikabalakrishnan@example.net,05511875837,Anantapur,East,Direct
+36,"Bail, Shukla and Chauhan",Barkha Contractor,adwetabhattacharyya@example.org,06827457987,Uluberia,North,Manufacturer
+37,"Pandey, Krish and Agate",Avni Rai,lmander@example.com,06856851226,Srikakulam,Central,Manufacturer
+38,Palan-Warrior,Vedant Sha,luthratejas@example.net,+915963893070,Satara,East,Distributor
+39,"Mutti, Mann and Kala",Maanav Gaba,boseadvaith@example.com,+915735330436,Ramagundam,Central,Retailer
+40,Sur-Kashyap,Chaman Varghese,malhotrajanuja@example.com,8378957359,Erode,South,Direct
+41,Apte and Sons,Pranav Ratti,wridesh48@example.com,+912130675523,Kharagpur,South,Distributor
+42,Chakraborty Inc,Ayush Vasa,yugben@example.net,03638995112,Pondicherry,East,Manufacturer
+43,"Vaidya, Kala and Kale",Sarthak Shan,iradewan@example.net,04434126586,Guntur,North,Manufacturer
+44,Venkatesh-Mital,Dalaja Kala,chandrayauvani@example.net,+916591125854,Alappuzha,Central,Retailer
+45,Bora-Palan,Ridhi Sami,fiyaz62@example.com,3866645545,Shimla,West,Distributor
+46,Upadhyay PLC,Ekansh Bir,zborra@example.net,04314829951,Bathinda,Central,Manufacturer
+47,"Jani, Sundaram and Mahal",Sara Raj,wswamy@example.org,07521505073,Silchar,North,Retailer
+48,Bhasin-Dugar,Amaira Rajagopalan,pranitchowdhury@example.com,06065732280,Dehri,East,Manufacturer
+49,Pai-Gaba,Qadim Deshmukh,psamra@example.com,+919517955323,Ludhiana,East,Manufacturer
+50,Gera PLC,Ira Hayer,pathakdamyanti@example.net,5874097916,Sonipat,North,Retailer
+51,"Sethi, Jaggi and Sampath",Advay Manne,balhaarrattan@example.net,6257845718,Aurangabad,South,Direct
+52,Dubey-Sandal,Kala Walla,anthonybhatia@example.net,7594581863,Aurangabad,North,Retailer
+53,Ramakrishnan and Sons,Jeremiah Karpe,umang24@example.org,08472674398,Surat,North,Distributor
+54,Dhawan PLC,Kashvi Thaman,simonwason@example.com,+910680017373,Raichur,Central,Retailer
+55,Gill LLC,Kritika Dash,pratyushchaudhuri@example.org,+912224001296,Bardhaman,West,Direct
+56,Sama-De,Dev Varkey,netra92@example.org,+919318673345,Chinsurah,West,Manufacturer
+57,Seshadri-Behl,Ekaraj Rastogi,rajagopalanvedant@example.com,6521882173,Kamarhati,South,Manufacturer
+58,Loyal-Mahajan,Jagvi Bumb,rdas@example.com,03074832441,Mumbai,East,Manufacturer
+59,Datta-Ratti,Raksha Rajagopalan,tde@example.com,+914223305747,Siwan,Central,Distributor
+60,Dora-Jhaveri,Aarna Sarkar,nadkarniharini@example.com,+914183914833,Arrah,North,Retailer
+61,"Lalla, Dora and Jain",Amaira Wali,parekhrachita@example.net,+917773060236,Rewa,South,Distributor
+62,"Parikh, Soman and Bhattacharyya",Owen Kanda,esetty@example.com,7093604115,Ahmedabad,North,Manufacturer
+63,"Guha, Mandal and Dyal",Tarak Dube,harinakshiarya@example.org,+911044543094,Madurai,West,Direct
+64,Ramanathan Ltd,Harish Nagy,qchaudhry@example.net,0878125808,Khandwa,West,Direct
+65,"Rajan, Varty and Basak",Faqid Rau,uoza@example.org,+911757916940,New Delhi,West,Manufacturer
+66,Chada-Sant,Timothy Bhatnagar,balayazaan@example.org,+915610758547,Panvel,South,Distributor
+67,Krishna PLC,Kala Kalita,patilsamarth@example.com,08138344796,Chennai,East,Direct
+68,Parmer LLC,Yatan Bhavsar,praneel58@example.com,09721206233,Nashik,North,Manufacturer
+69,Sathe Ltd,Oeshi Wason,viswanathannitesh@example.net,00263432035,Surat,Central,Direct
+70,Nazareth-Pandit,Lajita Sethi,udara@example.org,03253836412,Dehradun,Central,Manufacturer
+71,Wali-Behl,Siya Sule,chokshipeter@example.org,02132901863,Indore,North,Retailer
+72,Karan-Mitter,Chakrika Dutt,shenoylogan@example.com,+913238467422,Rajkot,West,Distributor
+73,Agrawal LLC,Lekha Atwal,jyotisathe@example.com,+914332400904,Bidhannagar,North,Retailer
+74,Keer PLC,Farhan Palla,ikshita97@example.org,+910529916838,Sikar,East,Retailer
+75,Varma Group,Yashvi Palan,veer27@example.net,4184281603,Katihar,South,Manufacturer
+76,Salvi-Nagarajan,Wishi Badal,orindermemon@example.com,05106456042,Bardhaman,East,Manufacturer
+77,Borde-Divan,Pratyush Chopra,keya02@example.net,+916551229044,Rajpur Sonarpur,North,Distributor
+78,Luthra-Mohanty,Deepa Dhar,cwason@example.org,+915445627155,Begusarai,West,Direct
+79,Pai-Balakrishnan,Aayush Varma,shethekta@example.net,05437146479,Fatehpur,South,Retailer
+80,Mittal-Patla,Yuvraj Sridhar,parmarirya@example.org,6329199142,Karawal Nagar,West,Retailer
+81,Aurora-Dugar,Baljiwan Roy,kothariyahvi@example.org,06018104086,Tiruppur,Central,Manufacturer
+82,Dugar Inc,Yug Ratti,wriddhish64@example.com,+910743190650,Gandhinagar,North,Direct
+83,Boase and Sons,Siya Prabhu,xsood@example.com,2958320389,Thanjavur,North,Direct
+84,Sethi-Samra,Adweta Rai,rajavansha@example.org,7857864575,Baranagar,North,Direct
+85,Golla Ltd,Rushil Gole,xdeo@example.org,8005378634,Kishanganj,North,Manufacturer
+86,"Dass, Joshi and Bobal",Yutika Majumdar,nilima59@example.com,5228756798,Karnal,Central,Direct
+87,Natt Group,Dipta Krishnan,lkurian@example.com,+912366318020,Katni,Central,Direct
+88,Swaminathan Ltd,Reyansh Srinivas,adya57@example.org,05828403464,Moradabad,West,Manufacturer
+89,Sani Inc,Warda Zacharia,hpalla@example.com,+918795545810,Korba,North,Direct
+90,Sastry PLC,Priya Khalsa,paninidasgupta@example.com,4120649723,Cuttack,North,Manufacturer
+91,"Kapoor, Khare and Konda",Jackson Mody,neelparmar@example.net,9808083995,Malda,South,Direct
+92,Lall-Pall,Lajita Pandya,tanveerpal@example.org,5799664659,Darbhanga,East,Distributor
+93,Varkey-Basu,Jalsa Thakur,shereavni@example.com,05433564789,Madurai,West,Distributor
+94,"Bhatti, Buch and Borde",Yutika Nair,alalla@example.com,+912258364172,Ramgarh,South,Direct
+95,Biswas-Tella,Hitesh Aurora,watikatripathi@example.com,+912283415107,Mira-Bhayandar,Central,Direct
+96,Goda-Saxena,Gavin Chanda,zinal18@example.org,7459043559,Amravati,Central,Distributor
+97,Garg Inc,Ishaan Kashyap,cbalasubramanian@example.net,+919642241341,Jalna,West,Manufacturer
+98,Chandran Group,Jagrati Shan,wsarna@example.net,04414899536,Firozabad,East,Retailer
+99,Pandit-Baral,Bhavika Shan,rehaan29@example.org,+910036144704,Katihar,East,Retailer
+100,"Rajan, Nagi and Rajan",Isaiah Sarin,ssubramanian@example.com,00398400336,Hubli–Dharwad,North,Distributor
+101,"Singh, Choudhry and Sampath",Ati Butala,oni06@example.com,+919749701450,Hazaribagh,Central,Retailer
+102,Kanda-Dara,Anvi Gade,tamanna22@example.com,04958486868,Karimnagar,East,Manufacturer
+103,Ray Ltd,Netra Kadakia,ekalingawagle@example.org,+913345446710,Burhanpur,South,Retailer
+104,Gill and Sons,Jalsa Hayre,warriornandini@example.net,+910622727345,Ahmednagar,North,Retailer
+105,"Sachdev, Bala and Chana",Janani Kade,wboase@example.org,0476257624,Rajkot,East,Retailer
+106,Dhar LLC,Nimrat Aurora,jram@example.com,+918636068268,Silchar,South,Retailer
+107,Bhavsar-Prashad,Gautami Bajwa,cmunshi@example.org,4806138921,Guntur,North,Retailer
+108,Chowdhury-Sastry,Zansi Rama,jeetsachdev@example.net,06596521608,Chapra,West,Direct
+109,"Palan, Parmer and Mahal",Siddharth Bhattacharyya,wagleudyati@example.net,2045176119,Buxar,Central,Direct
+110,Borah-Kakar,Devansh Nair,ravalgaurang@example.com,09825029440,Bhiwani,Central,Manufacturer
+111,Rana and Sons,Raksha Kalla,choudhuryijaya@example.org,7473099485,Tiruchirappalli,East,Retailer
+112,"Viswanathan, Sibal and Saraf",Chatresh Kulkarni,dateucchal@example.com,03912266661,Ambarnath,West,Distributor
+113,Das LLC,Zarna Raman,idhar@example.com,2069668803,Kolkata,West,Direct
+114,"Talwar, Mutti and Wali",Nicholas Suri,barmanadvika@example.net,08366417207,Singrauli,East,Manufacturer
+115,"Madan, Ganesh and Babu",Xavier Sengupta,sainipushti@example.org,+911133460160,Tirunelveli,Central,Distributor
+116,Pandya-Chauhan,Daksh Deo,bakhshiratti@example.org,08166197782,Howrah,East,Distributor
+117,Sehgal Inc,Hitesh Kuruvilla,guptayashawini@example.org,9428956016,Sirsa,East,Direct
+118,Vyas and Sons,Charita Bir,fariq20@example.net,+915587139128,Nangloi Jat,West,Distributor
+119,"Shetty, Datta and Kamdar",Eta Joshi,joshuakapoor@example.com,+913321293562,Karawal Nagar,North,Manufacturer
+120,Panchal LLC,Oni Master,divanaarini@example.org,0036530973,Siwan,East,Distributor
+121,Kar and Sons,Jonathan Bala,qushi42@example.com,3304014796,Sikar,North,Direct
+122,"Saha, Parikh and Kota",Daniel Puri,dkibe@example.com,+914742074326,Sri Ganganagar,West,Distributor
+123,Agarwal-Sen,Xavier De,vedika79@example.net,+914791907068,Korba,West,Retailer
+124,Nagi-Kar,Farhan Agate,dev97@example.net,1076214130,Farrukhabad,East,Direct
+125,Sampath PLC,Tanay Chahal,jayaramansai@example.com,+917529915183,Kamarhati,Central,Retailer
+126,Kala-Bandi,Advik Ray,iprakash@example.net,9634243074,Kharagpur,North,Direct
+127,"Bhardwaj, Mane and Sinha",Yachana Dalal,aryadeep@example.org,08863752713,Morbi,North,Manufacturer
+128,Patil Ltd,Karan Dani,karnikradha@example.net,0742319572,Ahmednagar,North,Retailer
+129,Gour Inc,Ati Pradhan,hayretanish@example.net,4704869842,Malegaon,North,Retailer
+130,Chander-Basu,Girish Thakur,rachita35@example.com,+914078117795,Ujjain,West,Direct
+131,Talwar and Sons,Dominic Balasubramanian,wsinha@example.net,01510467477,Jammu,Central,Retailer
+132,"Vig, Pant and Guha",Yashawini Kurian,sandalavi@example.com,1164787057,Jaunpur,East,Manufacturer
+133,Zachariah Ltd,Raghav Maharaj,saanvi52@example.net,05343727854,Bikaner,East,Direct
+134,"Banerjee, Sarraf and Acharya",Wyatt Gour,aditya55@example.net,05345569438,Burhanpur,West,Manufacturer
+135,Chander-Uppal,Akshay Misra,damyanti51@example.com,3978406429,Mau,Central,Distributor
+136,Ramanathan Ltd,Ronith Badal,bathmaanas@example.org,+917651036521,Ballia,East,Distributor
+137,"Pillay, Taneja and Nazareth",Onveer Raval,sachdevaadya@example.com,+919146907075,Sirsa,East,Distributor
+138,"Amble, Oak and Pau",Vivaan Nagar,owenbera@example.org,05782978865,Bhagalpur,Central,Direct
+139,Ray-Arora,Ayaan Datta,vjaggi@example.com,+918792273602,Rajahmundry,East,Manufacturer
+140,Muni-Parsa,Anita Bora,tripathicharvi@example.net,9173112308,Ongole,Central,Retailer
+141,Desai-Dutt,Raghav Loke,qasimtripathi@example.net,07350902845,Guntur,East,Distributor
+142,Loyal-Korpal,Sai Pandit,zmand@example.net,7741690001,Karnal,Central,Retailer
+143,Sarkar Ltd,Yoshita Sodhi,david75@example.net,09691762047,Karaikudi,East,Manufacturer
+144,"Nazareth, Oza and Sunder",Aahana Rau,tailorrehaan@example.org,3295513531,Guna,West,Retailer
+145,"Rajagopal, Shankar and Batra",Unnati Bala,vamakshiagarwal@example.org,9955880940,Hindupur,Central,Distributor
+146,Chad Group,Aarnav Keer,danne@example.net,1885325213,Nellore,East,Direct
+147,Merchant-Borah,Urvi Pillay,tristan94@example.org,+912062833885,Raebareli,East,Retailer
+148,Basu-Varkey,Nitara Raman,pinglenetra@example.net,9224081735,Anantapur,Central,Distributor
+149,"Raval, Sengupta and Sinha",Eta Sibal,vermavihaan@example.com,3714640752,Rajpur Sonarpur,West,Manufacturer
+150,Prakash-Wagle,Yashasvi Vora,ayushchad@example.net,4488119091,Thrissur,North,Manufacturer
+151,Sarraf Group,Hemang Mistry,harichaaya@example.com,+910809944319,Mathura,East,Retailer
+152,"Guha, Ramaswamy and Khalsa",Qasim Iyengar,tanay51@example.org,08681245148,Kakinada,South,Manufacturer
+153,Golla-Shroff,Upma Kota,mkar@example.net,3498693301,Udupi,West,Retailer
+154,"Basu, Desai and Sehgal",Aachal Kapadia,azaansaran@example.com,07834632480,Latur,South,Retailer
+155,Oommen-Mammen,Balendra Saini,dugaraarna@example.org,1114458201,Loni,South,Distributor
+156,Suri-Lall,Kala Rajagopalan,raksha39@example.com,07006772938,Saharanpur,East,Distributor
+157,"Ahluwalia, Kunda and Jhaveri",Avni Reddy,gangaratta@example.net,1394972777,Bhagalpur,Central,Distributor
+158,Mahajan PLC,Warhi Kumer,dominickumar@example.net,2071965297,Kollam,East,Retailer
+159,Saini and Sons,Yashvi Raja,suhanikoshy@example.net,07866224093,New Delhi,Central,Direct
+160,Bawa-Setty,Ekbal Patel,cbarman@example.net,07832607111,Bettiah,South,Retailer
+161,"Barad, Hans and Bajaj",Madhavi Chatterjee,xparekh@example.net,+910289870952,Ratlam,South,Retailer
+162,"Parmer, Das and Prashad",Dhriti Madan,cpant@example.net,5769760336,Dhule,West,Distributor
+163,Babu Ltd,Patrick Prakash,ndara@example.net,08902188513,Vijayanagaram,West,Manufacturer
+164,"Murthy, Bhat and Maharaj",Jonathan Wadhwa,bhataashi@example.net,05189013051,Phusro,South,Direct
+165,Konda PLC,Eshana Narang,bswaminathan@example.com,00097171814,Shimla,Central,Manufacturer
+166,Dani-Natarajan,Niharika Rao,aahanatara@example.com,4285408761,Mathura,West,Retailer
+167,"Sarraf, Balan and Parmer",Rayaan Vasa,dugarsneha@example.net,07854343197,Ulhasnagar,Central,Retailer
+168,Dixit-Lala,Oliver Iyengar,jaggineelima@example.net,05770424595,Adoni,East,Direct
+169,"Shankar, Acharya and Joshi",Lakshit Dyal,kibegavin@example.net,+912539309371,Avadi,South,Manufacturer
+170,Ramachandran PLC,Anya Choudhry,rajagopaldaksha@example.org,0860308302,Kanpur,Central,Direct
+171,Tank-More,Chatresh Butala,logan62@example.net,+911066629338,Ahmednagar,West,Manufacturer
+172,"Gala, Parikh and Singh",Tarak Parmar,mandjack@example.org,+916712919584,Bidar,West,Direct
+173,Parikh-Dada,Umang Wali,ekhurana@example.org,3333553328,Durg,South,Retailer
+174,Chana and Sons,Isha Kumar,lbhalla@example.org,+910980221679,Sagar,Central,Retailer
+175,Bhavsar-Talwar,Abha Ray,thalder@example.net,5905420615,Ratlam,East,Distributor
+176,"Pathak, Solanki and Hora",Hemangini Varkey,anirudhmane@example.com,+913096643253,Proddatur,West,Manufacturer
+177,"Bala, Tank and Chaudhary",Maanav Dora,dsingh@example.org,9201071662,Kota,Central,Distributor
+178,"Dixit, Shere and Dayal",Vansha Shroff,ryanlanka@example.net,00907116184,Danapur,Central,Distributor
+179,Choudhury LLC,Vritti Hans,harrisonkala@example.org,3063490175,Ghaziabad,East,Distributor
+180,Krishna-Goda,Tanveer Kumer,isha95@example.net,+910724255554,Sambhal,South,Manufacturer
+181,"Baral, Pandey and Bhatt",Bhanumati Sant,nachiketkonda@example.com,+912383182710,Berhampur,West,Retailer
+182,Iyengar-Gole,Oeshi Ratta,wtara@example.com,1080671438,Kanpur,West,Distributor
+183,Divan-Peri,Bhavini Lanka,vohraurvi@example.org,+912152983570,Jehanabad,South,Direct
+184,Patel-Vala,Aahana Aggarwal,sibalabeer@example.com,3718334052,Medininagar,East,Distributor
+185,Sant-Modi,Zashil Prakash,gulatisai@example.org,00712227671,Guna,West,Distributor
+186,"Munshi, Desai and Raja",Xavier Sehgal,seshadriwarhi@example.com,01637952466,Sangli-Miraj & Kupwad,West,Manufacturer
+187,Bala-Bassi,Chandani Arora,sarmatarak@example.net,05209890948,Kulti,South,Direct
+188,Manne-Nair,Eesha Mannan,akshaybawa@example.org,06575181978,Noida,North,Manufacturer
+189,"Mander, Sankaran and Lalla",Yadavi Ganesan,patlabhavani@example.com,+917758357545,Hospet,South,Distributor
+190,Cheema-Karpe,Damini Sankaran,mammentara@example.com,2979684813,Shimoga,East,Distributor
+191,"Pandey, Naidu and Chaudhuri",Vrishti Hari,tanvidevan@example.net,07771671393,Barasat,East,Retailer
+192,"Krishnamurthy, Wali and Bera",Qarin Swamy,zrajagopalan@example.com,+919207752667,Mau,South,Distributor
+193,Dey-Shankar,Oscar Dhar,purohitorinder@example.org,1436921071,Alappuzha,East,Direct
+194,"Ratti, Master and Sharaf",Umang Raman,ghosefalan@example.org,07399326990,Orai,South,Direct
+195,Tandon-Walia,Indali Rattan,swamynathaniel@example.net,+918611393284,Thane,West,Distributor
+196,Kala and Sons,Arunima Rao,vivaan64@example.com,+911042562247,Gurgaon,North,Distributor
+197,Ray PLC,Bhavya Swaminathan,jagdish97@example.org,+919665626943,Kakinada,East,Retailer
+198,Lad-Borah,Charan Sidhu,dayamai83@example.net,6313100029,Tadipatri,South,Direct
+199,"Ratta, Borde and Thakur",Hitesh Bajaj,rajeshri65@example.org,+916213024731,Raebareli,North,Manufacturer
+200,Kibe-Joshi,Ladli Saha,agastyachoudhury@example.net,0828493009,Anantapur,South,Manufacturer
+201,Rajagopal Inc,Odika Saxena,samarth12@example.com,+915298729306,Bihar Sharif,North,Distributor
+202,Chowdhury PLC,Ekta Jain,bakshivyanjana@example.org,+916137852686,Vijayanagaram,South,Direct
+203,Muni Ltd,Neha Iyengar,adyabaria@example.net,1156651051,Ludhiana,Central,Direct
+204,Ganesan and Sons,Yashawini Mann,gbath@example.com,04762260558,Latur,North,Distributor
+205,Badami Group,Kashvi Chander,rchoudhry@example.com,9861484681,Aurangabad,West,Distributor
+206,"Jaggi, Andra and Lall",Chakradhar Parikh,bansallogan@example.org,+914339703129,Tadepalligudem,Central,Retailer
+207,Gara Inc,Manthan Narayan,divyapau@example.org,+919535387112,Dhule,South,Manufacturer
+208,"Bahl, Chaudhry and Subramanian",Ucchal Goswami,brahmbhattmanbir@example.com,2444386576,Muzaffarnagar,West,Distributor
+209,"Ganguly, Murthy and Saran",Samarth Baria,vasatika47@example.com,+911889442622,Darbhanga,Central,Manufacturer
+210,Guha Group,Bhanumati Hegde,adyayogi@example.org,2768956024,Tadipatri,South,Direct
+211,Kuruvilla Group,Alka Loyal,mohankashish@example.org,07238555580,Thanjavur,South,Distributor
+212,Rajagopalan Group,Abdul Sachdev,edave@example.org,00210179133,Ozhukarai,Central,Manufacturer
+213,Chadha PLC,Anjali Memon,yde@example.com,8667988759,Coimbatore,North,Distributor
+214,Reddy-Chacko,Vedhika Ahuja,zmani@example.org,+918864975586,Raipur,West,Direct
+215,Aurora LLC,Jackson Buch,darabhavani@example.com,1865552450,Proddatur,North,Direct
+216,Cherian-Chander,Anirudh Gandhi,oeshi00@example.com,8813974576,Morena,East,Manufacturer
+217,Bassi Ltd,Leena Ram,balveer63@example.com,+911199118074,Ghaziabad,North,Manufacturer
+218,"Gola, Mittal and Kunda",Parth Samra,kaiprabhakar@example.net,00798037364,Navi Mumbai,North,Manufacturer
+219,Sharaf-Oak,Falan Jhaveri,krishnahanda@example.org,03931758037,Kulti,South,Distributor
+220,Borde-Keer,Chaman Kapur,vedhikaprasad@example.com,+914602787089,Rajahmundry,Central,Manufacturer
+221,Morar-Oommen,Jatin Sarna,kritika39@example.com,0323657390,Raichur,South,Distributor
+222,Balan LLC,Unni Chakrabarti,bhavsargavin@example.net,1190363789,Karaikudi,East,Manufacturer
+223,"Borde, Sharma and Karnik",Daksha Kata,lajita92@example.org,00354811427,Agra,South,Direct
+224,Borde-Mammen,Yauvani Bandi,victorbail@example.com,6674238759,Rohtak,West,Retailer
+225,"Kannan, Bhavsar and Raman",Eshana Bawa,yashicabhavsar@example.com,+915077602264,Coimbatore,South,Distributor
+226,Shan PLC,Neelima Ben,vasudha63@example.net,9808807663,Patna,West,Distributor
+227,Andra-Tak,Geetika Varghese,imaran21@example.com,6135887352,Meerut,East,Retailer
+228,Muni-Nadkarni,Ladli Char,theodorerai@example.com,02685031721,Belgaum,North,Retailer
+229,"Wagle, Sethi and Wali",Qadim Brar,gauri31@example.org,5764824785,Mirzapur,North,Manufacturer
+230,Wable-Vig,Zaitra Varughese,mitrarushil@example.org,4058341203,Bhopal,East,Direct
+231,Wali-Keer,Nandini Atwal,esinghal@example.org,+913808664784,Ozhukarai,Central,Direct
+232,"Radhakrishnan, Ranganathan and Sampath",Ekansh Keer,netrachaudhuri@example.com,00367485079,Khandwa,East,Distributor
+233,Merchant LLC,Neel Sood,desaiyoshita@example.org,06792575194,Jodhpur,South,Manufacturer
+234,Thaman-Venkatesh,Umang Pingle,kavyaramanathan@example.net,+919863928260,Mau,East,Distributor
+235,Thakkar-Din,Ranbir Srinivasan,umangrege@example.com,8020541646,Kottayam,East,Manufacturer
+236,"Thaker, Kade and Wali",Vincent Ramachandran,vihaanpau@example.net,02908936466,Loni,North,Manufacturer
+237,"Pall, Luthra and Kalita",Barkha Shetty,barkhasoni@example.net,+912771368235,Nizamabad,West,Direct
+238,"Nanda, Kapur and Gulati",Devansh Dugal,gopalbaghyawati@example.com,0105436391,Kollam,West,Direct
+239,Baria PLC,Unni Anne,yashodhara57@example.org,2787843686,Kottayam,East,Retailer
+240,Rajagopalan-Madan,Chameli Bail,reddychanchal@example.org,6631579317,Shimoga,West,Direct
+241,"Ganguly, Ramesh and Johal",Nathaniel Bala,ramaswamyraksha@example.org,7393521547,Amravati,East,Manufacturer
+242,Palla-Gera,Warjas Biswas,hbarad@example.org,0918297783,Chandigarh,North,Direct
+243,Jayaraman LLC,Tanish Karnik,rishigarde@example.net,+911297429026,Jamalpur,North,Direct
+244,"Datta, Sahni and Gulati",Sudiksha Srinivasan,nagiodika@example.net,06482882164,Aizawl,Central,Retailer
+245,"Agarwal, Karnik and Toor",Eshana Wali,ekarajgola@example.com,07559563914,Bhimavaram,Central,Manufacturer
+246,Venkataraman-Goda,Gaurav Chandran,gauravsharaf@example.org,+913240710210,Agra,East,Distributor
+247,Choudhury Inc,Vritti Randhawa,parmaradya@example.com,02500044678,Tiruchirappalli,North,Manufacturer
+248,Thakur-Gupta,Anya Pandya,lnigam@example.net,06166032586,Narasaraopet,East,Manufacturer
+249,Jani-Soni,Indrajit Bahl,nidhi91@example.com,+919088949783,Bhiwani,West,Direct
+250,Patla-Mistry,Yashvi Natt,ladsarthak@example.org,+911593006558,Kalyan-Dombivli,South,Direct
+251,Kumar-Bhagat,Falak Ahluwalia,upkaardoshi@example.net,9323395711,Pimpri-Chinchwad,East,Direct
+252,Walia-Borde,Ekavir Seshadri,guneet91@example.net,+914619793425,Tumkur,North,Manufacturer
+253,"Palla, Dyal and Mane",Warinder Bobal,sankaranvrinda@example.org,+914087598912,Durgapur,Central,Direct
+254,Prakash PLC,Abhiram Oza,fkarnik@example.net,4443554245,Sambalpur,East,Distributor
+255,Bhattacharyya Ltd,Ekansh Dara,sachi76@example.net,07486465475,Gaya,North,Direct
+256,Prasad-Bal,Vedika Modi,eshanapall@example.org,+915241166023,Madhyamgram,East,Retailer
+257,Mittal Inc,Sanya Murthy,aditya57@example.com,7372052722,Orai,North,Retailer
+258,"Yogi, Sandal and Loyal",Upkaar Mukherjee,geetika19@example.net,9928624290,Pudukkottai,Central,Direct
+259,Sachdeva-Bhatti,Brinda Doshi,subramaniamoni@example.com,+912107236611,Durg,North,Retailer
+260,Kibe LLC,Watika Natt,yoshitabatra@example.net,2092876400,Nangloi Jat,North,Retailer
+261,"Karan, Mittal and Krishna",Jason Puri,zaitra19@example.com,5763116892,Khammam,East,Manufacturer
+262,"Gade, Kalita and Modi",Raghav Chandra,agateradha@example.com,1405252086,Haridwar,West,Distributor
+263,Anne-Sengupta,Ishita Manda,theodore34@example.net,+917962054201,Ongole,Central,Retailer
+264,Tak Group,Jeevika Suresh,nakul99@example.org,+919246232886,Nadiad,West,Manufacturer
+265,Deol-Bassi,Brijesh Upadhyay,eiravatisekhon@example.org,02133137774,Belgaum,East,Direct
+266,Narayan Ltd,Hemangini Anand,rohanissac@example.net,5323941027,Madhyamgram,North,Retailer
+267,Aurora-Khurana,Priya Gupta,calebuppal@example.org,1790750921,Tiruchirappalli,Central,Manufacturer
+268,Naik-Chacko,Anay Chaudhry,libni77@example.com,+917168026070,Vasai-Virar,West,Manufacturer
+269,Venkatesh Group,Sneha Dhar,krishna63@example.org,7631253348,Kirari Suleman Nagar,East,Retailer
+270,Vora-Natarajan,Reva Kapoor,avikothari@example.org,2411170017,Jalgaon,North,Distributor
+271,Om Ltd,Adweta Raval,urastogi@example.com,+917838230828,Sangli-Miraj & Kupwad,South,Direct
+272,"Bahl, Badami and Grewal",Sai Sachdev,periubika@example.org,0283608290,Gurgaon,Central,Direct
+273,Vaidya-Gola,Aradhana Vasa,udutt@example.net,05110463904,Thiruvananthapuram,Central,Distributor
+274,"Kalla, Konda and Om",Nitesh Keer,raghavsinghal@example.org,+915908810348,Haldia,East,Manufacturer
+275,Babu-Dave,Vrinda Sant,ekalingakhanna@example.com,09321707132,Nagpur,West,Retailer
+276,"Bora, Mistry and Mukherjee",Nisha Buch,qvasa@example.com,9854581208,Ahmedabad,Central,Manufacturer
+277,"Savant, Nayak and Garg",Wriddhish Tella,surafalak@example.org,6120290002,Berhampore,West,Retailer
+278,Prasad Ltd,Sudiksha Basak,eben@example.net,7227169909,Kishanganj,North,Retailer
+279,Dara-Kota,Shivansh Walla,qbedi@example.net,0344701497,Ujjain,North,Direct
+280,Prasad Group,Bishakha Ratta,udant49@example.com,+915648559290,Begusarai,South,Direct
+281,Gour-Mukherjee,Geetika Ram,ishan@example.org,09586451912,Kolkata,North,Manufacturer
+282,"Gokhale, Singh and Subramaniam",Devansh Sheth,udyati71@example.net,7137633352,Hapur,East,Distributor
+283,Nagar Group,Anjali Ramanathan,udyatidoctor@example.com,+911030336072,Sangli-Miraj & Kupwad,Central,Manufacturer
+284,Deep-Karnik,Warhi Krish,abhasodhi@example.org,05221374683,Chittoor,East,Retailer
+285,Uppal-Kibe,Kamya Barad,nicholas86@example.org,07612276226,Mehsana,South,Manufacturer
+286,Gara Inc,Isha Nori,faqidgarde@example.com,03362034435,Hazaribagh,Central,Retailer
+287,Choudhary LLC,Charan Date,qsabharwal@example.com,8407216612,Mumbai,North,Retailer
+288,"Chand, Grover and Chhabra",Dakshesh Trivedi,benjamin54@example.com,00047431205,Vasai-Virar,South,Retailer
+289,Bajwa LLC,Abhimanyu Suresh,theodore75@example.net,+912200673864,Bellary,West,Distributor
+290,"Rattan, Chana and Iyengar",Triya Sanghvi,charita30@example.org,00325181904,Gandhinagar,East,Manufacturer
+291,Raghavan-Bhatt,Darpan Sama,anya35@example.org,+918417194988,Nellore,West,Retailer
+292,Jaggi PLC,Zehaan Jayaraman,kala34@example.com,+919300236992,Amroha,Central,Distributor
+293,Bobal-Sahota,Samaksh Devi,pranitmangal@example.com,08786288040,Chinsurah,North,Manufacturer
+294,"Pandey, Chowdhury and Sampath",Oscar Karan,paniniparmer@example.com,+911020003866,Shimoga,West,Direct
+295,Iyengar-Gera,Upkaar Misra,lnagi@example.net,4270091274,Begusarai,Central,Direct
+296,"Narayan, Yogi and Dhingra",Keya Varkey,girik96@example.org,04960148556,Bihar Sharif,West,Distributor
+297,Pandya-Shah,Idika Samra,chanakyabhakta@example.org,00837709998,Delhi,South,Manufacturer
+298,"Kara, Palla and Pandit",Inaya Agarwal,raagini09@example.net,8082384886,Bilaspur,North,Direct
+299,"Grewal, Nath and Dada",Chaitanya Tank,vohragaurang@example.org,+919889876674,Mira-Bhayandar,West,Manufacturer
+300,Randhawa and Sons,Rishi Verma,edwinaradhana@example.net,00979795679,Phagwara,South,Retailer
+301,"Bakshi, Chopra and Kota",Divya Randhawa,pushti34@example.org,+917200408574,Jamnagar,South,Direct
+302,Grover-Bhatia,Aarush Wali,wishi99@example.com,00262448024,Kollam,Central,Distributor
+303,"Oak, Mallick and Loke",Madhav Dyal,peter83@example.com,07682381038,Vellore,North,Retailer
+304,Salvi Group,Udyati Date,kharechanakya@example.net,06962235624,Shivpuri,East,Retailer
+305,Dewan-Kohli,Yatin Singh,kdhawan@example.org,05267339895,Burhanpur,South,Manufacturer
+306,Dhar Ltd,Unnati Mitter,neelimavarma@example.net,+919461858850,Naihati,South,Manufacturer
+307,Borah-Chadha,Hiral Dewan,cguha@example.org,09163291767,Bhopal,Central,Manufacturer
+308,Kade-Khosla,Jason Agate,manbirluthra@example.com,7904089785,Solapur,North,Manufacturer
+309,"Pant, Varghese and Sawhney",Baljiwan Nazareth,nchada@example.com,+910871798742,Dehri,South,Manufacturer
+310,"Shere, Trivedi and Barad",Naksh Sabharwal,tanmayi95@example.net,+910639715156,Nandyal,South,Manufacturer
+311,"Sami, Dalal and Kala",Anjali Bhatnagar,vrindaravel@example.com,09804507202,Gaya,Central,Distributor
+312,Vala-Bal,Wahab Sami,karan21@example.org,+910012856847,Fatehpur,Central,Retailer
+313,"Lal, Shanker and Sridhar",Vivaan Chanda,osamra@example.net,+910933832790,Arrah,Central,Retailer
+314,Sachar-Kumar,Bishakha Contractor,anmoldatta@example.org,1778799512,Bareilly,South,Manufacturer
+315,"Comar, Pal and Sampath",Nandini Hari,amara36@example.com,+911761165154,Varanasi,Central,Distributor
+316,Kumer-Chahal,Suhani Mital,tdada@example.org,08398986566,Khandwa,North,Distributor
+317,Majumdar-Agarwal,Pranit Prasad,bahrizilmil@example.org,04256008443,Bhusawal,North,Manufacturer
+318,"Boase, Kapoor and Sood",Samaksh Bhavsar,garimabajwa@example.net,6499385321,Hindupur,South,Direct
+319,"Khosla, Sen and Dass",Teerth Sachar,ethan07@example.net,08568377253,Gandhinagar,Central,Distributor
+320,Shanker-Shukla,Upadhriti Parmar,hamsinidasgupta@example.net,08016934278,Malda,West,Manufacturer
+321,Anand-Dara,Mitesh Deshpande,rajagopaldayita@example.net,+912752548523,Gandhinagar,East,Direct
+322,"Guha, Uppal and Kurian",Upma Pandit,ekanta62@example.com,+918814510852,Dhanbad,South,Direct
+323,Comar Ltd,Falguni Loyal,manthan55@example.org,00085795981,Farrukhabad,East,Direct
+324,Gala Inc,Balveer Mukherjee,wpillay@example.org,06691154308,Raebareli,North,Distributor
+325,"Sur, Basak and Bassi",Bhavini Kalita,oviya61@example.net,+914531417479,Solapur,South,Direct
+326,Srinivasan Inc,Upasna Devan,gnagarajan@example.net,+916365575437,Kalyan-Dombivli,West,Direct
+327,Chhabra PLC,Nachiket Shan,karadipta@example.org,1407150810,Bhimavaram,West,Retailer
+328,"Chaudhary, Chaudhry and Palla",Niharika Balakrishnan,bishakhaapte@example.net,+915006603985,Patna,East,Retailer
+329,"Chad, Khalsa and Kata",Bina Ganesh,udyatiahluwalia@example.net,+918959206060,Phagwara,East,Manufacturer
+330,Nigam Inc,Om Raval,sdevi@example.net,6741027169,Durgapur,East,Direct
+331,"Ganesan, Pillai and Narayan",Anirudh Venkataraman,alkadutt@example.com,+914142955078,Raebareli,South,Manufacturer
+332,"Madan, Sampath and Morar",Kalpit Mittal,gbalakrishnan@example.com,1829660509,Thiruvananthapuram,Central,Distributor
+333,"Dhaliwal, Madan and Kant",Charan Raju,nishapalla@example.net,+915605098865,Raebareli,East,Retailer
+334,Bali-Raval,Yachana Mani,santindrajit@example.com,2418832164,Surendranagar Dudhrej,West,Distributor
+335,"Agate, Sankar and Sani",Isaiah Lad,sabharwalekavir@example.org,4386296023,Ambattur,East,Direct
+336,Kadakia-Sunder,Siya Srivastava,cagrawal@example.org,+919192872342,Unnao,South,Retailer
+337,"Sama, Bora and Kadakia",Dhruv Dhaliwal,pallavisrinivas@example.com,+916757237317,Nagaon,North,Distributor
+338,Jha Group,Nidhi Buch,gabriellala@example.com,06178798333,Jodhpur,East,Direct
+339,Aggarwal-Swaminathan,Gaurangi Gupta,sahotathomas@example.net,+919979418786,Morbi,Central,Direct
+340,"Banerjee, Dass and Bora",Bina Bala,charan89@example.net,4376429061,Saharanpur,South,Retailer
+341,Yogi-Sinha,Yashvi Dayal,rsankar@example.net,5990568259,Berhampore,East,Manufacturer
+342,"Mani, Chauhan and Korpal",Rishi Golla,lakshmi60@example.net,+919540257448,Ongole,South,Retailer
+343,Raja-Shenoy,Zaid Radhakrishnan,ayush97@example.org,09063516858,Giridih,West,Direct
+344,Barman Group,Dipta Radhakrishnan,isur@example.net,+918444739568,Bhubaneswar,West,Manufacturer
+345,Sinha Inc,Balvan Dhar,swaminathanbahadurjit@example.net,+919930903663,Moradabad,West,Distributor
+346,Chaudhuri Group,Advay Bail,uvasa@example.org,9374940823,Fatehpur,North,Direct
+347,Madan LLC,Chakradev Batta,lakshitprashad@example.com,06789024488,Ahmednagar,Central,Direct
+348,Virk-Sant,Tanveer Dhaliwal,amritakashyap@example.org,+914468808916,Ahmednagar,South,Retailer
+349,Badami Group,Turvi Boase,maya68@example.net,+910793476353,North Dumdum,Central,Manufacturer
+350,Parmer-Tiwari,Jeet Tak,dakshadeep@example.net,07348806789,Raichur,North,Distributor
+351,"Kurian, Bhatia and Das",Harini Saraf,rachitrattan@example.com,0533714618,Ballia,East,Direct
+352,"Sane, Patla and Kade",Manya Master,dominicnaik@example.org,+910406170503,Baranagar,Central,Direct
+353,Natt-Sibal,Wyatt Bahl,petercomar@example.net,+910951482173,Akola,East,Distributor
+354,Shenoy Group,Shaurya Tak,kaleandrew@example.net,+919968902188,Kollam,North,Direct
+355,Patel Group,Gopal Bains,qkothari@example.com,07542203170,Munger,South,Manufacturer
+356,"Deshmukh, Aggarwal and Bava",Hemangini Sheth,aadhya52@example.org,6154010923,Bihar Sharif,East,Direct
+357,Dhawan-Dar,Nakul Upadhyay,nkalita@example.net,1463760289,Tenali,East,Distributor
+358,Sodhi Ltd,Netra Dhar,udyati30@example.net,8969483813,Srikakulam,West,Distributor
+359,"Sanghvi, Raval and Cherian",Dalaja Bobal,eganesh@example.org,07614721051,Jalgaon,Central,Retailer
+360,"Swamy, Narang and Oommen",Urmi Mangat,pahaljohal@example.org,0901473362,Madurai,East,Manufacturer
+361,"Mutti, Ramesh and Bhakta",Mitali Aggarwal,bhavya26@example.com,+918641449360,Kharagpur,North,Direct
+362,Saini-Shan,Zilmil Kothari,adoctor@example.com,8386618822,Mira-Bhayandar,Central,Direct
+363,"Ganguly, Pant and Srinivasan",Nimrat Sethi,charvijani@example.com,08505863069,Lucknow,Central,Manufacturer
+364,Balan Inc,Upadhriti Divan,bnair@example.net,+912633116608,Ramgarh,Central,Distributor
+365,Sunder-Radhakrishnan,Azaan Toor,gangadugar@example.net,+914977145224,Ratlam,South,Distributor
+366,"Dhaliwal, Agrawal and Bora",Ishani Ganesan,chaitanya17@example.org,0344933047,Bulandshahr,West,Manufacturer
+367,"Balakrishnan, Kurian and Hayre",Upma Merchant,avni21@example.com,2341631207,Buxar,East,Manufacturer
+368,Som-Gara,Jonathan Bajwa,adweta96@example.com,5481984736,Dindigul,South,Retailer
+369,Chaudhari-Keer,Ekalinga Pillai,xbera@example.com,05755567425,Bhavnagar,Central,Direct
+370,"Golla, Amble and Mander",Darpan Kulkarni,prau@example.org,02031741437,Rajahmundry,Central,Distributor
+371,Merchant and Sons,Sai Chander,qbahl@example.org,9981910536,Berhampur,North,Distributor
+372,"Bora, Devan and Bhasin",Lucky Arora,aagrawal@example.net,2323166287,Khandwa,South,Manufacturer
+373,Subramaniam Ltd,Onkar Lad,darika96@example.org,09657441041,Hazaribagh,West,Direct
+374,Gandhi Inc,Geetika Barad,badalgirish@example.com,+913642551774,Rampur,South,Retailer
+375,Pathak LLC,Warhi Rau,charles57@example.com,+914733343828,Farrukhabad,East,Manufacturer
+376,"Tank, Parekh and Tata",Rachana Gola,matthewbhatnagar@example.org,5347771919,Meerut,South,Direct
+377,Mallick-Nazareth,Hritik Madan,pratyush58@example.org,+917248501069,Bareilly,Central,Manufacturer
+378,Viswanathan Ltd,Falak Sandhu,dbhavsar@example.net,5340548717,Dhanbad,Central,Manufacturer
+379,"Mand, Lata and Dhingra",Varsha Sheth,chaaya50@example.org,8585322115,Amravati,Central,Direct
+380,Dalal-Trivedi,Prisha Manne,frado70@example.org,03705051524,Mangalore,Central,Manufacturer
+381,Patla Group,Unnati Rana,michaelwali@example.org,2238923263,Bharatpur,West,Distributor
+382,"Andra, Wagle and Kashyap",Vinaya Rai,cmane@example.org,06241465921,Tadepalligudem,East,Manufacturer
+383,Sehgal Group,Janaki Agate,lbarad@example.org,7265850037,Khandwa,North,Direct
+384,"Kalla, Lal and Balakrishnan",Samarth Wali,veerlall@example.net,3434699312,Erode,Central,Manufacturer
+385,Hari-Batta,Charita Dyal,ishaan83@example.net,9227868471,Ahmednagar,North,Direct
+386,"Shere, Gupta and Bhatt",Priya Jaggi,zsharma@example.org,8140683655,Kochi,East,Retailer
+387,Bandi-Raman,Pooja Sheth,kashish17@example.org,+910032438075,Ghaziabad,North,Direct
+388,Chaudry-Arya,Chakrika Manne,zsur@example.net,+918827541894,Mehsana,South,Direct
+389,Sheth-Ramakrishnan,Brijesh Bhatia,qnatarajan@example.com,3834983479,Secunderabad,South,Retailer
+390,Cheema-Bhasin,Hemani Rout,devika67@example.org,09468757780,Khora ,North,Distributor
+391,Garde Group,Raghav Mahajan,geetikabahl@example.org,9737947644,Khammam,South,Distributor
+392,Basu-Nayak,Mitesh Dada,kabir72@example.com,8484411098,Bharatpur,West,Manufacturer
+393,"Comar, Parikh and Saxena",Zashil Morar,dattadaksh@example.org,3254229520,Jhansi,West,Retailer
+394,"Gera, Shere and Behl",Upkaar Dar,tbhatt@example.com,7237677370,Guntakal,West,Retailer
+395,Anand and Sons,Aryan Garde,vbakshi@example.com,08628533176,Ramgarh,West,Direct
+396,Sandhu Ltd,Rehaan Shan,anvirandhawa@example.org,05074388429,Kharagpur,North,Retailer
+397,Bhalla Group,Anvi Modi,falguniiyer@example.net,5662233572,Ludhiana,Central,Retailer
+398,Barman PLC,Nitara Bobal,prishamahajan@example.net,01339607402,Sikar,Central,Manufacturer
+399,Sura PLC,Upma Agrawal,pranav47@example.org,06448234382,Gudivada,West,Direct
+400,Thaman-Kala,Leena Sampath,neelima80@example.org,03815110136,Kishanganj,East,Retailer
+401,Pau-Gaba,Nakul Ramachandran,pbaral@example.net,+913036394670,Deoghar,West,Manufacturer
+402,"Narayan, Pal and Srivastava",Sai Padmanabhan,devikachandran@example.net,05593088315,Nagpur,Central,Manufacturer
+403,Raman-Hayre,Yadavi Shah,avni65@example.com,+918854702413,Gudivada,East,Direct
+404,"Kalla, Munshi and Baria",Unnati Kohli,advaithmahal@example.org,+918489087290,Davanagere,South,Retailer
+405,Thakkar LLC,Pushti Sama,bakhshibhavsar@example.com,3086110312,Nizamabad,East,Manufacturer
+406,Sen and Sons,Pranit Khalsa,rehaan64@example.net,2919633797,Chinsurah,South,Manufacturer
+407,Sur Inc,Nathan Badami,suraaarush@example.net,1080840744,Bhagalpur,East,Retailer
+408,"Batra, Dhaliwal and Iyer",Jason Shetty,wsaran@example.net,4932745728,Nadiad,West,Manufacturer
+409,"Buch, Kadakia and Choudhry",Yachana Narayan,gsharaf@example.net,+911190393464,Suryapet,West,Manufacturer
+410,Tailor Ltd,Rushil Dara,oeshilad@example.net,0745482498,Miryalaguda,Central,Manufacturer
+411,Basu-Sharma,Rohan Nagarajan,samaksh89@example.com,+918212692627,Bettiah,East,Distributor
+412,Garde-Malhotra,Indali Sha,udarsh77@example.org,+911414727632,Katni,Central,Direct
+413,Chhabra-Nanda,Lucky Lad,baghyawativarkey@example.com,+915237146112,Jorhat,West,Manufacturer
+414,Kapur-Sani,Qushi Mitra,advik15@example.com,03848637466,Kozhikode,South,Manufacturer
+415,Patil Group,Ishanvi Mahajan,sbhandari@example.com,6558977675,Ratlam,North,Manufacturer
+416,Krishna-Mohanty,Samar Balasubramanian,xmallick@example.com,5517138765,Pallavaram,North,Manufacturer
+417,Murty Inc,Gunbir Krishnamurthy,subramanianadvik@example.com,+911361993739,Bhimavaram,West,Manufacturer
+418,Mohan and Sons,Sanya Bhat,rprabhakar@example.net,+912607266809,Khammam,West,Retailer
+419,"Parsa, Pillay and Handa",Ekanta Bath,ekiyadyal@example.com,8601433533,Jalgaon,South,Manufacturer
+420,Devi and Sons,Samar Pandey,znaik@example.org,05218042120,Hazaribagh,Central,Manufacturer
+421,"Atwal, Mital and Wali",Sai Saran,biswaspraneel@example.org,06615115230,Ujjain,South,Distributor
+422,"Swamy, Krishnan and Mitter",Ekaja Chada,trivenikothari@example.com,02971030132,Ahmednagar,Central,Retailer
+423,"Baral, Sengupta and Deo",Eshana Chopra,tankkashish@example.com,+914449899650,Hindupur,South,Distributor
+424,Patil LLC,Logan Mani,dalbir84@example.net,1069189483,Visakhapatnam,Central,Retailer
+425,Memon PLC,Yagnesh Bumb,harinakshi89@example.org,+916899419148,Gorakhpur,South,Distributor
+426,Iyer-Das,Neha Deep,sarkarganga@example.net,07169015997,Berhampur,North,Direct
+427,Sathe-Hayre,Ishwar Bose,kalitaanirudh@example.org,7182153723,Pune,East,Direct
+428,Prasad and Sons,Vasana Vasa,kevinramanathan@example.net,6418893234,Madhyamgram,North,Retailer
+429,"Choudhury, Grover and Srinivas",Niharika Jain,kbaral@example.net,+919364432636,Howrah,North,Retailer
+430,Luthra-Chatterjee,Aryan Wagle,chandrantriveni@example.net,+914902130977,Madanapalle,West,Direct
+431,"Ray, Devi and Hegde",Lipika Mohan,mchaudhary@example.net,1297844045,Baranagar,West,Retailer
+432,Mishra and Sons,Kabir Manda,oguha@example.com,05931041831,Phusro,East,Manufacturer
+433,Buch LLC,Pranit Hans,ganganath@example.org,05885889141,Agartala,East,Distributor
+434,"Brahmbhatt, Thakkar and Oak",Jeevika Aggarwal,znarain@example.com,5628834717,Howrah,North,Retailer
+435,Hari-Gola,Charles Devan,battawridesh@example.org,02156560136,Katihar,Central,Distributor
+436,"Soman, Uppal and Chaudhry",Lipika Ray,gangasamra@example.com,04524960785,Delhi,South,Direct
+437,"Saxena, Narain and Gour",Gaurav Mannan,esuresh@example.org,09696287821,Cuttack,South,Distributor
+438,"Shukla, Dyal and Wali",Dipta Bhargava,tchand@example.com,5094492717,Morbi,West,Direct
+439,"Dani, Kamdar and Gandhi",Saumya Kar,tnatt@example.com,+913466744030,Kurnool,South,Manufacturer
+440,Sagar and Sons,Ekavir Maharaj,ishanisekhon@example.net,+916928217320,Sonipat,North,Distributor
+441,"Bali, Rai and Bhatti",Samesh Bhat,rajtanish@example.net,08327099412,Kozhikode,East,Distributor
+442,Narula-Jhaveri,Avi Dhar,guptaupadhriti@example.com,+913605558959,Madhyamgram,East,Manufacturer
+443,Bava-Sankaran,Rajeshri Tandon,yachana84@example.com,2248689850,Bally,West,Direct
+444,Salvi and Sons,George Gade,jagat76@example.com,00717646272,Machilipatnam,South,Direct
+445,"Borah, Contractor and Bains",Maanav Chokshi,kashvipant@example.org,09756005026,Jhansi,East,Retailer
+446,Krishnamurthy-Saraf,Charita Lalla,fitanborra@example.net,4734861908,Bhimavaram,North,Manufacturer
+447,Warrior PLC,Varsha Mahal,mason69@example.net,+910981979099,Mango,South,Direct
+448,"Manda, Chhabra and Atwal",Siddharth Gole,ravelwarhi@example.net,+913880906201,Aurangabad,East,Retailer
+449,Mital-Goswami,Widisha Kale,jacksonpal@example.net,9967267284,Mahbubnagar,North,Manufacturer
+450,Das Ltd,Hardik Borah,umang57@example.org,+910561146586,Sultan Pur Majra,East,Retailer
+451,"Sami, Kalla and Mitter",Nitara Borde,sramakrishnan@example.org,+917291241618,Madurai,South,Direct
+452,Randhawa Group,Maanav Parikh,trau@example.com,+914741109909,Dharmavaram,West,Manufacturer
+453,"Thaker, Bhat and Kumar",Lekha Krishnamurthy,pavani66@example.com,05560926803,Gorakhpur,North,Direct
+454,Bhagat Inc,Balendra Sani,fchaudhari@example.com,+914916978373,Bhilwara,North,Retailer
+455,"Bora, Parmer and Tata",Pooja Upadhyay,zayyan19@example.com,+916768013756,Pimpri-Chinchwad,South,Direct
+456,Khurana Inc,Gautami Lanka,prasadorinder@example.org,6724468190,Baranagar,East,Retailer
+457,"Dave, Sami and Pingle",Sudiksha Roy,vrinda21@example.net,+914178114390,Amaravati,North,Manufacturer
+458,Chopra-Ahuja,Laban Bhatnagar,vrindaborra@example.com,08970002502,Sikar,West,Retailer
+459,Amble and Sons,Vansha Goel,pantubika@example.com,0612610509,Malegaon,West,Manufacturer
+460,Chand-Sachar,Harshil Bhattacharyya,panturvi@example.net,2312749431,Ongole,East,Manufacturer
+461,Bandi Ltd,Odika Parmer,ikbalbhalla@example.org,05087297332,Hosur,Central,Distributor
+462,Rattan-Manne,Dalaja Dixit,anandgopal@example.org,+915553668634,Ghaziabad,East,Manufacturer
+463,"Shere, Choudhry and Wadhwa",Indali De,adwetaraman@example.com,08353955899,Tirupati,South,Distributor
+464,Ramaswamy Inc,Eta Madan,vanya50@example.net,8463258961,Rajpur Sonarpur,North,Direct
+465,Natt-Varkey,Wridesh Apte,lokerajeshri@example.net,+911164616303,Bilaspur,East,Retailer
+466,Wable Group,Yashvi Bali,bhavyakara@example.net,+911053540684,Amaravati,West,Manufacturer
+467,Halder Inc,Oviya Narayanan,nathan97@example.com,8114598702,Agartala,North,Manufacturer
+468,Kala and Sons,Omisha Pai,karisaksham@example.org,06075658534,Mirzapur,East,Retailer
+469,Rajagopal Group,Samarth Manne,sshere@example.org,4577816164,Nadiad,South,Retailer
+470,Johal-Kapur,Om Sekhon,chaayamore@example.com,6481053189,Ahmednagar,West,Retailer
+471,"Mane, Srinivas and Gade",Oviya Banik,bailqadim@example.com,3439987649,Madanapalle,West,Manufacturer
+472,Mahal-Barad,Adweta Buch,aarush99@example.org,+911412835087,Moradabad,West,Direct
+473,"Patla, Kota and Sampath",Vedant Kakar,ulala@example.net,+910406572512,Purnia,Central,Retailer
+474,Mander-Sama,Jai Bhandari,vnagarajan@example.com,9849549858,Gandhinagar,South,Distributor
+475,Kurian LLC,Kavya Kibe,dhritiperi@example.org,5342739251,Tadipatri,Central,Direct
+476,Shere Inc,Radhika Anand,caleb81@example.net,04877879035,Guwahati,Central,Manufacturer
+477,"Mishra, Dhingra and Choudhry",Ekaja Banik,omaharaj@example.org,02503583583,Gangtok,North,Distributor
+478,Sharma-Pal,Harita Basak,ikbalmenon@example.com,3197408950,Mangalore,North,Retailer
+479,Mody-Parmer,Aarav Manda,agatechakrika@example.org,+913776781928,Bhilwara,Central,Retailer
+480,Agarwal Inc,Vasudha Sridhar,samar31@example.net,08542314491,Khora ,South,Manufacturer
+481,Khosla-Acharya,Karan Lata,dalbir76@example.com,8794618441,Bettiah,Central,Direct
+482,D’Alia Group,Rayaan Gupta,isaiah27@example.net,01183976931,Siwan,North,Retailer
+483,Mangal and Sons,Yasti Pandya,dakshlad@example.net,7622815312,Jhansi,Central,Direct
+484,Kulkarni-Ramesh,Falan Rastogi,pbaria@example.net,07308403783,Raipur,North,Direct
+485,"Vaidya, Deo and Lanka",Abhiram De,nsastry@example.com,8260670256,Bhilai,North,Direct
+486,Hans Group,Zansi Nigam,warda40@example.org,+911309995869,Buxar,South,Direct
+487,"Baral, Sheth and Sharaf",Gopal Bhavsar,hitesh23@example.net,5478657130,Shimoga,West,Distributor
+488,Nagarajan-Sha,Nirja Wadhwa,ojasnigam@example.com,08435823732,Indore,Central,Direct
+489,Patla-Halder,Oviya Mannan,coza@example.com,+915120268064,Kharagpur,East,Distributor
+490,Sundaram-Pall,Warinder Muni,harita03@example.com,+918997108967,Thoothukudi,West,Manufacturer
+491,Palan Group,Udant Devan,advaykala@example.net,07174614107,Kottayam,North,Retailer
+492,Shukla-Gala,Neha Aggarwal,priyasandal@example.net,6689858045,Noida,Central,Distributor
+493,"Purohit, Raja and Bajwa",Abha Sharma,bachittarzachariah@example.net,08135677957,Ahmedabad,North,Direct
+494,Padmanabhan PLC,Urvi Sharma,shankarnikita@example.org,+919318991569,Gopalpur,East,Distributor
+495,Swaminathan Ltd,Ishita Ahuja,nidhi86@example.com,+916126250513,Patiala,Central,Distributor
+496,"Chaudry, Karpe and Mammen",Dominic Venkataraman,vidhi22@example.net,05891334843,Chennai,North,Direct
+497,"Viswanathan, Ravi and Hayer",Vidhi Wagle,abeer43@example.org,04125158074,Naihati,North,Manufacturer
+498,Sahota LLC,Yatin Naik,jaindarpan@example.org,+916900861812,Serampore,West,Retailer
+499,"Gulati, Chacko and Bora",Jalsa Deshmukh,meghanaben@example.com,01375962079,Morbi,South,Direct
+500,"Narang, Ray and Seth",Quincy Borde,gaurangi21@example.com,06655058643,Berhampore,East,Direct
+501,Bose Ltd,Sara Dixit,zinaloak@example.org,+912427562755,Nagercoil,West,Direct
+502,Kara Group,Brinda Dhar,mekhala03@example.com,7160376656,Karawal Nagar,West,Distributor
+503,Kala PLC,Harita Nath,tanveer75@example.org,01788386211,Chandrapur,Central,Retailer
+504,Palan-Wali,Ranveer Dugar,atharvchand@example.net,08504981019,Sasaram,East,Distributor
+505,Gulati-Bhatia,Bhavini Jain,xtara@example.org,3121379315,Bhavnagar,South,Direct
+506,Savant-Sehgal,Chaman Parmar,rwadhwa@example.com,+916314800210,Rajpur Sonarpur,Central,Retailer
+507,Hayer-Chatterjee,Advik Oommen,aarnavrajagopal@example.org,+914743885437,Singrauli,South,Distributor
+508,Shan Ltd,Jacob Lal,nathan73@example.net,+910170197733,Moradabad,North,Manufacturer
+509,Tandon-Baral,Onkar Hegde,khannapushti@example.net,05663969862,Gurgaon,West,Direct
+510,Agarwal-Kurian,Aadi Ghose,rattigirish@example.com,2042087860,Siliguri,Central,Direct
+511,Parsa Ltd,Dalaja Srivastava,edeep@example.com,+919608399103,Hindupur,South,Retailer
+512,Baria PLC,Mason Kota,bailnathan@example.org,1705963391,Mysore,West,Manufacturer
+513,"Sanghvi, Gill and Bassi",Kai Bhagat,megha13@example.net,4250108049,Vellore,South,Manufacturer
+514,"Warrior, Loyal and Peri",Megha Patla,shankarupkaar@example.com,01035584733,Vellore,South,Distributor
+515,Oza Inc,Bhavini Seth,chaturachana@example.net,+910881704738,Kochi,North,Direct
+516,"Mohanty, Karnik and Srinivas",Yauvani Buch,brinda87@example.com,02571676488,Durgapur,Central,Distributor
+517,"Choudhury, Dave and Kapur",Nihal Shetty,basujeevika@example.com,+918337029235,Sri Ganganagar,South,Retailer
+518,Rajagopal Ltd,Wishi Bajwa,bhattacharyyaunni@example.org,06231679865,Tinsukia,North,Distributor
+519,Dara Group,Pallavi Thakur,isura@example.com,+913444430434,Chinsurah,Central,Distributor
+520,Brahmbhatt-Setty,Harrison Varghese,tsekhon@example.org,6632283145,Kochi,West,Distributor
+521,Mander-Shetty,Yashoda Ahuja,dasguptanihal@example.net,09780331941,Tumkur,South,Distributor
+522,Trivedi-Krishnamurthy,Mohini Swaminathan,maxjha@example.org,01367091997,Hajipur,West,Direct
+523,"Walla, Raju and Rau",Rishi Datta,chameli54@example.net,3669443472,Vijayawada,South,Retailer
+524,"Lalla, Nayar and Dugal",Mahika Natarajan,farhan56@example.net,9534740935,Raiganj,North,Retailer
+525,Divan Inc,Frederick Saxena,sanaya65@example.net,+913837672005,Thoothukudi,Central,Manufacturer
+526,"Rama, Sawhney and Nadig",Naveen Ratta,mohantyirya@example.net,+916050577363,Nellore,South,Manufacturer
+527,Chaudhuri-Wable,Priya Lal,oroy@example.net,08569397150,Purnia,Central,Manufacturer
+528,Halder-Ramakrishnan,Udyati Prabhu,sarmabalendra@example.net,+914182736640,Asansol,South,Manufacturer
+529,Parmar Group,Kabir Choudhry,muttidevika@example.org,+914410205091,Ghaziabad,South,Retailer
+530,Gour-Swaminathan,Jasmit Mangat,ronithtandon@example.net,3158884791,Saharanpur,West,Manufacturer
+531,Kala LLC,Anmol Mohan,wakeetalad@example.com,9378902036,Pali,East,Distributor
+532,Bhavsar Inc,Faraj Sant,benjamin90@example.org,+919395244722,Muzaffarpur,Central,Retailer
+533,Ratta Group,Pavani Atwal,amol98@example.org,05846408762,Amaravati,West,Direct
+534,Garde Inc,Arya Raval,yashoda44@example.org,03938705650,Serampore,North,Manufacturer
+535,Ramesh-Oak,Ishaan Chaudhry,tuppal@example.com,5488195197,Muzaffarpur,West,Manufacturer
+536,Hegde LLC,Hamsini Bir,anthonybutala@example.com,5542478539,Adoni,West,Direct
+537,Nadkarni Group,Anusha Gokhale,chadnimrat@example.org,06898521834,Jalna,South,Manufacturer
+538,"Mammen, Sekhon and Chaudhari",Janaki Vora,zjani@example.org,2191391422,Sambalpur,West,Retailer
+539,"Khare, Rau and Uppal",Manya Gola,charviprakash@example.net,01204705069,Kochi,Central,Direct
+540,Deshpande Ltd,Bachittar Thaman,mitalisaran@example.net,1247322282,Silchar,South,Retailer
+541,Srinivas and Sons,Samaksh Suri,ozasamarth@example.org,+913323827013,Gopalpur,East,Retailer
+542,Chacko LLC,Wishi Mangat,zsinha@example.com,+915379146748,Jamshedpur,West,Distributor
+543,"Palla, Gandhi and Sani",Zilmil Sanghvi,siyasunder@example.com,2971133053,Kirari Suleman Nagar,Central,Direct
+544,Kibe-Rau,Krish Raj,kapooraryan@example.org,03407156855,Kollam,West,Retailer
+545,Seshadri Ltd,Upkaar Naidu,zganesh@example.com,8891453459,Dindigul,West,Retailer
+546,"Sama, Bhatti and Contractor",Irya Sawhney,yahvi76@example.org,2970050242,Burhanpur,East,Retailer
+547,Minhas and Sons,Daksha Goda,umanda@example.net,6945623640,Haldia,East,Distributor
+548,"Bala, Mittal and Pandey",Mohini Dixit,loyalmadhav@example.org,07780639843,Kamarhati,West,Manufacturer
+549,"Bala, Ghose and Wason",Henry Grewal,vasana12@example.com,+911549513489,Amaravati,North,Retailer
+550,Talwar-Sarma,Guneet Nagi,bishakha75@example.net,+912351147062,Kollam,North,Manufacturer
+551,"Bansal, Kadakia and Boase",Jonathan Kashyap,manijagat@example.net,+919358481056,Guntur,West,Distributor
+552,Yogi-Ratti,Ranveer Lad,hnatarajan@example.org,3031621557,Mahbubnagar,North,Retailer
+553,Chhabra-Kurian,Xalak Nagar,mitalidugar@example.net,02772137095,Dehri,Central,Retailer
+554,Walla-Nazareth,Megha Zachariah,odikabaria@example.org,03292410465,Mehsana,West,Retailer
+555,Jaggi-Mahal,Amrita Bandi,finn49@example.net,+913724256434,Tiruvottiyur,East,Manufacturer
+556,Sarkar Inc,Inaya Uppal,fminhas@example.com,2695471704,Amaravati,North,Retailer
+557,Patla and Sons,Falak Balan,gokhaleidika@example.net,+916734012470,Machilipatnam,South,Distributor
+558,Mutti and Sons,Jalsa Mitra,umital@example.org,+910345998008,Aurangabad,West,Retailer
+559,Prasad and Sons,Lucky Luthra,oscar94@example.net,01010653635,Tinsukia,Central,Retailer
+560,"Chadha, Nigam and Luthra",Warinder Hayre,bhatiaayushman@example.org,+917976976047,Danapur,West,Retailer
+561,"Kunda, Nadig and Kara",Yamini Pau,finngarg@example.net,03128684139,Lucknow,Central,Manufacturer
+562,"Palla, Gupta and Malhotra",Nimrat Wason,borramadhav@example.net,+916183945661,Bijapur,East,Direct
+563,Kibe-Prabhakar,Ekbal Bath,wpathak@example.com,0605233098,Jamnagar,West,Manufacturer
+564,"Mander, Chaudhari and Master",Praneel Savant,umang24@example.com,0797420875,Kurnool,East,Manufacturer
+565,"Dutt, Jaggi and Sibal",Eesha Sengupta,patildaksha@example.com,+914403800272,Bhubaneswar,East,Direct
+566,"Vig, Raja and Muni",Lila Raju,devancharita@example.com,9567761186,Chittoor,West,Distributor
+567,Sibal-Nagar,Bishakha Sood,zehaan94@example.net,01144075859,New Delhi,West,Manufacturer
+568,Banik-Oak,Anay Subramaniam,sameshdivan@example.org,2081544509,Alwar,South,Manufacturer
+569,Balay-Randhawa,Yachana Amble,tbalakrishnan@example.org,+911560481374,Ballia,East,Direct
+570,Kant-Venkataraman,Omkaar Srinivasan,ekajatailor@example.com,06969074287,Tumkur,North,Retailer
+571,"Bumb, Sawhney and Bahl",Wyatt Chacko,simonamble@example.net,02916062982,Eluru,South,Distributor
+572,Nigam-Borra,Hemal Din,omyabanik@example.net,+910382511622,Mango,East,Direct
+573,Krishnamurthy-Johal,Samesh Solanki,samuelchokshi@example.org,05969730149,Kishanganj,East,Retailer
+574,Batra Ltd,Ayaan Hari,dinjacob@example.org,9304955877,Coimbatore,South,Manufacturer
+575,Ahluwalia PLC,Vasatika Hegde,jeremiahchoudhary@example.com,09829599557,Morena,South,Direct
+576,Seshadri and Sons,Imaran Basu,sibalaishani@example.com,+917994076257,Durg,Central,Retailer
+577,Narang-Karan,Januja Saran,kalakrishna@example.org,08927027625,Buxar,West,Manufacturer
+578,Wali-Shroff,Vaishnavi Sharma,daksh44@example.org,+915476168858,Faridabad,East,Direct
+579,Kala PLC,Rohan Wagle,nisha43@example.net,+910663825644,Ajmer,West,Direct
+580,Kashyap LLC,Ayushman Hayre,arunima61@example.net,+910753859646,Dewas,South,Manufacturer
+581,"Srinivasan, Narasimhan and Nayak",Jagdish Sastry,rudra94@example.org,+916909173649,Bhatpara,South,Retailer
+582,Din Ltd,Avni Anne,urishilla19@example.com,2637712080,Nagaon,Central,Direct
+583,"Srivastava, Dewan and Arora",Isaac Arya,janne@example.com,3767851713,Muzaffarnagar,South,Distributor
+584,Kala PLC,Yashica Sandal,netraaurora@example.org,09344368314,Sambalpur,Central,Distributor
+585,Shankar-Taneja,Zaid Dyal,hemal27@example.org,02673699826,Rewa,North,Distributor
+586,Ghose Inc,Chatura Andra,karanyasti@example.com,1032405267,Kharagpur,North,Direct
+587,Samra-Cherian,Chaitanya Mander,mayadhaliwal@example.org,+910078719816,Bidhannagar,South,Retailer
+588,"Kohli, Dyal and Sant",Amaira Yohannan,logansaraf@example.org,+912457652597,Dewas,North,Retailer
+589,Boase Inc,Gautami Bhatnagar,dominicgolla@example.com,+919486305907,Erode,North,Retailer
+590,Iyer-Sandal,Hitesh Dhillon,chatreshsha@example.org,+918858984244,Haridwar,Central,Direct
+591,Samra LLC,Patrick Gour,jagvi10@example.org,7200068201,Surendranagar Dudhrej,East,Distributor
+592,Patel LLC,Qarin Dua,nisha24@example.net,6842305603,Kirari Suleman Nagar,Central,Direct
+593,Khatri-Parsa,Nakul Bal,uvohra@example.org,+915727214842,Bhusawal,West,Distributor
+594,Doshi-Raju,Ansh Dave,munshifalguni@example.com,03069660758,Yamunanagar,North,Direct
+595,Samra-Acharya,Chaitanya Kale,indrajit81@example.net,+915702140859,Meerut,North,Distributor
+596,Sabharwal-Iyer,Oni Aurora,sacharwazir@example.com,6405896771,Indore,Central,Manufacturer
+597,"Gokhale, Iyengar and Dhillon",Amol Kant,harini74@example.net,01178751910,Hubli–Dharwad,Central,Manufacturer
+598,Sathe and Sons,Warhi Ramakrishnan,patlalaban@example.net,02451496164,Srinagar,North,Direct
+599,Mall-Badami,Saumya Bhasin,xkohli@example.org,+916241941751,Raebareli,South,Distributor
+600,Pai-Dutt,Kashish Raman,ombarkha@example.com,0299792397,Bettiah,North,Retailer

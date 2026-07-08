@@ -1,0 +1,81 @@
+supplier_id,supplier_name,contact_email,phone,city,region,profile,avg_lead_time_days,delay_rate,return_rate,is_active,supplier_tier,high_risk_flag
+1,Tata Steel Supplies,kkumar@example.org,6415476146,Kakinada,Central,poor,16,0.426,0.117,1,Tier 3,1
+2,Mahindra Materials,abahri@example.com,919461511897,Bidhannagar,Central,average,17,0.215,0.057,1,Tier 2,0
+3,Infosys Components,benjamin86@example.com,916014773747,Raebareli,Central,average,16,0.198,0.07,1,Tier 2,0
+4,HDFC Procurement,arorawarhi@example.com,919188838996,Mathura,North,reliable,12,0.051,0.023,1,Tier 1,0
+5,Wipro Supplies,bhattacharyyayug@example.com,196000093,Chinsurah,North,average,12,0.18,0.078,1,Tier 2,0
+6,Reliance Raw Co,umangchakraborty@example.net,4940698698,Tirunelveli,East,average,16,0.209,0.072,1,Tier 2,0
+7,ONGC Industrials,libni85@example.org,7702177910,Gudivada,West,poor,17,0.399,0.123,1,Tier 3,1
+8,Bajaj Components,virajdhillon@example.com,913953355419,Pallavaram,West,poor,16,0.419,0.132,1,Tier 3,1
+9,TVS Logistics,waidaborde@example.net,919276377514,Nanded,West,poor,16,0.391,0.124,1,Tier 3,1
+10,HUL Materials,zkrishnan@example.com,536183312,Madhyamgram,West,reliable,12,0.076,0.018,1,Tier 1,0
+11,ITC Supplies,aachal45@example.org,918643627656,Hapur,Central,reliable,7,0.086,0.028,1,Tier 1,0
+12,Adani Resources,ishanker@example.com,913503912744,Bidar,West,reliable,6,0.032,0.035,1,Tier 1,0
+13,Bharat Forge,vrittipalla@example.org,7533979010,Ambarnath,South,poor,18,0.399,0.111,1,Tier 3,1
+14,Godrej Materials,ymall@example.org,914774419706,Indore,West,poor,17,0.393,0.144,1,Tier 3,1
+15,L&T Components,divyadevi@example.net,5573025455,Bidhannagar,North,reliable,12,0.087,0.036,1,Tier 1,0
+16,Suzlon Parts,anita13@example.com,7713375086,Asansol,South,reliable,12,0.086,0.022,1,Tier 1,0
+17,JSW Supplies,zbhagat@example.org,919711813394,Moradabad,East,reliable,11,0.08,0.049,1,Tier 1,0
+18,Hindalco Metals,ikshitachad@example.org,9202178649,Madhyamgram,South,average,17,0.193,0.065,1,Tier 2,0
+19,SAIL Distributors,viraj65@example.net,2276762764,Davanagere,Central,reliable,7,0.082,0.021,1,Tier 1,0
+20,GAIL Materials,dev93@example.net,9864770628,Jhansi,West,average,15,0.216,0.07,1,Tier 2,0
+21,Motherson Parts,neel43@example.net,6612476975,Karnal,North,reliable,9,0.074,0.043,1,Tier 1,0
+22,Bharat Electronics,shankerbenjamin@example.org,910801284067,Bathinda,Central,average,17,0.212,0.068,1,Tier 2,0
+23,HAL Components,mahika24@example.org,6481208338,Karnal,West,average,15,0.18,0.081,1,Tier 2,0
+24,BEL Supplies,warhitailor@example.com,912525861652,Tumkur,West,average,17,0.216,0.085,1,Tier 2,0
+25,Siemens India,rajagopalanjali@example.com,2210465635,Thane,South,average,16,0.174,0.081,1,Tier 2,0
+26,ABB Components,bakshicharvi@example.org,918471522109,Visakhapatnam,North,average,15,0.205,0.078,1,Tier 2,0
+27,Bosch India Parts,inaya03@example.net,911732068091,Indore,West,poor,22,0.439,0.142,1,Tier 3,1
+28,Honeywell Supplies,yadavmohini@example.org,919745589941,Mau,South,reliable,12,0.088,0.015,1,Tier 1,0
+29,3M India,dbuch@example.com,1246417243,Lucknow,Central,reliable,10,0.082,0.045,1,Tier 1,0
+30,Cummins Components,aryan72@example.org,916843235030,Gangtok,West,average,11,0.192,0.068,1,Tier 2,0
+31,Schneider Parts,perirushil@example.com,9256260990,Muzaffarnagar,South,reliable,11,0.082,0.049,1,Tier 1,0
+32,Emerson India,patlayuvraj@example.org,5601976671,Dehri,North,poor,23,0.427,0.121,1,Tier 3,1
+33,Eaton Components,qgaba@example.org,918788069804,Dharmavaram,Central,reliable,11,0.069,0.044,1,Tier 1,0
+34,Parker Hannifin India,samarth52@example.net,7841765895,Rourkela,Central,average,16,0.217,0.075,1,Tier 2,0
+35,SKF Bearings,morareta@example.org,2074361474,Ongole,West,average,10,0.197,0.059,1,Tier 2,0
+36,Timken India,yochana36@example.net,6591106806,Vijayawada,East,reliable,8,0.075,0.027,1,Tier 1,0
+37,Graco India,dbhagat@example.com,232180118,Jamshedpur,North,poor,17,0.407,0.138,1,Tier 3,1
+38,Atlas Copco Parts,hsodhi@example.com,919870020930,Purnia,North,average,10,0.179,0.052,1,Tier 2,0
+39,Sandvik India,robert07@example.net,913254114271,Danapur,East,average,15,0.186,0.06,1,Tier 2,0
+40,Kennametal India,mahajanyashodhara@example.net,3146426726,Jodhpur,West,poor,18,0.39,0.113,1,Tier 3,1
+41,Dormer Tools,cpatel@example.org,9188731404,Kanpur,West,poor,19,0.41,0.133,1,Tier 3,1
+42,Seco Tools India,wakeeta16@example.org,911178866857,Sambhal,South,poor,23,0.418,0.128,1,Tier 3,1
+43,Iscar India,riaghose@example.com,1549400467,Rohtak,North,average,17,0.214,0.077,1,Tier 2,0
+44,Walter India,ysethi@example.net,917896788607,Gopalpur,South,average,11,0.187,0.064,1,Tier 2,0
+45,Mitsubishi Materials,waliguneet@example.org,911278185309,Nadiad,Central,average,14,0.198,0.067,1,Tier 2,0
+46,Sumitomo India,batratanmayi@example.net,911675815604,Siwan,East,reliable,12,0.081,0.018,1,Tier 1,0
+47,Kyocera India,kalabimala@example.net,6034502124,Ulhasnagar,West,poor,23,0.386,0.125,1,Tier 3,1
+48,Nachi India,wchander@example.com,5578391109,Phagwara,East,average,14,0.22,0.062,1,Tier 2,0
+49,OSG India,tanveer86@example.org,9751618601,Madhyamgram,West,reliable,9,0.03,0.045,1,Tier 1,0
+50,Tungaloy India,amruta31@example.net,910384741865,Nagaon,North,average,17,0.21,0.086,1,Tier 2,0
+51,Mapal India,unnatijain@example.net,6624572835,Aurangabad,South,average,15,0.173,0.058,1,Tier 2,0
+52,Guhring India,jom@example.org,1038949902,Ranchi,East,average,12,0.198,0.086,1,Tier 2,0
+53,YG-1 India,finnedwin@example.com,6139163759,Jamnagar,North,average,14,0.207,0.051,1,Tier 2,0
+54,Korloy India,harrison03@example.org,963868751,Raipur,East,poor,18,0.385,0.122,1,Tier 3,1
+55,Taegutec India,nagarjack@example.org,2560453960,Surendranagar Dudhrej,West,reliable,7,0.042,0.041,1,Tier 1,0
+56,Ingersoll India,kabir07@example.com,916929032476,Raurkela Industrial Township,East,reliable,9,0.08,0.02,1,Tier 1,0
+57,Stellram India,choudhurychaitaly@example.org,8957437913,Begusarai,West,reliable,9,0.075,0.024,1,Tier 1,0
+58,Vardex India,mananbhakta@example.net,7190422759,Bijapur,North,poor,23,0.438,0.116,1,Tier 3,1
+59,Carmex India,hbrahmbhatt@example.org,2563760018,Ambarnath,South,poor,22,0.438,0.142,1,Tier 3,1
+60,Vargus India,kotavamakshi@example.net,3727783211,Kamarhati,East,average,11,0.207,0.051,1,Tier 2,0
+61,Horn India,aggarwalekavir@example.org,5020487319,Bardhaman,Central,average,11,0.187,0.077,1,Tier 2,0
+62,Pramet India,fbasu@example.net,6701244394,Tirupati,East,poor,22,0.429,0.148,1,Tier 3,1
+63,Ceratizit India,vihaandoshi@example.org,914474315146,Panipat,North,reliable,8,0.058,0.035,1,Tier 1,0
+64,Sintercast India,dhaliwalrohan@example.com,3794555725,Khora ,Central,poor,21,0.435,0.119,1,Tier 3,1
+65,Palbit India,chaaya09@example.org,2257615681,Gulbarga,North,reliable,12,0.085,0.022,1,Tier 1,0
+66,Promax India,zaitra67@example.org,7453936351,Cuttack,West,reliable,6,0.038,0.048,1,Tier 1,0
+67,Sherwood India,indalidash@example.com,914992279385,Bardhaman,East,average,17,0.167,0.059,1,Tier 2,0
+68,Omega Supplies,jagvigoda@example.org,913076034623,Gaya,Central,reliable,7,0.053,0.025,1,Tier 1,0
+69,Sigma Materials,hariaarna@example.com,9010740433,Bhatpara,Central,reliable,11,0.065,0.039,1,Tier 1,0
+70,Delta Components,hsodhi@example.org,910087070893,Jammu,West,average,11,0.21,0.075,1,Tier 2,0
+71,Apex Industrials,qsachdev@example.net,5312263792,Bongaigaon,East,reliable,5,0.071,0.019,1,Tier 1,0
+72,Prime Parts,badalhredhaan@example.net,915224187781,Ballia,West,reliable,8,0.081,0.014,1,Tier 1,0
+73,Global Supplies,asur@example.org,917915869416,Adoni,East,reliable,10,0.034,0.021,1,Tier 1,0
+74,National Materials,nidra15@example.com,6581041418,Bhalswa Jahangir Pur,North,reliable,12,0.036,0.018,1,Tier 1,0
+75,United Components,udantkeer@example.org,6989258382,Allahabad,Central,poor,16,0.383,0.123,1,Tier 3,1
+76,Metro Parts,cbhatnagar@example.org,95645866,Hubli–Dharwad,South,average,13,0.164,0.081,1,Tier 2,0
+77,City Supplies,kabirsundaram@example.com,9225987975,Latur,South,average,13,0.209,0.059,1,Tier 2,0
+78,Fast Track Materials,sbhatti@example.com,6193069540,Hajipur,South,poor,16,0.397,0.149,1,Tier 3,1
+79,Swift Components,karansastry@example.org,2643045217,Patiala,South,average,14,0.208,0.054,1,Tier 2,0
+80,Eagle Parts,daurora@example.org,9524325808,Asansol,North,average,12,0.161,0.082,1,Tier 2,0
